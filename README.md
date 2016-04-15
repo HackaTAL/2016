@@ -1,7 +1,7 @@
 # HACKATAL 2016
 ---------------
 
-### (hackathon dans le domaine du TAL)
+** (hackathon dans le domaine du TAL) **
 
 ### TL;DR
 
@@ -25,10 +25,10 @@ La thématique choisie concerne les système de gestion de dialogue pour la rech
 
 ** 1. Détection d’évènements **
 
-* Description *
+*Description*
 Détection d’évènements et/ou de faits saillants dans le domaine du sport à partir de tweets collectés en lien avec l'Euro 2016 (du 10 juin au 10 juillet) et en différentes langues (des données seront disponibles en français, anglais et arabe). L'objectif est de de mettre en place des approches innovantes de détection d’évènements dont les approches et résultats seront discutés lors de l’atelier TALN du 4 juillet 2016. Les évènements extraits peuvent être liés au sport en lui-même (composition d’équipes, résultats de matches, etc.) ou satellites (par ex. scandales, rumeurs, suspicion de triche ou de dopage, insultes).
 
-* Sous tâches *
+*Sous tâches*
 - prétraitements et annotation des tweets (entités, relations, citations, opinions, etc.),
 - classification non-supervisée des tweets (clustering),
 - détection d'évènements,
