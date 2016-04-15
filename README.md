@@ -1,4 +1,4 @@
--> # HACKATAL 2016 <-
+# HACKATAL 2016
 ---------------
 
 **(hackathon dans le domaine du TAL)**
@@ -10,7 +10,7 @@ Thématique : Euro 2016
 Site web : http://hackatal.github.io/2016/  
 Inscription : http://goo.gl/forms/qVHC5KMPn0  
 Dates : 2-3-4 juillet 2016  
-Lieu : Google (8 rue de Londres, Paris 9ème)  
+Lieu : [Google Paris](https://goo.gl/maps/yPgc5XcT5B92) (8 rue de Londres, Paris 9ème)  
 
 ### Description
 
@@ -54,21 +54,21 @@ Un prix sera décerné à l’issue du HackaTAL selon les résultats d’évalua
 
 Cet évènement se tiendra du 2 au 4 juillet 2016 et sera essentiellement tourné vers le traitement des données et l’implémentation de prototypes.
 
-Samedi 2 juillet (Google)
+Samedi 2 juillet (Google, Paris 9ème)
 - 14h-15h : présentation du hackathon, café
 - 15h-17h : échanges, constitution des équipes, précisions sur les objectifs
 - 17h-20h : développements en équipes
 - 20h-21h : pause repas
 - 21h-00h : développements en équipes
 
-Dimanche 3 juillet (Google)
+Dimanche 3 juillet (Google, Paris 9ème)
 - 09h-10h :  accueil, café
 - 10h-12h :  développements en équipes
 - 12h-13h : pause repas
 - 13h-14h : présentation des premiers résultats
 - 14h-19h :  développements en équipes
 
-Lundi 4 juillet (Inalco)
+Lundi 4 juillet (Inalco, Paris 13ème)
 - 14h-17h : présentation des résultats, discussions, prix SYSTRAN
 
 ### Organisation pratique
