@@ -1,7 +1,5 @@
-### Appel à participations
-
 # HACKATAL 2016
-===============
+---------------
 
 ### (hackathon dans le domaine du TAL)
 
