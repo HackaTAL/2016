@@ -7,13 +7,10 @@
 
 Sujet : recherche d’information (détection d’évènements sportifs et gestion de dialogue)  
 Thématique : Euro 2016  
-Dates : 2-3-4 juillet 2016  
-Lieux :  
-> Google, 8 rue de Londres, 75009 Paris (2 et 3 juillet)  
-> Inalco, 65 rue des Grands Moulins, 75013 Paris (4 juillet)  
 Site web : http://hackatal.github.io/2016/  
-BYOD  
 Inscription : http://goo.gl/forms/qVHC5KMPn0  
+Dates : 2-3-4 juillet 2016  
+Lieu : Google (8 rue de Londres, Paris 9ème)  
 
 ### Description
 
