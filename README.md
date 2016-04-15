@@ -5,7 +5,7 @@
 
 ### TL;DR
 
-Sujet : recherche d’information (détection d’évènements sportifs et gestion de dialogue)  
+Sujet : recherche d’information (détection d’évènements sportifs et développement de chatbot)  
 Thématique : Euro 2016  
 Site web : http://hackatal.github.io/2016/  
 Dates : 2-3-4 juillet 2016  
