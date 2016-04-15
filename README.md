@@ -26,9 +26,11 @@ La thématique choisie concerne les système de gestion de dialogue pour la rech
 ** 1. Détection d’évènements **
 
 *Description*
+
 Détection d’évènements et/ou de faits saillants dans le domaine du sport à partir de tweets collectés en lien avec l'Euro 2016 (du 10 juin au 10 juillet) et en différentes langues (des données seront disponibles en français, anglais et arabe). L'objectif est de de mettre en place des approches innovantes de détection d’évènements dont les approches et résultats seront discutés lors de l’atelier TALN du 4 juillet 2016. Les évènements extraits peuvent être liés au sport en lui-même (composition d’équipes, résultats de matches, etc.) ou satellites (par ex. scandales, rumeurs, suspicion de triche ou de dopage, insultes).
 
 *Sous tâches*
+
 - prétraitements et annotation des tweets (entités, relations, citations, opinions, etc.),
 - classification non-supervisée des tweets (clustering),
 - détection d'évènements,
@@ -36,10 +38,12 @@ Détection d’évènements et/ou de faits saillants dans le domaine du sport à
 
 ** 2. Gestion de dialogues **
 
-* Description *
+*Description*
+
 Développer un assistant dialogique répondant à des requêtes en langue naturelle sur le domaine du football et de l’euro 2016. L'objectif est d'implémenter des agents conversationnels simples (chatbots) qui interagissent avec des humains et peuvent déclencher des actions sur la plateforme (obtenir des informations, jouer des vidéos, avertir lors de faits marquants).
 
-* Sous tâches *
+*Sous tâches*
+
 - développement d'interfaces web pour l'interaction,
 - traitements TAL des entrées utilisateurs pour la compréhension (NLU),
 - développement de module de gestion du dialogue (état, interaction, transitions),
