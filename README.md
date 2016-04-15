@@ -1,7 +1,7 @@
 # HACKATAL 2016
 ---------------
 
-** (hackathon dans le domaine du TAL) **
+**(hackathon dans le domaine du TAL)**
 
 ### TL;DR
 
@@ -9,8 +9,8 @@ Sujet : recherche d’information (détection d’évènements sportifs et gesti
 Thématique : Euro 2016  
 Dates : 2-3-4 juillet 2016  
 Lieux :  
-- Google, 8 rue de Londres, 75009 Paris (2 et 3 juillet)  
-- Inalco, 65 rue des Grands Moulins, 75013 Paris (4 juillet)  
+> Google, 8 rue de Londres, 75009 Paris (2 et 3 juillet)  
+> Inalco, 65 rue des Grands Moulins, 75013 Paris (4 juillet)  
 Site web : http://hackatal.github.io/2016/  
 BYOD  
 Inscription : http://goo.gl/forms/qVHC5KMPn0  
@@ -23,7 +23,7 @@ La thématique choisie concerne les système de gestion de dialogue pour la rech
 
 ### Tâches
 
-** 1. Détection d’évènements **
+**1. Détection d’évènements**
 
 *Description*
 
@@ -36,7 +36,7 @@ Détection d’évènements et/ou de faits saillants dans le domaine du sport à
 - détection d'évènements,
 - développement de visualisation des tweets et évènements sous forme de graphes.
 
-** 2. Gestion de dialogues **
+**2. Gestion de dialogues**
 
 *Description*
 
