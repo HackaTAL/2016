@@ -8,9 +8,9 @@
 Sujet : recherche d’information (détection d’évènements sportifs et gestion de dialogue)  
 Thématique : Euro 2016  
 Site web : http://hackatal.github.io/2016/  
-Inscription : http://goo.gl/forms/qVHC5KMPn0  
 Dates : 2-3-4 juillet 2016  
 Lieu : [Google Paris](https://goo.gl/maps/yPgc5XcT5B92) (8 rue de Londres, Paris 9ème)  
+Inscription (gratuite mais obligatoire) : http://goo.gl/forms/qVHC5KMPn0  
 
 ### Description
 
@@ -73,10 +73,10 @@ Lundi 4 juillet (Inalco, Paris 13ème)
 
 ### Organisation pratique
 
-Inscription obligatoire sur :  http://goo.gl/forms/qVHC5KMPn0  
-BYOD : amenez votre ordinateur  
-Aucune contrainte sur les participants : HackaTAL est ouvert à tous !  
-Données et briques logicielless à disposition en ligne : https://github.com/HackaTAL  
+BYOD (amenez votre ordinateur)  
+Pas de critères pour participer, HackaTAL est ouvert à tous !  
+Aucune préparation n'est requise de la part des participants en amont de l'évènement.  
+Données et briques logicielles à disposition en ligne : https://github.com/HackaTAL  
 
 ### Organisateurs
 
