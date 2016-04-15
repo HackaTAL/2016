@@ -1,4 +1,4 @@
-# HACKATAL 2016
+-> # HACKATAL 2016 <-
 ---------------
 
 **(hackathon dans le domaine du TAL)**
