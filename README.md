@@ -76,7 +76,7 @@ Lundi 4 juillet (Inalco, Paris 13ème)
 BYOD (amenez votre ordinateur)  
 Pas de critères pour participer, HackaTAL est ouvert à tous !  
 Aucune préparation n'est requise de la part des participants en amont de l'évènement.  
-Données et briques logicielles à disposition en ligne : https://github.com/HackaTAL  
+Données et briques logicielles à disposition en ligne : https://github.com/HackaTAL/2016  
 
 ### Organisateurs
 
