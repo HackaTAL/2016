@@ -78,7 +78,7 @@ Inscription obligatoire sur :  http://goo.gl/forms/qVHC5KMPn0
 BYOD : amenez votre ordinateur  
 Aucune contrainte sur les participants : HackaTAL est ouvert à tous !  
 Données et briques logicielless à disposition en ligne : https://github.com/HackaTAL  
-
+ 
 ### Organisateurs
 
 - Jasmine Anteunis (Recast)
