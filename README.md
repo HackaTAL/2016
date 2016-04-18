@@ -55,6 +55,7 @@ Un prix sera décerné à l’issue du HackaTAL pour récompenser les approches 
 Cet évènement se tiendra du 2 au 4 juillet 2016 et se focalisera sur le traitement des données et l’implémentation de prototypes.
 
 Samedi 2 juillet (Google, Paris 9ème)
+
 - 14h-15h : présentation du hackathon, café
 - 15h-16h : échanges, constitution des équipes, précisions sur les objectifs
 - 16h-20h : développements en équipes
@@ -62,6 +63,7 @@ Samedi 2 juillet (Google, Paris 9ème)
 - 21h-00h : développements en équipes
 
 Dimanche 3 juillet (Google, Paris 9ème)
+
 - 09h-10h : accueil, café
 - 10h-12h : développements en équipes
 - 12h-13h : pause repas
@@ -69,6 +71,7 @@ Dimanche 3 juillet (Google, Paris 9ème)
 - 14h-19h : développements en équipes
 
 Lundi 4 juillet (Inalco, Paris 13ème)
+
 - 14h-17h : présentation des résultats, discussions, remise de prix
 
 ### Organisation pratique
