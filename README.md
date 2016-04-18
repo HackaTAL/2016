@@ -14,9 +14,9 @@ Inscription (gratuite mais obligatoire) : http://goo.gl/forms/qVHC5KMPn0
 
 ### Description
 
-Dans le cadre de la conférence jointe JEP-TALN-RECITAL 2016 aura lieu la première édition de HackaTAL, un hackathon sur des problématiques liées au TAL. L’objectif est de réunir la communauté autour de données et de briques logicielles pour échanger, expérimenter, prototyper, modéliser, implémenter, développer, tester, évaluer, etc.
+Dans le cadre de la conférence jointe JEP-TALN-RECITAL 2016 aura lieu la première édition de HackaTAL, un hackathon sur des problématiques liées au TAL. L’objectif est de réunir la communauté autour de données et de briques logicielles pour échanger, modéliser, prototyper, coder, implémenter, développer, expérimenter, tester, évaluer... et bien plus encore !
 
-La thématique choisie concerne les système de gestion de dialogue pour la recherche d’information sur des évènements sportifs. La concomitance avec la tenue de l’Euro 2016 apportera une vision pratique et, dans la mesure du possible, rendra envisageable des expériences en quasi-temps-réel.
+Les tâches proposées concernent la détection d'évènement et l'implémentation de système de gestion de dialogue. La thématique retenue est l’Euro 2016 (qui a lieu du 10 juin au 10 juillet), ce qui permettra d'apporter un cas d'application pratique, des données (Twiter et structurées) et pourrait également rendre possibles des expériences en quasi-temps-réel.
 
 ### Tâches
 
@@ -24,27 +24,27 @@ La thématique choisie concerne les système de gestion de dialogue pour la rech
 
 *Description*
 
-Détection d’évènements et/ou de faits saillants dans le domaine du sport à partir de tweets collectés en lien avec l'Euro 2016 (du 10 juin au 10 juillet) et en différentes langues (des données seront disponibles en français, anglais et arabe). L'objectif est de de mettre en place des approches innovantes de détection d’évènements dont les approches et résultats seront discutés lors de l’atelier TALN du 4 juillet 2016. Les évènements extraits peuvent être liés au sport en lui-même (composition d’équipes, résultats de matches, etc.) ou satellites (par ex. scandales, rumeurs, suspicion de triche ou de dopage, insultes).
+Détection d’évènements et/ou de faits saillants liés à la compétition sportive à partir de tweets collectés da,s différentes langues (français, anglais et arabe). L'objectif est de de mettre en place des approches innovantes de détection d’évènements dont les expérimentations et résultats seront discutés lors de l’atelier TALN (le 4 juillet). Les évènements extraits peuvent être liés au sport en lui-même (composition d’équipes, résultats de matches, etc.) ou satellites (scandales, rumeurs, suspicion de triche ou de dopage, insultes).
 
 *Sous tâches*
 
 - prétraitements et annotation des tweets (entités, relations, citations, opinions, etc.),
 - classification non-supervisée des tweets (clustering),
-- détection d'évènements,
-- développement de visualisation des tweets et évènements sous forme de graphes.
+- détection supervisée ou non d'évènements,
+- visualisation graphique des tweets et évènements détectés.
 
 **2. Gestion de dialogues**
 
 *Description*
 
-Développer un assistant dialogique répondant à des requêtes en langue naturelle sur le domaine du football et de l’euro 2016. L'objectif est d'implémenter des agents conversationnels simples (chatbots) qui interagissent avec des humains et peuvent déclencher des actions sur la plateforme (obtenir des informations, jouer des vidéos, avertir lors de faits marquants).
+Développer un assistant dialogique répondant à des requêtes en langue naturelle sur le domaine du football et de l’euro 2016. L'objectif est d'implémenter des agents conversationnels simples (chatbots) qui interagissent avec des humains et peuvent déclencher des actions sur la plateforme (obtenir des informations sur les matches, équipes et joueurs, jouer des vidéos, avertir lors de faits marquants). Ils s'appuieront sur toute base de donnée structurée disponible décrivant la compétition et les évènements qui y sont liés.
 
 *Sous tâches*
 
-- développement d'interfaces web pour l'interaction,
-- traitements TAL des entrées utilisateurs pour la compréhension (NLU),
-- développement de module de gestion du dialogue (état, interaction, transitions),
-- génération de texte.
+- developpement d'interfaces web pour l'interaction,
+- traitements TAL de l'entrée utilisateur avec une visée de compréhension (NLU),
+- implémentation du module de gestion du dialogue (état, interaction, transitions),
+- implémentation du module de génération de texte.
 
 ### Prix SYSTRAN
 
@@ -52,7 +52,7 @@ Un prix sera décerné à l’issue du HackaTAL pour récompenser les approches 
 
 ### Planning prévisionnel
 
-Cet évènement se tiendra du 2 au 4 juillet 2016 et sera essentiellement tourné vers le traitement des données et l’implémentation de prototypes.
+Cet évènement se tiendra du 2 au 4 juillet 2016 et se focalisera sur le traitement des données et l’implémentation de prototypes.
 
 Samedi 2 juillet (Google, Paris 9ème)
 - 14h-15h : présentation du hackathon, café
@@ -62,14 +62,14 @@ Samedi 2 juillet (Google, Paris 9ème)
 - 21h-00h : développements en équipes
 
 Dimanche 3 juillet (Google, Paris 9ème)
-- 09h-10h :  accueil, café
-- 10h-12h :  développements en équipes
+- 09h-10h : accueil, café
+- 10h-12h : développements en équipes
 - 12h-13h : pause repas
 - 13h-14h : présentation des premiers résultats
-- 14h-19h :  développements en équipes
+- 14h-19h : développements en équipes
 
 Lundi 4 juillet (Inalco, Paris 13ème)
-- 14h-17h : présentation des résultats, discussions, prix SYSTRAN
+- 14h-17h : présentation des résultats, discussions, remise de prix
 
 ### Organisation pratique
 
