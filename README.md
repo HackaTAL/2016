@@ -56,8 +56,8 @@ Cet évènement se tiendra du 2 au 4 juillet 2016 et se focalisera sur le traite
 
 Samedi 2 juillet (Google, Paris 9ème)
 - 14h-15h : présentation du hackathon, café
-- 15h-17h : échanges, constitution des équipes, précisions sur les objectifs
-- 17h-20h : développements en équipes
+- 15h-16h : échanges, constitution des équipes, précisions sur les objectifs
+- 16h-20h : développements en équipes
 - 20h-21h : pause repas
 - 21h-00h : développements en équipes
 
