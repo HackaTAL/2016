@@ -48,7 +48,7 @@ Développer un assistant dialogique répondant à des requêtes en langue nature
 
 ### Prix SYSTRAN
 
-Un prix sera décerné à l’issue du HackaTAL selon les résultats d’évaluation obtenu pour la tâche 1 sur la détection d’évènements.
+Un prix sera décerné à l’issue du HackaTAL pour récompenser les approches les plus innovantes et/ou performantes.
 
 ### Planning prévisionnel
 
