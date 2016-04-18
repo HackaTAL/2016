@@ -16,7 +16,7 @@ Inscription (gratuite mais obligatoire) : http://goo.gl/forms/qVHC5KMPn0
 
 Dans le cadre de la conférence jointe JEP-TALN-RECITAL 2016 aura lieu la première édition de HackaTAL, un hackathon sur des problématiques liées au TAL. L’objectif est de réunir la communauté autour de données et de briques logicielles pour échanger, modéliser, prototyper, coder, implémenter, développer, expérimenter, tester, évaluer... et bien plus encore !
 
-Les tâches proposées concernent la détection d'évènement et l'implémentation de système de gestion de dialogue. La thématique retenue est l’Euro 2016 (qui a lieu du 10 juin au 10 juillet), ce qui permettra d'apporter un cas d'application pratique, des données (Twiter et structurées) et pourrait également rendre possibles des expériences en quasi-temps-réel.
+Les tâches proposées concernent la détection d'évènement et l'implémentation de système de gestion de dialogue. La thématique retenue est l’Euro 2016 (qui a lieu du 10 juin au 10 juillet), ce qui permettra d'apporter un cas d'application pratique, des données (Twiter et structurées) et pourrait également rendre possible des expériences en quasi-temps-réel.
 
 ### Tâches
 
