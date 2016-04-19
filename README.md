@@ -24,7 +24,7 @@ Les tâches proposées concernent la détection d'évènement et l'implémentati
 
 *Description*
 
-Détection d’évènements et/ou de faits saillants liés à la compétition sportive à partir de tweets collectés da,s différentes langues (français, anglais et arabe). L'objectif est de de mettre en place des approches innovantes de détection d’évènements dont les expérimentations et résultats seront discutés lors de l’atelier TALN (le 4 juillet). Les évènements extraits peuvent être liés au sport en lui-même (composition d’équipes, résultats de matches, etc.) ou satellites (scandales, rumeurs, suspicion de triche ou de dopage, insultes).
+Détection d’évènements et/ou de faits saillants liés à la compétition sportive à partir de tweets collectés dans différentes langues (français, anglais et arabe). L'objectif est de de mettre en place des approches innovantes de détection d’évènements dont les expérimentations et résultats seront discutés lors de l’atelier TALN (le 4 juillet). Les évènements extraits peuvent être liés au sport en lui-même (composition d’équipes, résultats de matches, etc.) ou satellites (scandales, rumeurs, suspicion de triche ou de dopage, insultes).
 
 *Sous tâches*
 
@@ -79,7 +79,7 @@ Lundi 4 juillet (Inalco, Paris 13ème)
 BYOD (amenez votre ordinateur)  
 Pas de critères pour participer, HackaTAL est ouvert à tous !  
 Aucune préparation n'est requise de la part des participants en amont de l'évènement.  
-Données et briques logicielles à disposition en ligne : https://github.com/HackaTAL/2016  
+Données et logiciels seront mis à disposition : https://github.com/HackaTAL/2016  
 
 ### Organisateurs
 
