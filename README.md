@@ -1,30 +1,30 @@
-![Logo Google](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-google.png)
-![Logo Systran](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-systran.png)
-![Logo Recast](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-recast.png)
-
-![Logo Inalco](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-inalco.png)
-![Logo LIMSI](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-limsi.png)
-![Logo LIPN](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-lipn.png)
-![Logo Vocal Apps](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-vocalapps.png)
-
 # HACKATAL 2016
 ---------------
 
 **(hackathon dans le domaine du TAL)**
 
+![Google](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-google.png)
+![Systran](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-systran.png)
+![Recast](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-recast.png)
+
+![Inalco](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-inalco.png)
+![LIMSI](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-limsi.png)
+![LIPN](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-lipn.png)
+![Vocal Apps](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-vocalapps.png)
+
 ### TL;DR
 
-Sujet : recherche d’information (détection d’évènements sportifs et développement de chatbot)  
+Sujet : recherche d’information (détection d’évènements sportifs et développement de chatbots)  
 Thématique : Euro 2016  
-Site web : http://hackatal.github.io/2016/  
+Site web : http://hackatal.github.io/2016
 Dates : 2-3-4 juillet 2016  
 Lieu : [Google Paris](https://goo.gl/maps/yPgc5XcT5B92) (8 rue de Londres, Paris 9ème)  
 Inscription (gratuite mais obligatoire) : http://goo.gl/forms/qVHC5KMPn0  
-Les pauses repas (samedi soir, dimanche midi) et boissons (bières, pauses cafés, jus, etc) sont fournis
+Les repas (samedi soir, dimanche midi) et boissons (bières, pauses cafés, jus, etc) sont fournis
 
 ### Description
 
-Dans le cadre de la conférence jointe JEP-TALN-RECITAL 2016 aura lieu la première édition de HackaTAL, un hackathon sur des problématiques liées au TAL. L’objectif est de réunir la communauté autour de données et de briques logicielles pour échanger, modéliser, prototyper, coder, implémenter, développer, expérimenter, tester, évaluer... et bien plus encore !
+Dans le cadre de la conférence jointe JEP-TALN-RECITAL 2016, aura lieu la première édition de HackaTAL, un hackathon sur des problématiques liées au TAL. L’objectif est de réunir la communauté autour de données et de briques logicielles pour échanger, modéliser, prototyper, coder, implémenter, développer, expérimenter, tester, évaluer... et bien plus encore !
 
 Les tâches proposées concernent la détection d'évènement et l'implémentation de système de gestion de dialogue. La thématique retenue est l’Euro 2016 (qui a lieu du 10 juin au 10 juillet), ce qui permettra d'apporter un cas d'application pratique, des données (Twiter et structurées) et pourrait également rendre possible des expériences en quasi-temps-réel.
 
@@ -47,7 +47,7 @@ Détection d’évènements et/ou de faits saillants liés à la compétition sp
 
 *Description*
 
-Développer un assistant dialogique répondant à des requêtes en langue naturelle sur le domaine du football et de l’euro 2016. L'objectif est d'implémenter des agents conversationnels simples (chatbots) qui interagissent avec des humains et peuvent déclencher des actions sur la plateforme (obtenir des informations sur les matches, équipes et joueurs, jouer des vidéos, avertir lors de faits marquants). Ils s'appuieront sur toute base de donnée structurée disponible décrivant la compétition et les évènements qui y sont liés.
+Développer un assistant dialogique répondant à des requêtes en langue naturelle sur le domaine du football et de l’euro 2016. L'objectif est d'implémenter des agents conversationnels simples (chatbots) qui interagissent avec des humains et peuvent déclencher des actions sur la plateforme (obtenir des informations sur les matches, équipes et joueurs, jouer des vidéos, avertir lors de faits marquants). Ils pourront s'appuyer sur toute base de donnée structurée disponible décrivant la compétition et les évènements qui y sont liés.
 
 *Sous tâches*
 
@@ -67,8 +67,9 @@ Cet évènement se tiendra du 2 au 4 juillet 2016 et se focalisera sur le traite
 Samedi 2 juillet (Google, Paris 9ème)
 
 - 14h-15h : présentation du hackathon, café
-- 15h-16h : échanges, constitution des équipes, précisions sur les objectifs
-- 16h-20h : développements en équipes
+- 15h-16h : précisions sur les objectifs, échanges, constitution d'équipes
+- 16h-19h : développements en équipes
+- 19h-20h : présentations de technologies et outils
 - 20h-21h : pause repas
 - 21h-00h : développements en équipes
 
@@ -99,7 +100,10 @@ Données et logiciels seront mis à disposition : https://github.com/HackaTAL/20
 - Djamel Mostefa (Systran)
 - Damien Nouvel (ERTIM)
 - Alexander Pak (Google)
+- Amandine Périnet (Google)
 - Hicham Tahiri (Vocal Apps)
 - Nadi Tomeh (LIPN)
 - Guillaume Wisniewski (LIMSI)
 
+![Cap Digital](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-capdigital.png)
+Cap Digital est partenaire de l'évènement.
