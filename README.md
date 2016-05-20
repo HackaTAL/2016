@@ -3,9 +3,9 @@
 
 **(hackathon dans le domaine du TAL)**
 
-![Google](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-google.png)
+![Google](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-google.png =x20)
 ![Systran](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-systran.png)
-![Recast](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-recast.svg)
+![Recast](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-recast.png)
 ![Vocal Apps](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-vocalapps.png)
 
 ![Inalco](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-inalco.png)
