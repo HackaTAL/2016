@@ -3,14 +3,14 @@
 
 **(hackathon dans le domaine du TAL)**
 
-![Google](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-google.png =x20)
-![Systran](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-systran.png)
-![Recast](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-recast.png)
-![Vocal Apps](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-vocalapps.png)
+![Logo Google](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-google.png)
+![Logo Systran](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-systran.png)
+![Logo Recast](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-recast.png)
+![Logo Vocal Apps](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-vocalapps.png)
 
-![Inalco](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-inalco.png)
-![LIMSI](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-limsi.png)
-![LIPN](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-lipn.png)
+![Logo Inalco](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-inalco.png)
+![Logo LIMSI](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-limsi.png)
+![Logo LIPN](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-lipn.png)
 
 ### TL;DR
 
