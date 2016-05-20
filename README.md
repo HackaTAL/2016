@@ -6,11 +6,11 @@
 ![Logo Google](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-google.png)
 ![Logo Systran](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-systran.png)
 ![Logo Recast](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-recast.png)
-![Logo Vocal Apps](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-vocalapps.png)
 
 ![Logo Inalco](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-inalco.png)
 ![Logo LIMSI](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-limsi.png)
 ![Logo LIPN](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-lipn.png)
+![Logo Vocal Apps](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-vocalapps.png)
 
 ### TL;DR
 
@@ -20,6 +20,7 @@ Site web : http://hackatal.github.io/2016/
 Dates : 2-3-4 juillet 2016  
 Lieu : [Google Paris](https://goo.gl/maps/yPgc5XcT5B92) (8 rue de Londres, Paris 9ème)  
 Inscription (gratuite mais obligatoire) : http://goo.gl/forms/qVHC5KMPn0  
+Les pauses repas (samedi soir, dimanche midi) et boissons (bières, pauses cafés, jus, etc) sont fournis
 
 ### Description
 
