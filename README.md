@@ -1,8 +1,3 @@
-# HACKATAL 2016
----------------
-
-**(hackathon dans le domaine du TAL)**
-
 ![Logo Google](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-google.png)
 ![Logo Systran](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-systran.png)
 ![Logo Recast](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-recast.png)
@@ -11,6 +6,11 @@
 ![Logo LIMSI](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-limsi.png)
 ![Logo LIPN](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-lipn.png)
 ![Logo Vocal Apps](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-vocalapps.png)
+
+# HACKATAL 2016
+---------------
+
+**(hackathon dans le domaine du TAL)**
 
 ### TL;DR
 
