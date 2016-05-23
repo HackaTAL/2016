@@ -3,7 +3,7 @@
 
 **(hackathon dans le domaine du TAL)**
 
-![Google](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-google.png)
+[![Google](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-google.png)](http://www.google.fr)
 ![Systran](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-systran.png)
 ![Recast](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-recast.png)
 
@@ -101,6 +101,7 @@ Données et logiciels seront mis à disposition : https://github.com/HackaTAL/20
 - Damien Nouvel (ERTIM)
 - Alexander Pak (Google)
 - Amandine Périnet (Google)
+- Paul Renvoise (Recast)
 - Hicham Tahiri (Vocal Apps)
 - Nadi Tomeh (LIPN)
 - Guillaume Wisniewski (LIMSI)
