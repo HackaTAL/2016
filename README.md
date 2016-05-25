@@ -20,7 +20,7 @@ Site web : http://hackatal.github.io/2016
 Dates : 2-3-4 juillet 2016  
 Lieu : [Google Paris](https://goo.gl/maps/yPgc5XcT5B92) (8 rue de Londres, Paris 9ème)  
 Inscription (gratuite mais obligatoire) : http://goo.gl/forms/qVHC5KMPn0  
-Les repas (samedi soir, dimanche midi) et boissons (bières, pauses cafés, jus, etc) sont fournis
+Repas (samedi soir, dimanche midi) et boissons (bières, pauses cafés, jus, etc) fournis
 
 ### Description
 
@@ -90,7 +90,8 @@ Lundi 4 juillet (Inalco, Paris 13ème)
 BYOD (amenez votre ordinateur)  
 Pas de critères pour participer, HackaTAL est ouvert à tous !  
 Aucune préparation n'est requise de la part des participants en amont de l'évènement.  
-Données et logiciels seront mis à disposition : https://github.com/HackaTAL/2016  
+Données et logiciels seront mis à disposition sur https://github.com/HackaTAL/2016  
+Nourritures et boissons sont gracieusement offerts par nos hôtes - merci Google !!  
 
 ### Organisateurs
 
@@ -106,5 +107,5 @@ Données et logiciels seront mis à disposition : https://github.com/HackaTAL/20
 - Nadi Tomeh (LIPN)
 - Guillaume Wisniewski (LIMSI)
 
-![Cap Digital](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-capdigital.png)
+[![Cap Digital](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-capdigital.png)](http://www.capdigital.com)
 Cap Digital est partenaire de l'évènement.
