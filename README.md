@@ -51,7 +51,7 @@ Développer un assistant dialogique répondant à des requêtes en langue nature
 
 *Sous tâches*
 
-- developpement d'interfaces web pour l'interaction,
+- développement d'interfaces web pour l'interaction,
 - traitements TAL de l'entrée utilisateur avec une visée de compréhension (NLU),
 - implémentation du module de gestion du dialogue (état, interaction, transitions),
 - implémentation du module de génération de texte.
