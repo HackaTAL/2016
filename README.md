@@ -26,7 +26,7 @@ Repas (samedi soir, dimanche midi) et boissons (bières, pauses cafés, jus, etc
 
 Dans le cadre de la conférence jointe JEP-TALN-RECITAL 2016, aura lieu la première édition de HackaTAL, un hackathon sur des problématiques liées au TAL. L’objectif est de réunir la communauté autour de données et de briques logicielles pour échanger, modéliser, prototyper, coder, implémenter, développer, expérimenter, tester, évaluer... et bien plus encore !
 
-Les tâches proposées concernent la détection d'évènement et l'implémentation de système de gestion de dialogue. La thématique retenue est l’Euro 2016 (qui a lieu du 10 juin au 10 juillet), ce qui permettra d'apporter un cas d'application pratique, des données (Twiter et structurées) et pourrait également rendre possible des expériences en quasi-temps-réel.
+Les tâches proposées concernent la détection d'évènement et l'implémentation de système de gestion de dialogue. La thématique retenue est l’Euro 2016 (qui a lieu du 10 juin au 10 juillet), ce qui permettra d'apporter un cas d'application pratique, des données (tweets et données structurées) et pourrait également rendre possible des expériences en quasi-temps-réel.
 
 ### Tâches
 
@@ -91,7 +91,7 @@ BYOD (amenez votre ordinateur)
 Pas de critères pour participer, HackaTAL est ouvert à tous !  
 Aucune préparation n'est requise de la part des participants en amont de l'évènement.  
 Données et logiciels seront mis à disposition sur https://github.com/HackaTAL/2016  
-Nourritures et boissons sont gracieusement offerts par nos hôtes - merci Google !!  
+Nourritures et boissons gracieusement offerts par nos hôtes - merci Google !  
 
 ### Organisateurs
 
@@ -108,4 +108,4 @@ Nourritures et boissons sont gracieusement offerts par nos hôtes - merci Google
 - Guillaume Wisniewski (LIMSI)
 
 [![Cap Digital](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-capdigital.png)](http://www.capdigital.com)
-Cap Digital est partenaire de l'évènement.
+Cap Digital est partenaire de l'évènement
