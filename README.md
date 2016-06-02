@@ -101,7 +101,7 @@ Nourritures et boissons gracieusement offerts par nos hôtes - merci Google !
 - Djamel Mostefa (Systran)
 - Damien Nouvel (ERTIM)
 - Alexander Pak (Google)
-- Amandine Périnet (Google)
+- Amandine Périnet (Adecco for Google)
 - Paul Renvoise (Recast)
 - Hicham Tahiri (Vocal Apps)
 - Nadi Tomeh (LIPN)
