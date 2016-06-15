@@ -69,7 +69,7 @@ Samedi 2 juillet ([Google Paris, 8 rue de Londres, Paris 9ème](https://goo.gl/m
 - 14h-15h : présentation du hackathon, café
 - 15h-16h : précisions sur les objectifs, échanges, constitution d'équipes
 - 16h-19h : développements en équipes
-- 19h-20h : session de présentations scientifiques et technologiques
+- 19h-20h : présentations scientifiques et technologiques
 - 20h-21h : pause repas
 - 21h-00h : développements en équipes
 
