@@ -16,3 +16,8 @@ Ligne de commande (qui utilise football-data) pour décrire les compétitions de
 - Fork du projet adapté pour l'Euro 2016 https://github.com/eldams/soccer-cli
 - Quelques exemples de requêtes dans le script `getscores.sh`
 
+## Autres services disponibles
+
+Un guide ici : http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/
+
+
