@@ -18,7 +18,7 @@ Sujet : recherche d’information (détection d’évènements sportifs et déve
 Thématique : Euro 2016  
 Site web : http://hackatal.github.io/2016
 Dates : 2-3-4 juillet 2016  
-Lieu : [Google Paris](https://goo.gl/maps/yPgc5XcT5B92) (8 rue de Londres, Paris 9ème)  
+Lieu : [Google Paris, 8 rue de Londres, Paris 9ème](https://goo.gl/maps/yPgc5XcT5B92)
 Inscription (gratuite mais obligatoire) : http://goo.gl/forms/qVHC5KMPn0  
 Repas (samedi soir, dimanche midi) et boissons (bières, pauses cafés, jus, etc) fournis
 
@@ -64,16 +64,16 @@ Un prix sera décerné à l’issue du HackaTAL pour récompenser les approches 
 
 Cet évènement se tiendra du 2 au 4 juillet 2016 et se focalisera sur le traitement des données et l’implémentation de prototypes.
 
-Samedi 2 juillet (Google, Paris 9ème)
+Samedi 2 juillet ([Google Paris, 8 rue de Londres, Paris 9ème](https://goo.gl/maps/yPgc5XcT5B92))
 
 - 14h-15h : présentation du hackathon, café
 - 15h-16h : précisions sur les objectifs, échanges, constitution d'équipes
 - 16h-19h : développements en équipes
-- 19h-20h : présentations de technologies et outils
+- 19h-20h : session de présentations scientifiques et technologiques
 - 20h-21h : pause repas
 - 21h-00h : développements en équipes
 
-Dimanche 3 juillet (Google, Paris 9ème)
+Dimanche 3 juillet ([Google Paris, 8 rue de Londres, Paris 9ème](https://goo.gl/maps/yPgc5XcT5B92))
 
 - 09h-10h : accueil, café
 - 10h-12h : développements en équipes
@@ -81,7 +81,7 @@ Dimanche 3 juillet (Google, Paris 9ème)
 - 13h-14h : présentation des premiers résultats
 - 14h-19h : développements en équipes
 
-Lundi 4 juillet (Inalco, Paris 13ème)
+Lundi 4 juillet ([Inalco, 65 rue des granfs moulins, Paris 13ème](https://goo.gl/maps/rZd6MBx5tR32) salle 5.18)
 
 - 14h-17h : présentation des résultats, discussions, remise de prix
 
