@@ -1,5 +1,7 @@
 ![HACKATAL 2016](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/hackatal2016.jpg)
 
+# HACKATAL 2016
+---------------
 **(hackathon dans le domaine du TAL)**
 
 [![Google](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-google.png)](http://www.google.fr)
