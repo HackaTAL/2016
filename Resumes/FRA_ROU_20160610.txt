@@ -1,0 +1,22 @@
+URL http://www.tf1.fr/dossier/france-roumanie-euro-2016
+LOC Stade de France, Saint-Denis
+POSS 0.59 0.41
+GOALS (Stancu,ROU,65) (Giroud,FRA,57) (Payet,FRA,89)
+EVTS
+4 T Stancu
+9 T Griezmann
+9 T Giroud
+13 T Griezmann
+32 CJ Chiriches
+36 T Griezmann
+45+1 T Giroud
+48 T Stancu
+52 T Giroud
+57 B Giroud
+63 P FRA
+64 B Stancu
+68 CJ Giroud
+80 T Hoban
+81 T Martial
+88 B Payet
+SUMMARY Sous pression et un peu crispés par l'enjeu, les Français ont eu du mal à entrer dans le match. Après une grosse occasion roumaine sauvée d'entrée par Lloris, les Bleus ont touché le poteau par Griezmann mais ont finalement rejoint les vestiaires sur un score vierge après une domination stérile. C'est finalement Olivier Giroud qui a délivré la France de la tête à la 59eme à la réception d'un magnifique centre de Payet. Mais six minutes plus tard, Patrice Evra, en heurtant Stanciu dans la surface, provoquait un pénalty. Pris à contre-pied sur la frappe de Stancu, Lloris ne pouvait rien faire (1-1, 65eme). Les deux équipes se dirigeaient alors vers un match nul... jusqu'à l'exploit de Dimitri Payet. D'une magnifique frappe enroulée du gauche, le joueur de West Ham trouvait la lucarne pour offrir la victoire aux Bleus (2-1, 89eme). Des Bleus quelque peu inhibés mais parfaitement lancés dans cet Euro au terme de ce match d'ouverture. Prochain rendez-vous pour Lloris et ses coéquipiers, mercredi à Marseille face à l'Albanie (21h). Trois heures avant, la Roumanie affrontera la Suisse au Parc des Princes.
