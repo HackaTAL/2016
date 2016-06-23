@@ -13,4 +13,11 @@ On résume un match avec les champs suivants
 	- `min CJ joueur` : carton jaune pour un joueur
 	- `min CR joueur` : carton rouge pour un joueur
 	- `min P pays` : penalty pour un pays (celui qui commet la faute)
+	- `min C joueur1 joueur2` : changement de joueurs (joueur sortant et joueur entrant)
+	- `min DP1 pays1 pays2` : début de la première période du match entre les deux pays indiqués
+	- `min FP1 score` : fin de la première période et score
+	- `min DP2` : début de la deuxième période
+	- `min FP2 score` : fin de la deuxième période et score
+	- `min DPR` : début de prolongation
+	- `min FPR` : fin de prolongation
 - `SUMMARY` résumé textuel du match
