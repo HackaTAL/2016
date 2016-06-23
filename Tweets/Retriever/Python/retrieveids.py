@@ -23,7 +23,7 @@ tweetBulks.append(tweetIds)
 print '--- Ids in list:', nb
 
 # Open output file
-out = open(sys.argv[2], 'w')
+outfile = open(sys.argv[2], 'w')
 
 # Loop to retrieve tweets via API
 nb = 0
@@ -40,7 +40,7 @@ for tweetBulk in tweetBulks:
 				print '--- Excluding retweet', tweet['id_str']
 			else:
 				print '--- Output', tweet['id_str']
-				json.dump(tweet, out)
+				json.dump(tweet, outfile)
 				nb += 1
 		print '--- Retrieved:', nb
 	except twython.TwythonRateLimitError as error:

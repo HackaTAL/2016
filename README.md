@@ -61,6 +61,8 @@ Développer un assistant dialogique répondant à des requêtes en langue nature
 
 Un prix sera décerné à l’issue du HackaTAL pour récompenser les approches les plus innovantes et/ou performantes.
 
+Systran offrira au gagnat un voyage pour deux à San Diego, vols et nuits hôtels pour 1 semaine (conditions et dates à définir) !
+
 ### Planning prévisionnel
 
 Cet évènement se tiendra du 2 au 4 juillet 2016 et se focalisera sur le traitement des données et l’implémentation de prototypes.
