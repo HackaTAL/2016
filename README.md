@@ -67,6 +67,8 @@ Systran offrira au gagnat un voyage pour deux à San Diego, vols et nuits hôtel
 
 Cet évènement se tiendra du 2 au 4 juillet 2016 et se focalisera sur le traitement des données et l’implémentation de prototypes.
 
+**Attention** Pour des questions de logistique et de sécurité, merci de vous présenter chez Google préférentiellement aux horaires suivants : le samedi à 14h, à 16h ou à 19h et dimanche à 9h, 12h ou 15h.
+
 Samedi 2 juillet ([Google Paris, 8 rue de Londres, Paris 9ème](https://goo.gl/maps/yPgc5XcT5B92))
 
 - 14h-15h : présentation du hackathon, café
