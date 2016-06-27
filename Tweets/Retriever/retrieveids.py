@@ -1,7 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import twython, time, sys, json
+import twython, time, sys, json, argparse
+
+aparser = argparse.ArgumentParser(description='Retrieve media tweets as list of IDs')
+aparser.add_argument('-i', '--ids', help='File containing IDs (one per line)', required=True)
+aparser.add_argument('-o', '--outfile', help='Output file', required=True)
+args = aparser.parse_args()
 
 # Connect to Twitter
 from config import *
@@ -12,7 +17,7 @@ twitter = twython.Twython(APP_KEY, APP_SECRET, OAUTH_TOKEN, OAUTH_TOKEN_SECRET)
 nb = 0
 tweetBulks = []
 tweetIds = []
-for tweetId in open(sys.argv[1]):
+for tweetId in open(args.ids):
 	tweetId = tweetId.strip()
 	nb += 1
 	tweetIds.append(tweetId)
@@ -23,7 +28,7 @@ tweetBulks.append(tweetIds)
 print '--- Ids in list:', nb
 
 # Open output file
-outfile = open(sys.argv[2], 'w')
+outfile = open(args.outfile, 'w')
 
 # Loop to retrieve tweets via API
 nb = 0
@@ -41,6 +46,7 @@ for tweetBulk in tweetBulks:
 			else:
 				print '--- Output', tweet['id_str']
 				json.dump(tweet, outfile)
+				outfile.write('\n')
 				nb += 1
 		print '--- Retrieved:', nb
 	except twython.TwythonRateLimitError as error:
