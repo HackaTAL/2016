@@ -47,7 +47,7 @@ Détection d’évènements et/ou de faits saillants liés à la compétition sp
 *Données*
 
 - [Tweets fournis pas Systran sur l'Euro 2016](http://helium.lab.parisdescartes.fr:2232/tweets/train_euro2016/)
-- [README](http://helium.lab.parisdescartes.fr:2232/tweets/train_euro2016/README.txt/)
+- [README](http://helium.lab.parisdescartes.fr:2232/tweets/train_euro2016/README.txt)
 
 **2. Gestion de dialogues**
 
