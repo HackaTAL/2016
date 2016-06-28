@@ -44,6 +44,11 @@ Détection d’évènements et/ou de faits saillants liés à la compétition sp
 - détection supervisée ou non d'évènements,
 - visualisation graphique des tweets et évènements détectés.
 
+*Données*
+
+- ([Tweets fournis pas Systran sur l'Euro 2016](http://helium.lab.parisdescartes.fr:2232/tweets/train_euro2016/))
+- ([README](http://helium.lab.parisdescartes.fr:2232/tweets/train_euro2016/README.txt/))
+
 **2. Gestion de dialogues**
 
 *Description*
@@ -56,6 +61,11 @@ Développer un assistant dialogique répondant à des requêtes en langue nature
 - traitements TAL de l'entrée utilisateur avec une visée de compréhension (NLU),
 - implémentation du module de gestion du dialogue (état, interaction, transitions),
 - implémentation du module de génération de texte.
+
+*Ébauche de système*
+
+- [Interface web simple en JS (chat et chargeuur d'images/video)](bot-slack)
+- [Architecture de base pour faire un bot Slack avec Node.js](bot-web-chat)
 
 ### Prix SYSTRAN
 
