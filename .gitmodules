@@ -1,6 +1,6 @@
 [submodule "Bots/bot-web-chat"]
-	path = Bots/bot-web-chat
+	path = ChatBots/bot-web-chat
 	url = https://github.com/HackaTAL/bot-web-chat
 [submodule "Bots/bot-slack"]
-	path = Bots/bot-slack
+	path = ChatBots/bot-slack
 	url = https://github.com/HackaTAL/bot-slack

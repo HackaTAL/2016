@@ -77,28 +77,37 @@ Systran offrira au gagnat un voyage pour deux à San Diego, vols et nuits hôtel
 
 Cet évènement se tiendra du 2 au 4 juillet 2016, chez Google et à l'Inalco.
 
-**Attention** Pour des questions de logistique et de sécurité, merci de vous présenter chez Google préférentiellement aux horaires suivants : le samedi à 14h, à 16h ou à 19h et dimanche à 9h, 12h ou 15h.
+**Attention** Pour des questions de logistique et de sécurité, merci de vous présenter chez Google préférentiellement aux horaires suivants : le samedi à 14h, à 18h et dimanche à 9h, 12h ou 15h.
 
 Samedi 2 juillet ([Google Paris, 8 rue de Londres, Paris 9ème](https://goo.gl/maps/yPgc5XcT5B92))
 
-- 14h-15h : présentation du hackathon, café
-- 15h-16h : précisions sur les objectifs, échanges, constitution d'équipes
-- 16h-19h : développements en équipes
+- 14h-14h30 : accueil, café
+- 14h30-15h : présentations du hackathon : tâches, objectifs
+- 15h-19h : développements en équipes
 - 19h-20h : présentations scientifiques et technologiques
+  - Linguist @ Google (Jana Strnadová)
+  - Systran (Djamel Mostefa)
+  - Recast.ai (Jasmine Anteunis, Paul Renvoise)
+  - Vocal Apps (Hicham Tahiri)
 - 20h-21h : pause repas
-- 21h-00h : développements en équipes
+- 21h-21h30 : présentation des équipes constituées
+- 21h30-23h : développements en équipes
 
 Dimanche 3 juillet ([Google Paris, 8 rue de Londres, Paris 9ème](https://goo.gl/maps/yPgc5XcT5B92))
 
 - 09h-10h : accueil, café
 - 10h-12h : développements en équipes
 - 12h-13h : pause repas
-- 13h-14h : présentation des premiers résultats
+- 13h-14h : équipes définitives, présentation des premiers résultats
 - 14h-19h : développements en équipes
 
 Lundi 4 juillet ([Inalco, 65 rue des granfs moulins, Paris 13ème](https://goo.gl/maps/rZd6MBx5tR32) salle 5.18)
 
-- 14h-17h : présentation des résultats, discussions, remise de prix
+- 13h30 : inscription et accueil
+- 14h-14h30 : bilan du hackathon
+- 14h30-16h : présentation des résultats par équipes
+- 16h-16h30 : vote électronique, pause café
+- 16h30-17h : remise de prix et clôture
 
 ### Organisation pratique
 
