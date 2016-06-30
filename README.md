@@ -64,8 +64,8 @@ Développer un assistant dialogique répondant à des requêtes en langue nature
 
 *Ébauche de système*
 
-- [Interface web simple en JS (chat et chargeur d'images/video)](http://github.com/HackaTAL/2016/ChatBots/bot-slack)
-- [Architecture de base pour faire un bot Slack avec Node.js](http://github.com/HackaTAL/2016/ChatBots/bot-web-chat)
+- [Interface web simple en JS (chat et chargeur d'images/video)](https://github.com/HackaTAL/bot-slack)
+- [Architecture de base pour faire un bot Slack avec Node.js](https://github.com/HackaTAL/bot-web-chat)
 
 ### Prix SYSTRAN
 
