@@ -85,9 +85,8 @@ Samedi 2 juillet ([Google Paris, 8 rue de Londres, Paris 9ème](https://goo.gl/m
 - 14h30-15h : présentations du hackathon : tâches et objectifs
   - Introduction générale (Damien)
   - Accueil Google (Alex)
-  - Tâches, données, outils
-    - Détection d’évènements (Djamel, Nadi)
-    - Gestion de dialogues (Guillaume, Paul, Hicham)
+  - Tâches, données et outils pour la détection d’évènements (Djamel, Nadi)
+  - Tâches, données et outils pour la gestion de dialogues (Guillaume, Paul, Hicham)
 - 15h-19h : développements en équipes
 - 19h-20h : présentations scientifiques et technologiques
   - Linguist @ Google (Jana Strnadová)
