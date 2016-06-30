@@ -64,8 +64,8 @@ Développer un assistant dialogique répondant à des requêtes en langue nature
 
 *Ébauche de système*
 
-- [Interface web simple en JS (chat et chargeuur d'images/video)](bot-slack)
-- [Architecture de base pour faire un bot Slack avec Node.js](bot-web-chat)
+- [Interface web simple en JS (chat et chargeur d'images/video)](ChatBots/bot-slack)
+- [Architecture de base pour faire un bot Slack avec Node.js](ChatBots/bot-web-chat)
 
 ### Prix SYSTRAN
 
