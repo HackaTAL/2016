@@ -82,13 +82,18 @@ Cet évènement se tiendra du 2 au 4 juillet 2016, chez Google et à l'Inalco.
 Samedi 2 juillet ([Google Paris, 8 rue de Londres, Paris 9ème](https://goo.gl/maps/yPgc5XcT5B92))
 
 - 14h-14h30 : accueil, café
-- 14h30-15h : présentations du hackathon : tâches, objectifs
+- 14h30-15h : présentations du hackathon : tâches et objectifs
+  - Introduction générale (Damien)
+  - Accueil Google (Alex)
+  - Tâches, données, outils
+    - Détection d’évènements (Djamel, Nadi)
+    - Gestion de dialogues (Guillaume, Paul, Hicham)
 - 15h-19h : développements en équipes
 - 19h-20h : présentations scientifiques et technologiques
   - Linguist @ Google (Jana Strnadová)
-  - Systran (Djamel Mostefa)
-  - Recast.ai (Jasmine Anteunis, Paul Renvoise)
-  - Vocal Apps (Hicham Tahiri)
+  - Systran (Djamel)
+  - Recast.ai (Jasmine, Paul)
+  - Vocal Apps (Hicham)
 - 20h-21h : pause repas
 - 21h-21h30 : présentation des équipes constituées
 - 21h30-23h : développements en équipes
