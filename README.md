@@ -5,7 +5,7 @@
 **(hackathon dans le domaine du TAL)**
 
 [![Google](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-google.png)](http://www.google.fr)
-[![SYSTRAN](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-SYSTRAN.png)](http://www.SYSTRAN.fr)
+[![SYSTRAN](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-systran.png)](http://www.systran.fr)
 [![Recast.ai](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-recast.png)](http://www.recast.ai)
 
 [![Inalco](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-inalco.png)](http://www.inalco.fr)
