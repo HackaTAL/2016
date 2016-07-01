@@ -5,12 +5,19 @@
 
 ### Téléchargement des matchs
 
-Les tweets ont été sélectionnés par Systran en utilisant de l'API (streaming). Nous les avons stockés sur un [serveur accessible avec un navigateur](http://helium.lab.parisdescartes.fr:2232/tweets/train_euro2016/), ils peuvent être téléchargés automatiquement grâce au script `downloadmatchs.sh` (qui vous créera l'arborescence dans votre git).
+Les tweets ont été sélectionnés par Systran en utilisant de l'API (streaming). Nous les avons stockés sur un [serveur accessible avec un navigateur](http://helium.lab.parisdescartes.fr:2232/tweets/train_euro2016/).
 
-### Extraction des textes
+Ils peuvent être téléchargés automatiquement grâce au script `downloadmatchs.sh` (qui vous créera l'arborescence dans votre git). Vous aurez besoin de `jq`
 
+```
+sudo apt-get install jq
+./downloadmatchs.sh
+```
 
-
+Vous obtiendrez pour chaque groupe et match de l'entraînement (première journée de l'Euro)
+- fichiers JSON
+- IDs des tweets
+- texte brut des tweets
 
 ## Scripts de récupération de Tweets
 
