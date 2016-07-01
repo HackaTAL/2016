@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+# APIs
+gem 'RecastAI', require: 'recastai'
+gem 'slack-ruby-client'
+gem 'faye-websocket'
+gem 'httparty'
+
+# Debug
+gem 'awesome_print'
