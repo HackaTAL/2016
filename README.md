@@ -67,6 +67,14 @@ Développer un assistant dialogique répondant à des requêtes en langue nature
 - [Interface web simple en JS (chat et chargeur d'images/video)](https://github.com/HackaTAL/bot-slack)
 - [Architecture de base pour faire un bot Slack avec Node.js](https://github.com/HackaTAL/bot-web-chat)
 
+### Téléchargement des logiciels et données
+
+```
+git clone https://github.com/HackaTAL/2016.git  HackaTAL2016
+cd HackaTAL2016/Tweets
+bash downloadmatchs.sh
+```
+
 ### Prix SYSTRAN
 
 Un prix sera décerné à l’issue du HackaTAL pour récompenser les approches les plus innovantes et/ou performantes.
@@ -82,7 +90,7 @@ Cet évènement se tiendra du 2 au 4 juillet 2016, chez Google et à l'Inalco.
 Samedi 2 juillet ([Google Paris, 8 rue de Londres, Paris 9ème](https://goo.gl/maps/yPgc5XcT5B92))
 
 - 14h-14h30 : accueil, café
-- 14h30-15h : présentations du hackathon : tâches et objectifs
+- 14h30-15h : introduction, tâches et objectifs
   - Introduction générale (Damien)
   - Accueil Google (Alex)
   - Tâches, données et outils pour la détection d’évènements (Djamel, Nadi)
@@ -102,7 +110,7 @@ Dimanche 3 juillet ([Google Paris, 8 rue de Londres, Paris 9ème](https://goo.gl
 - 09h-10h : accueil, café
 - 10h-12h : développements en équipes
 - 12h-13h : pause repas
-- 13h-14h : équipes définitives, présentation des premiers résultats
+- 13h-14h : équipes définitives et premiers résultats
 - 14h-19h : développements en équipes
 
 Lundi 4 juillet ([Inalco, 65 rue des granfs moulins, Paris 13ème](https://goo.gl/maps/rZd6MBx5tR32) salle 5.18)
