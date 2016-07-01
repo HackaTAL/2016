@@ -5,7 +5,7 @@
 
 ### Téléchargement des matchs
 
-Les tweets ont été sélectionnés par Systran en utilisant de l'API (streaming). Nous les avons stockés sur un [serveur accessible avec un navigateur](http://helium.lab.parisdescartes.fr:2232/tweets/train_euro2016/).
+Les tweets ont été sélectionnés par SYSTRAN en utilisant de l'API (streaming). Nous les avons stockés sur un [serveur accessible avec un navigateur](http://helium.lab.parisdescartes.fr:2232/tweets/train_euro2016/).
 
 Ils peuvent être téléchargés automatiquement grâce au script `downloadmatchs.sh` (qui vous créera l'arborescence dans votre git). Vous aurez besoin de `jq`
 

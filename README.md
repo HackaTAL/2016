@@ -5,8 +5,8 @@
 **(hackathon dans le domaine du TAL)**
 
 [![Google](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-google.png)](http://www.google.fr)
-[![Systran](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-systran.png)](http://www.systran.fr)
-[![Recast](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-recast.png)](http://www.recast.ai)
+[![SYSTRAN](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-SYSTRAN.png)](http://www.SYSTRAN.fr)
+[![Recast.ai](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-recast.png)](http://www.recast.ai)
 
 [![Inalco](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-inalco.png)](http://www.inalco.fr)
 [![LIMSI](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-limsi.png)](http://www.limsi.fr)
@@ -46,7 +46,7 @@ Détection d’évènements et/ou de faits saillants liés à la compétition sp
 
 *Données*
 
-- [Tweets fournis pas Systran sur l'Euro 2016](http://helium.lab.parisdescartes.fr:2232/tweets/train_euro2016/)
+- [Tweets fournis par SYSTRAN sur l’Euro 2016](http://helium.lab.parisdescartes.fr:2232/tweets/train_euro2016/)
 - [README](http://helium.lab.parisdescartes.fr:2232/tweets/train_euro2016/README.txt)
 
 **2. Gestion de dialogues**
@@ -71,7 +71,7 @@ Développer un assistant dialogique répondant à des requêtes en langue nature
 
 Un prix sera décerné à l’issue du HackaTAL pour récompenser les approches les plus innovantes et/ou performantes.
 
-Systran offrira au gagnat un voyage pour deux à San Diego, vols et nuits hôtels pour 1 semaine (conditions et dates à définir) !
+SYSTRAN offrira au gagnat un voyage pour deux à San Diego, vols et nuits hôtels pour 1 semaine (conditions et dates à définir) !
 
 ### Planning prévisionnel
 
@@ -90,7 +90,7 @@ Samedi 2 juillet ([Google Paris, 8 rue de Londres, Paris 9ème](https://goo.gl/m
 - 15h-19h : développements en équipes
 - 19h-20h : présentations scientifiques et technologiques
   - Linguist @ Google (Jana Strnadová)
-  - Systran (Djamel)
+  - SYSTRAN (Djamel)
   - Recast.ai (Jasmine, Paul)
   - Vocal Apps (Hicham)
 - 20h-21h : pause repas
@@ -126,7 +126,7 @@ Nourritures et boissons gracieusement offerts par nos hôtes - merci Google !
 - Jasmine Anteunis (Recast)
 - Guillaume Dubuisson Duplessis (LIMSI)
 - Joseph Le Roux (LIPN)
-- Djamel Mostefa (Systran)
+- Djamel Mostefa (SYSTRAN)
 - Damien Nouvel (ERTIM)
 - Alexander Pak (Google)
 - Amandine Périnet (Adecco for Google)
