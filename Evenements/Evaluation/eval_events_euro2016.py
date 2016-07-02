@@ -68,12 +68,14 @@ class Event(object):
                  and self.date == other.date
                  and self.type == other.type)             
       
-      if(Event.strictness == 1):
+      if(Event.strictness == 2):
          isEqual = isEqual and abs((self.time - other.time).total_seconds()) <= timedelta(minutes=2).total_seconds()
          isEqual = (isEqual and
                     ((self.annotations is None and other.annotations is None)
                      or ((self.annotations is not None and other.annotations is not None) and
                          (set(self.annotations) == set(other.annotations)))))
+      if(Event.strictness == 1):
+         pass
       
       return isEqual
 
@@ -122,7 +124,8 @@ if __name__ == "__main__":
    gold_events = parse_event_file(args[0])
    pred_events = parse_event_file(args[1])
 
-   print_scores('Strict evaluation', evaluate(gold_events, pred_events, 1))
-   print_scores('Loose evaluation', evaluate(gold_events, pred_events, 0))
+   print_scores('Strict', evaluate(gold_events, pred_events, 2))
+   print_scores('Intermediate', evaluate(gold_events, pred_events, 1))
+   print_scores('Loose', evaluate(gold_events, pred_events, 0))
    
    
