@@ -20,12 +20,20 @@ done
 echo "Fichier contenant tous les textes des tweets"
 cat $(find Matchs -name *.txt) > Matchs/all.txt
 
+echo "Récupération des textes bruts"
+wget -c -N -P Matchs http://helium.lab.parisdescartes.fr:2232/tweets/train_euro2016.txt.tgz
+tar -xvzf Matchs/train_euro2016.txt.tgz -C Matchs
+
 echo "Extraction des médias"
 mkdir -p Medias
+rm -rf Medias/all.json
 for media in lequipe beinsports_FR Le_Figaro lemondefr le_Parisien 20minutesSport; do
 	echo "- $media"
-	rm -rf $Medias/$media.json
+	rm -rf Medias/$media.json.tmp
 	for json in $(find Matchs/ -name *fr.json); do
-		jq -r ". | select(.user.screen_name==\"$media\")" $json >> Medias/$media.json
+		jq -r ". | select(.user.screen_name==\"$media\")" $json >> Medias/$media.json.tmp
 	done
+	cat Medias/$media.json.tmp | sort -u > Medias/$media.json
+	rm Medias/$media.json.tmp
+	cat Medias/$media.json >> Medias/all.json
 done

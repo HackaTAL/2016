@@ -4,21 +4,12 @@
 import sys, json, gensim, argparse, codecs, numpy, scipy.spatial.distance, itertools
 
 aparser = argparse.ArgumentParser(description='Retrieve media tweets as list of IDs')
-aparser.add_argument('-d', '--docfile', help='Tweeter documents json file', required=True)
+aparser.add_argument('-g', '--gensimfile', help='Gensim precomputed model', required=True)
 aparser.add_argument('-m', '--mediasfile', help='Tweeter medias json file', required=True)
 aparser.add_argument('-u', '--userfile', help='User txt file', required=True)
 args = aparser.parse_args()
 
-# Retrieve tweeets as documents
-documents  = []
-for line in open(args.docfile):
-	tweet = json.loads(line)
-	#print tweet['text']
-	documents.append(gensim.models.doc2vec.LabeledSentence(words=tweet['text'].split(' '), tags=[u'SENT']))
-
-euromodel = gensim.models.Doc2Vec(documents, size=100, window=8, min_count=5, workers=4)
-
-#model.save(fname)
+euromodel = gensim.models.Doc2Vec.load(args.gensimfile)
 
 # Represent media sentences in the corresponding model
 mediadocs = {}
