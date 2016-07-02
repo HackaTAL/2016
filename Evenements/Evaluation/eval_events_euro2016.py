@@ -9,6 +9,7 @@ import os.path
 from datetime import datetime, timedelta
 import re
 from optparse import OptionParser
+from tabulate import tabulate
 
       
 
@@ -103,6 +104,7 @@ def evaluate(gold, pred, strict):
    f1 = 2*precision*recall / (precision+recall) if precision+recall>0 else 0
    return (precision, recall, f1)
 
+
 def print_scores(header, scores):
    print header
    print '-' * len(header)
@@ -112,19 +114,23 @@ def print_scores(header, scores):
    print '-' * len(header)
 
 
+def main(opts, args):
+   gold_events = parse_event_file(args[0])
+   pred_events = parse_event_file(args[1])
+   
+   return (('', 'Strict',) + evaluate(gold_events, pred_events, 2),
+          (opts.system_name, 'Intermediate',) + evaluate(gold_events, pred_events, 1),
+          ('', 'Loose',) + evaluate(gold_events, pred_events, 0))
+   
 
 if __name__ == "__main__":
    parser = OptionParser('''%prog gold prediction''')
+   parser.add_option('-s', '--system', dest='system_name', default='Default')
    opts, args = parser.parse_args()
    if len(args) < 2:
       parser.print_usage()
       sys.exit(1)
    
-   gold_events = parse_event_file(args[0])
-   pred_events = parse_event_file(args[1])
-
-   print_scores('Strict', evaluate(gold_events, pred_events, 2))
-   print_scores('Intermediate', evaluate(gold_events, pred_events, 1))
-   print_scores('Loose', evaluate(gold_events, pred_events, 0))
-   
+   scores = main(opts, args)
+   print tabulate(scores, ('System', 'Evaluation', 'Precision', 'Recall', 'F1-measure'))
    
