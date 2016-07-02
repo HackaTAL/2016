@@ -1,0 +1,6717 @@
+################# TEAM Albanie ##############################
+
+
+--  1
+Gardien
+Etrit Berisha
+age - 10/03/1989
+matchs - 37
+goals - 0
+goals conceded - 28
+club - Lazio (ITA)
+height - 194
+weight - 92
+
+
+--  12
+Gardien
+Orges Shehi
+age - 25/09/1977
+matchs - 7
+goals - 0
+goals conceded - 1
+club - Skënderbeu (ALB)
+height - 182
+weight - 78
+
+
+--  23
+Gardien
+Alban Hoxha
+age - 23/11/1987
+matchs - 1
+goals - 0
+goals conceded - 0
+club - Partizani (ALB)
+height - 188
+weight - 79
+
+
+--  2
+Défenseur
+Andi Lila
+age - 12/02/1986
+matchs - 59
+goals - 0
+goals conceded - 0
+club - Giannina (GRE)
+height - 184
+weight - 79
+
+
+--  4
+Défenseur
+Elseid Hysaj
+age - 20/02/1994
+matchs - 22
+goals - 0
+goals conceded - 0
+club - Napoli (ITA)
+height - 182
+weight - 70
+
+
+--  6
+Défenseur
+Frédéric Veseli
+age - 20/11/1992
+matchs - 3
+goals - 0
+goals conceded - 0
+club - Lugano (SUI)
+height - 183
+weight - 80
+
+
+--  7
+Défenseur
+Ansi Agolli
+age - 11/10/1982
+matchs - 64
+goals - 2
+goals conceded - 0
+club - Qarabağ (AZE)
+height - 179
+weight - 70
+
+
+--  15
+Défenseur
+Mërgim Mavraj
+age - 09/06/1986
+matchs - 29
+goals - 3
+goals conceded - 0
+club - Köln (GER)
+height - 189
+weight - 84
+
+
+--  17
+Défenseur
+Naser Aliji
+age - 27/12/1993
+matchs - 4
+goals - 0
+goals conceded - 0
+club - Basel (SUI)
+height - 177
+weight - 73
+
+
+--  18
+Défenseur
+Arlind Ajeti
+age - 25/09/1993
+matchs - 11
+goals - 1
+goals conceded - 0
+club - Frosinone (ITA)
+height - 185
+weight - 81
+
+
+--  3
+Milieu
+Ermir Lenjani
+age - 05/08/1989
+matchs - 21
+goals - 3
+goals conceded - 0
+club - Nantes (FRA)
+height - 175
+weight - 65
+
+
+--  5
+Milieu
+Lorik Cana
+age - 27/07/1983
+matchs - 92
+goals - 1
+goals conceded - 0
+club - Nantes (FRA)
+height - 186
+weight - 77
+
+
+--  8
+Milieu
+Migjen Basha
+age - 05/01/1987
+matchs - 19
+goals - 3
+goals conceded - 0
+club - Como (ITA)
+height - 180
+weight - 72
+
+
+--  9
+Milieu
+Ledian Memushaj
+age - 17/12/1986
+matchs - 15
+goals - 0
+goals conceded - 0
+club - Pescara (ITA)
+height - 175
+weight - 71
+
+
+--  13
+Milieu
+Burim Kukeli
+age - 16/01/1984
+matchs - 17
+goals - 0
+goals conceded - 0
+club - Zürich (SUI)
+height - 180
+weight - 72
+
+
+--  14
+Milieu
+Taulant Xhaka
+age - 28/03/1991
+matchs - 13
+goals - 0
+goals conceded - 0
+club - Basel (SUI)
+height - 172
+weight - 72
+
+
+--  20
+Milieu
+Ergys Kaçe
+age - 08/07/1993
+matchs - 17
+goals - 2
+goals conceded - 0
+club - PAOK (GRE)
+height - 170
+weight - 62
+
+
+--  21
+Milieu
+Odise Roshi
+age - 22/05/1991
+matchs - 34
+goals - 1
+goals conceded - 0
+club - Rijeka (CRO)
+height - 187
+weight - 78
+
+
+--  22
+Milieu
+Amir Abrashi
+age - 27/03/1990
+matchs - 21
+goals - 0
+goals conceded - 0
+club - Freiburg (GER)
+height - 172
+weight - 71
+
+
+--  10
+Attaquant
+Armando Sadiku
+age - 27/05/1991
+matchs - 22
+goals - 6
+goals conceded - 0
+club - Vaduz (LIE)
+height - 185
+weight - 80
+
+
+--  11
+Attaquant
+Shkëlzen Gashi
+age - 15/07/1988
+matchs - 14
+goals - 1
+goals conceded - 0
+club - Colorado (USA)
+height - 182
+weight - 75
+
+
+--  16
+Attaquant
+Sokol Çikalleshi
+age - 27/07/1990
+matchs - 19
+goals - 2
+goals conceded - 0
+club - İstanbul Başakşehir (TUR)
+height - 185
+weight - 79
+
+
+--  19
+Attaquant
+Bekim Balaj
+age - 11/01/1991
+matchs - 16
+goals - 1
+goals conceded - 0
+club - Rijeka (CRO)
+height - 188
+weight - 80
+
+
+
+################# TEAM Allemagne ##############################
+
+
+--  1
+Gardien
+Manuel Neuer
+age - 27/03/1986
+matchs - 69
+goals - 0
+goals conceded - 55
+club - Bayern (GER)
+height - 193
+weight - 92
+
+
+--  12
+Gardien
+Bernd Leno
+age - 04/03/1992
+matchs - 1
+goals - 0
+goals conceded - 2
+club - Leverkusen (GER)
+height - 190
+weight - 83
+
+
+--  22
+Gardien
+Marc-André ter Stegen
+age - 30/04/1992
+matchs - 6
+goals - 0
+goals conceded - 12
+club - Barcelona (ESP)
+height - 187
+weight - 85
+
+
+--  2
+Défenseur
+Shkodran Mustafi
+age - 17/04/1992
+matchs - 11
+goals - 1
+goals conceded - 0
+club - Valencia (ESP)
+height - 184
+weight - 82
+
+
+--  3
+Défenseur
+Jonas Hector
+age - 27/05/1990
+matchs - 18
+goals - 1
+goals conceded - 0
+club - Köln (GER)
+height - 185
+weight - 75
+
+
+--  4
+Défenseur
+Benedikt Höwedes
+age - 29/02/1988
+matchs - 38
+goals - 2
+goals conceded - 0
+club - Schalke (GER)
+height - 187
+weight - 82
+
+
+--  5
+Défenseur
+Mats Hummels
+age - 16/12/1988
+matchs - 49
+goals - 4
+goals conceded - 0
+club - Dortmund (GER)
+height - 191
+weight - 92
+
+
+--  16
+Défenseur
+Jonathan Tah
+age - 11/02/1996
+matchs - 1
+goals - 0
+goals conceded - 0
+club - Leverkusen (GER)
+height - -
+weight - -
+
+
+--  17
+Défenseur
+Jérôme Boateng
+age - 03/09/1988
+matchs - 63
+goals - 1
+goals conceded - 0
+club - Bayern (GER)
+height - 192
+weight - 90
+
+
+--  21
+Défenseur
+Joshua Kimmich
+age - 08/02/1995
+matchs - 3
+goals - 0
+goals conceded - 0
+club - Bayern (GER)
+height - 176
+weight - 70
+
+
+--  6
+Milieu
+Sami Khedira
+age - 04/04/1987
+matchs - 64
+goals - 5
+goals conceded - 0
+club - Juventus (ITA)
+height - 189
+weight - 90
+
+
+--  7
+Milieu
+Bastian Schweinsteiger
+age - 01/08/1984
+matchs - 118
+goals - 24
+goals conceded - 0
+club - Man. United (ENG)
+height - 183
+weight - 79
+
+
+--  8
+Milieu
+Mesut Özil
+age - 15/10/1988
+matchs - 77
+goals - 19
+goals conceded - 0
+club - Arsenal (ENG)
+height - 180
+weight - 76
+
+
+--  9
+Milieu
+André Schürrle
+age - 06/11/1990
+matchs - 55
+goals - 20
+goals conceded - 0
+club - Wolfsburg (GER)
+height - 184
+weight - 74
+
+
+--  11
+Milieu
+Julian Draxler
+age - 20/09/1993
+matchs - 22
+goals - 2
+goals conceded - 0
+club - Wolfsburg (GER)
+height - 187
+weight - 72
+
+
+--  14
+Milieu
+Emre Can
+age - 12/01/1994
+matchs - 6
+goals - 0
+goals conceded - 0
+club - Liverpool (ENG)
+height - 184
+weight - 82
+
+
+--  15
+Milieu
+Julian Weigl
+age - 08/09/1995
+matchs - 1
+goals - 0
+goals conceded - 0
+club - Dortmund (GER)
+height - 186
+weight - 71
+
+
+--  18
+Milieu
+Toni Kroos
+age - 04/01/1990
+matchs - 69
+goals - 11
+goals conceded - 0
+club - Real Madrid (ESP)
+height - 182
+weight - 78
+
+
+--  19
+Milieu
+Mario Götze
+age - 03/06/1992
+matchs - 55
+goals - 17
+goals conceded - 0
+club - Bayern (GER)
+height - 176
+weight - 64
+
+
+--  20
+Milieu
+Leroy Sané
+age - 11/01/1996
+matchs - 3
+goals - 0
+goals conceded - 0
+club - Schalke (GER)
+height - 183
+weight - 75
+
+
+--  10
+Attaquant
+Lukas Podolski
+age - 04/06/1985
+matchs - 129
+goals - 48
+goals conceded - 0
+club - Galatasaray (TUR)
+height - 182
+weight - 83
+
+
+--  13
+Attaquant
+Thomas Müller
+age - 13/09/1989
+matchs - 75
+goals - 32
+goals conceded - 0
+club - Bayern (GER)
+height - 186
+weight - 74
+
+
+--  23
+Attaquant
+Mario Gomez
+age - 10/07/1985
+matchs - 67
+goals - 29
+goals conceded - 0
+club - Beşiktaş (TUR)
+height - 189
+weight - 93
+
+
+
+################# TEAM Angleterre ##############################
+
+
+--  1
+Gardien
+Joe Hart
+age - 19/04/1987
+matchs - 63
+goals - 0
+goals conceded - 44
+club - Man. City (ENG)
+height - 196
+weight - 89
+
+
+--  13
+Gardien
+Fraser Forster
+age - 17/03/1988
+matchs - 6
+goals - 0
+goals conceded - 7
+club - Southampton (ENG)
+height - 201
+weight - 73
+
+
+--  23
+Gardien
+Tom Heaton
+age - 15/04/1986
+matchs - 1
+goals - 0
+goals conceded - 0
+club - Burnley (ENG)
+height - 188
+weight - 85
+
+
+--  2
+Défenseur
+Kyle Walker
+age - 28/05/1990
+matchs - 19
+goals - 0
+goals conceded - 0
+club - Tottenham (ENG)
+height - 178
+weight - 70
+
+
+--  3
+Défenseur
+Danny Rose
+age - 02/07/1990
+matchs - 7
+goals - 0
+goals conceded - 0
+club - Tottenham (ENG)
+height - 173
+weight - 72
+
+
+--  5
+Défenseur
+Gary Cahill
+age - 19/12/1985
+matchs - 47
+goals - 3
+goals conceded - 0
+club - Chelsea (ENG)
+height - 193
+weight - 86
+
+
+--  6
+Défenseur
+Chris Smalling
+age - 22/11/1989
+matchs - 29
+goals - 1
+goals conceded - 0
+club - Man. United (ENG)
+height - 192
+weight - 81
+
+
+--  12
+Défenseur
+Nathaniel Clyne
+age - 05/04/1991
+matchs - 13
+goals - 0
+goals conceded - 0
+club - Liverpool (ENG)
+height - 175
+weight - 67
+
+
+--  16
+Défenseur
+John Stones
+age - 28/05/1994
+matchs - 10
+goals - 0
+goals conceded - 0
+club - Everton (ENG)
+height - 188
+weight - 70
+
+
+--  21
+Défenseur
+Ryan Bertrand
+age - 05/08/1989
+matchs - 9
+goals - 0
+goals conceded - 0
+club - Southampton (ENG)
+height - 179
+weight - 85
+
+
+--  4
+Milieu
+James Milner
+age - 04/01/1986
+matchs - 61
+goals - 1
+goals conceded - 0
+club - Liverpool (ENG)
+height - 175
+weight - 70
+
+
+--  7
+Milieu
+Raheem Sterling
+age - 08/12/1994
+matchs - 26
+goals - 2
+goals conceded - 0
+club - Man. City (ENG)
+height - 170
+weight - 69
+
+
+--  8
+Milieu
+Adam Lallana
+age - 10/05/1988
+matchs - 26
+goals - 0
+goals conceded - 0
+club - Liverpool (ENG)
+height - 172
+weight - 73
+
+
+--  14
+Milieu
+Jordan Henderson
+age - 17/06/1990
+matchs - 27
+goals - 0
+goals conceded - 0
+club - Liverpool (ENG)
+height - 182
+weight - 67
+
+
+--  17
+Milieu
+Eric Dier
+age - 15/01/1994
+matchs - 11
+goals - 2
+goals conceded - 0
+club - Tottenham (ENG)
+height - 188
+weight - 88
+
+
+--  18
+Milieu
+Jack Wilshere
+age - 01/01/1992
+matchs - 34
+goals - 2
+goals conceded - 0
+club - Arsenal (ENG)
+height - 172
+weight - 65
+
+
+--  19
+Milieu
+Ross Barkley
+age - 05/12/1993
+matchs - 22
+goals - 2
+goals conceded - 0
+club - Everton (ENG)
+height - 189
+weight - 76
+
+
+--  20
+Milieu
+Dele Alli
+age - 11/04/1996
+matchs - 12
+goals - 1
+goals conceded - 0
+club - Tottenham (ENG)
+height - 188
+weight - 73
+
+
+--  9
+Attaquant
+Harry Kane
+age - 28/07/1993
+matchs - 16
+goals - 5
+goals conceded - 0
+club - Tottenham (ENG)
+height - 188
+weight - 65
+
+
+--  10
+Attaquant
+Wayne Rooney
+age - 24/10/1985
+matchs - 115
+goals - 53
+goals conceded - 0
+club - Man. United (ENG)
+height - 176
+weight - 83
+
+
+--  11
+Attaquant
+Jamie Vardy
+age - 11/01/1987
+matchs - 11
+goals - 4
+goals conceded - 0
+club - Leicester (ENG)
+height - 178
+weight - 76
+
+
+--  15
+Attaquant
+Daniel Sturridge
+age - 01/09/1989
+matchs - 21
+goals - 6
+goals conceded - 0
+club - Liverpool (ENG)
+height - 188
+weight - 76
+
+
+--  22
+Attaquant
+Marcus Rashford
+age - 31/10/1997
+matchs - 3
+goals - 1
+goals conceded - 0
+club - Man. United (ENG)
+height - 180
+weight - 70
+
+
+
+################# TEAM Autriche ##############################
+
+
+--  1
+Gardien
+Robert Almer
+age - 20/03/1984
+matchs - 31
+goals - 0
+goals conceded - 28
+club - Austria Wien (AUT)
+height - 194
+weight - 88
+
+
+--  12
+Gardien
+Heinz Lindner
+age - 17/07/1990
+matchs - 8
+goals - 0
+goals conceded - 8
+club - Frankfurt (GER)
+height - 187
+weight - 80
+
+
+--  23
+Gardien
+Ramazan Özcan
+age - 28/06/1984
+matchs - 7
+goals - 0
+goals conceded - 9
+club - Ingolstadt (GER)
+height - 187
+weight - 84
+
+
+--  3
+Défenseur
+Aleksandar Dragović
+age - 06/03/1991
+matchs - 49
+goals - 1
+goals conceded - 0
+club - Dynamo Kyiv (UKR)
+height - 184
+weight - 76
+
+
+--  4
+Défenseur
+Martin Hinteregger
+age - 07/09/1992
+matchs - 17
+goals - 0
+goals conceded - 0
+club - Mönchengladbach (GER)
+height - 184
+weight - 78
+
+
+--  5
+Défenseur
+Christian Fuchs
+age - 07/04/1986
+matchs - 78
+goals - 1
+goals conceded - 0
+club - Leicester (ENG)
+height - 186
+weight - 80
+
+
+--  13
+Défenseur
+Markus Suttner
+age - 16/04/1987
+matchs - 16
+goals - 0
+goals conceded - 0
+club - Ingolstadt (GER)
+height - 179
+weight - 72
+
+
+--  15
+Défenseur
+Sebastian Prödl
+age - 21/06/1987
+matchs - 59
+goals - 4
+goals conceded - 0
+club - Watford (ENG)
+height - 194
+weight - 85
+
+
+--  16
+Défenseur
+Kevin Wimmer
+age - 15/11/1992
+matchs - 4
+goals - 0
+goals conceded - 0
+club - Tottenham (ENG)
+height - 187
+weight - 85
+
+
+--  17
+Défenseur
+Florian Klein
+age - 17/11/1986
+matchs - 40
+goals - 0
+goals conceded - 0
+club - Stuttgart (GER)
+height - 180
+weight - 66
+
+
+--  2
+Milieu
+György Garics
+age - 08/03/1984
+matchs - 41
+goals - 2
+goals conceded - 0
+club - Darmstadt (GER)
+height - 183
+weight - 76
+
+
+--  6
+Milieu
+Stefan Ilsanker
+age - 18/05/1989
+matchs - 18
+goals - 0
+goals conceded - 0
+club - Leipzig (GER)
+height - 189
+weight - 86
+
+
+--  8
+Milieu
+David Alaba
+age - 24/06/1992
+matchs - 49
+goals - 11
+goals conceded - 0
+club - Bayern (GER)
+height - 180
+weight - 75
+
+
+--  10
+Milieu
+Zlatko Junuzović
+age - 26/09/1987
+matchs - 49
+goals - 7
+goals conceded - 0
+club - Bremen (GER)
+height - 172
+weight - 69
+
+
+--  11
+Milieu
+Martin Harnik
+age - 10/06/1987
+matchs - 60
+goals - 14
+goals conceded - 0
+club - Stuttgart (GER)
+height - 185
+weight - 75
+
+
+--  14
+Milieu
+Julian Baumgartlinger
+age - 02/01/1988
+matchs - 48
+goals - 1
+goals conceded - 0
+club - Mainz (GER)
+height - 183
+weight - 82
+
+
+--  18
+Milieu
+Alessandro Schöpf
+age - 07/02/1994
+matchs - 7
+goals - 2
+goals conceded - 0
+club - Schalke (GER)
+height - 178
+weight - 75
+
+
+--  20
+Milieu
+Marcel Sabitzer
+age - 17/03/1994
+matchs - 21
+goals - 3
+goals conceded - 0
+club - Leipzig (GER)
+height - 177
+weight - 74
+
+
+--  22
+Milieu
+Jakob Jantscher
+age - 08/01/1989
+matchs - 23
+goals - 1
+goals conceded - 0
+club - Luzern (SUI)
+height - 181
+weight - 69
+
+
+--  7
+Attaquant
+Marko Arnautović
+age - 19/04/1989
+matchs - 55
+goals - 11
+goals conceded - 0
+club - Stoke (ENG)
+height - 192
+weight - 83
+
+
+--  9
+Attaquant
+Rubin Okotie
+age - 06/06/1987
+matchs - 18
+goals - 2
+goals conceded - 0
+club - 1860 München (GER)
+height - 188
+weight - 86
+
+
+--  19
+Attaquant
+Lukas Hinterseer
+age - 28/03/1991
+matchs - 11
+goals - 0
+goals conceded - 0
+club - Ingolstadt (GER)
+height - 192
+weight - 84
+
+
+--  21
+Attaquant
+Marc Janko
+age - 25/06/1983
+matchs - 56
+goals - 25
+goals conceded - 0
+club - Basel (SUI)
+height - 196
+weight - 93
+
+
+
+################# TEAM Belgique ##############################
+
+
+--  1
+Gardien
+Thibaut Courtois
+age - 11/05/1992
+matchs - 41
+goals - 27
+goals conceded - 0
+club - Chelsea (ENG)
+height - 199
+weight - 91
+
+
+--  12
+Gardien
+Simon Mignolet
+age - 06/08/1988
+matchs - 17
+goals - 0
+goals conceded - 21
+club - Liverpool (ENG)
+height - 193
+weight - 87
+
+
+--  13
+Gardien
+Jean-François Gillet
+age - 31/05/1979
+matchs - 9
+goals - 0
+goals conceded - 11
+club - Mechelen (BEL)
+height - 181
+weight - 82
+
+
+--  2
+Défenseur
+Toby Alderweireld
+age - 02/03/1989
+matchs - 59
+goals - 2
+goals conceded - 0
+club - Tottenham (ENG)
+height - 186
+weight - 81
+
+
+--  3
+Défenseur
+Thomas Vermaelen
+age - 14/11/1985
+matchs - 57
+goals - 1
+goals conceded - 0
+club - Barcelona (ESP)
+height - 183
+weight - 80
+
+
+--  5
+Défenseur
+Jan Vertonghen
+age - 24/04/1987
+matchs - 82
+goals - 6
+goals conceded - 0
+club - Tottenham (ENG)
+height - 189
+weight - 79
+
+
+--  15
+Défenseur
+Jason Denayer
+age - 28/06/1995
+matchs - 7
+goals - 0
+goals conceded - 0
+club - Galatasaray (TUR)
+height - 184
+weight - 70
+
+
+--  16
+Défenseur
+Thomas Meunier
+age - 12/09/1991
+matchs - 8
+goals - 0
+goals conceded - 0
+club - Club Brugge (BEL)
+height - 190
+weight - 78
+
+
+--  18
+Défenseur
+Christian Kabasele
+age - 24/02/1991
+matchs - 0
+goals - 0
+goals conceded - 0
+club - Genk (BEL)
+height - 186
+weight - 84
+
+
+--  21
+Défenseur
+Jordan Lukaku
+age - 25/07/1994
+matchs - 4
+goals - 0
+goals conceded - 0
+club - Oostende (BEL)
+height - 186
+weight - 83
+
+
+--  23
+Défenseur
+Laurent Ciman
+age - 05/08/1985
+matchs - 12
+goals - 1
+goals conceded - 0
+club - Montreal (CAN)
+height - 184
+weight - 70
+
+
+--  4
+Milieu
+Radja Nainggolan
+age - 04/05/1988
+matchs - 23
+goals - 5
+goals conceded - 0
+club - Roma (ITA)
+height - 176
+weight - 65
+
+
+--  6
+Milieu
+Axel Witsel
+age - 12/01/1989
+matchs - 72
+goals - 7
+goals conceded - 0
+club - Zenit (RUS)
+height - 186
+weight - 73
+
+
+--  7
+Milieu
+Kevin De Bruyne
+age - 28/06/1991
+matchs - 45
+goals - 13
+goals conceded - 0
+club - Man. City (ENG)
+height - 181
+weight - 68
+
+
+--  8
+Milieu
+Marouane Fellaini
+age - 22/11/1987
+matchs - 72
+goals - 15
+goals conceded - 0
+club - Man. United (ENG)
+height - 194
+weight - 85
+
+
+--  10
+Milieu
+Eden Hazard
+age - 07/01/1991
+matchs - 69
+goals - 14
+goals conceded - 0
+club - Chelsea (ENG)
+height - 173
+weight - 74
+
+
+--  11
+Milieu
+Yannick Carrasco
+age - 04/09/1993
+matchs - 8
+goals - 1
+goals conceded - 0
+club - Atlético (ESP)
+height - 180
+weight - 67
+
+
+--  19
+Milieu
+Mousa Dembélé
+age - 16/07/1987
+matchs - 65
+goals - 5
+goals conceded - 0
+club - Tottenham (ENG)
+height - 185
+weight - 82
+
+
+--  9
+Attaquant
+Romelu Lukaku
+age - 13/05/1993
+matchs - 49
+goals - 17
+goals conceded - 0
+club - Everton (ENG)
+height - 190
+weight - 93
+
+
+--  14
+Attaquant
+Dries Mertens
+age - 06/05/1987
+matchs - 50
+goals - 8
+goals conceded - 0
+club - Napoli (ITA)
+height - 169
+weight - 61
+
+
+--  17
+Attaquant
+Divock Origi
+age - 18/04/1995
+matchs - 22
+goals - 3
+goals conceded - 0
+club - Liverpool (ENG)
+height - 185
+weight - 75
+
+
+--  20
+Attaquant
+Christian Benteke
+age - 03/12/1990
+matchs - 29
+goals - 7
+goals conceded - 0
+club - Liverpool (ENG)
+height - 190
+weight - 83
+
+
+--  22
+Attaquant
+Michy Batshuayi
+age - 02/10/1993
+matchs - 6
+goals - 3
+goals conceded - 0
+club - Marseille (FRA)
+height - 185
+weight - 78
+
+
+
+################# TEAM Croatie ##############################
+
+
+--  1
+Gardien
+Ivan Vargić
+age - 15/03/1987
+matchs - 2
+goals - 0
+goals conceded - 1
+club - Rijeka (CRO)
+height - 192
+weight - 90
+
+
+--  12
+Gardien
+Lovre Kalinić
+age - 03/04/1990
+matchs - 4
+goals - 0
+goals conceded - 3
+club - Hajduk Split (CRO)
+height - 201
+weight - 96
+
+
+--  23
+Gardien
+Danijel Subašić
+age - 27/10/1984
+matchs - 25
+goals - 0
+goals conceded - 13
+club - Monaco (FRA)
+height - 191
+weight - 87
+
+
+--  2
+Défenseur
+Šime Vrsaljko
+age - 10/01/1992
+matchs - 21
+goals - 0
+goals conceded - 0
+club - Sassuolo (ITA)
+height - 183
+weight - 75
+
+
+--  3
+Défenseur
+Ivan Strinić
+age - 17/07/1987
+matchs - 38
+goals - 0
+goals conceded - 0
+club - Napoli (ITA)
+height - 186
+weight - 78
+
+
+--  5
+Défenseur
+Vedran Ćorluka
+age - 05/02/1986
+matchs - 91
+goals - 4
+goals conceded - 0
+club - Lokomotiv Moskva (RUS)
+height - 192
+weight - 84
+
+
+--  6
+Défenseur
+Tin Jedvaj
+age - 28/11/1995
+matchs - 4
+goals - 0
+goals conceded - 0
+club - Leverkusen (GER)
+height - 184
+weight - 80
+
+
+--  11
+Défenseur
+Darijo Srna
+age - 01/05/1982
+matchs - 133
+goals - 22
+goals conceded - 0
+club - Shakhtar Donetsk (UKR)
+height - 178
+weight - 78
+
+
+--  13
+Défenseur
+Gordon Schildenfeld
+age - 18/03/1985
+matchs - 29
+goals - 1
+goals conceded - 0
+club - Dinamo Zagreb (CRO)
+height - 191
+weight - 89
+
+
+--  21
+Défenseur
+Domagoj Vida
+age - 29/04/1989
+matchs - 41
+goals - 1
+goals conceded - 0
+club - Dynamo Kyiv (UKR)
+height - 184
+weight - 73
+
+
+--  4
+Milieu
+Ivan Perišić
+age - 02/02/1989
+matchs - 51
+goals - 15
+goals conceded - 0
+club - Internazionale (ITA)
+height - 187
+weight - 80
+
+
+--  7
+Milieu
+Ivan Rakitić
+age - 10/03/1988
+matchs - 79
+goals - 12
+goals conceded - 0
+club - Barcelona (ESP)
+height - 184
+weight - 78
+
+
+--  8
+Milieu
+Mateo Kovačić
+age - 06/05/1994
+matchs - 29
+goals - 1
+goals conceded - 0
+club - Real Madrid (ESP)
+height - 178
+weight - 77
+
+
+--  10
+Milieu
+Luka Modrić
+age - 09/09/1985
+matchs - 92
+goals - 11
+goals conceded - 0
+club - Real Madrid (ESP)
+height - 174
+weight - 65
+
+
+--  14
+Milieu
+Marcelo Brozović
+age - 16/11/1992
+matchs - 20
+goals - 4
+goals conceded - 0
+club - Internazionale (ITA)
+height - 181
+weight - 68
+
+
+--  15
+Milieu
+Marko Rog
+age - 19/07/1995
+matchs - 4
+goals - 0
+goals conceded - 0
+club - Dinamo Zagreb (CRO)
+height - 180
+weight - 73
+
+
+--  18
+Milieu
+Ante Ćorić
+age - 14/04/1997
+matchs - 2
+goals - 0
+goals conceded - 0
+club - Dinamo Zagreb (CRO)
+height - 172
+weight - 78
+
+
+--  19
+Milieu
+Milan Badelj
+age - 25/02/1989
+matchs - 24
+goals - 1
+goals conceded - 0
+club - Fiorentina (ITA)
+height - 186
+weight - 76
+
+
+--  9
+Attaquant
+Andrej Kramarić
+age - 19/06/1991
+matchs - 14
+goals - 4
+goals conceded - 0
+club - Hoffenheim (GER)
+height - 177
+weight - 70
+
+
+--  16
+Attaquant
+Nikola Kalinić
+age - 05/01/1988
+matchs - 31
+goals - 12
+goals conceded - 0
+club - Fiorentina (ITA)
+height - 187
+weight - 80
+
+
+--  17
+Attaquant
+Mario Mandžukić
+age - 21/05/1986
+matchs - 68
+goals - 24
+goals conceded - 0
+club - Juventus (ITA)
+height - 190
+weight - 85
+
+
+--  20
+Attaquant
+Marko Pjaca
+age - 06/05/1995
+matchs - 11
+goals - 1
+goals conceded - 0
+club - Dinamo Zagreb (CRO)
+height - 186
+weight - 81
+
+
+--  22
+Attaquant
+Duje Čop
+age - 01/02/1990
+matchs - 5
+goals - 0
+goals conceded - 0
+club - Málaga (ESP)
+height - 184
+weight - 73
+
+
+
+################# TEAM Espagne ##############################
+
+
+--  1
+Gardien
+Iker Casillas
+age - 20/05/1981
+matchs - 167
+goals - 0
+goals conceded - 73
+club - Porto (POR)
+height - 185
+weight - 84
+
+
+--  13
+Gardien
+David de Gea
+age - 07/11/1990
+matchs - 13
+goals - 0
+goals conceded - 10
+club - Man. United (ENG)
+height - 192
+weight - 76
+
+
+--  23
+Gardien
+Sergio Rico
+age - 01/09/1993
+matchs - 1
+goals - 0
+goals conceded - 1
+club - Sevilla (ESP)
+height - 195
+weight - 90
+
+
+--  2
+Défenseur
+César Azpilicueta
+age - 28/08/1989
+matchs - 16
+goals - 0
+goals conceded - 0
+club - Chelsea (ENG)
+height - 178
+weight - 75
+
+
+--  3
+Défenseur
+Gerard Piqué
+age - 02/02/1987
+matchs - 81
+goals - 5
+goals conceded - 0
+club - Barcelona (ESP)
+height - 193
+weight - 85
+
+
+--  4
+Défenseur
+Marc Bartra
+age - 15/01/1991
+matchs - 9
+goals - 0
+goals conceded - 0
+club - Barcelona (ESP)
+height - 183
+weight - 74
+
+
+--  12
+Défenseur
+Héctor Bellerín
+age - 19/03/1995
+matchs - 3
+goals - 0
+goals conceded - 0
+club - Arsenal (ENG)
+height - 177
+weight - 74
+
+
+--  15
+Défenseur
+Sergio Ramos
+age - 30/03/1986
+matchs - 135
+goals - 10
+goals conceded - 0
+club - Real Madrid (ESP)
+height - 183
+weight - 75
+
+
+--  16
+Défenseur
+ Juanfran
+age - 09/01/1985
+matchs - 21
+goals - 0
+goals conceded - 0
+club - Atlético (ESP)
+height - 180
+weight - 72
+
+
+--  17
+Défenseur
+Mikel San José
+age - 30/05/1989
+matchs - 7
+goals - 0
+goals conceded - 0
+club - Athletic (ESP)
+height - 186
+weight - 77
+
+
+--  18
+Défenseur
+ Jordi Alba
+age - 21/03/1989
+matchs - 47
+goals - 6
+goals conceded - 0
+club - Barcelona (ESP)
+height - 170
+weight - 68
+
+
+--  5
+Milieu
+Sergio Busquets
+age - 16/07/1988
+matchs - 87
+goals - 2
+goals conceded - 0
+club - Barcelona (ESP)
+height - 189
+weight - 76
+
+
+--  6
+Milieu
+Andrés Iniesta
+age - 11/05/1984
+matchs - 112
+goals - 12
+goals conceded - 0
+club - Barcelona (ESP)
+height - 171
+weight - 68
+
+
+--  8
+Milieu
+ Koke
+age - 08/01/1992
+matchs - 23
+goals - 0
+goals conceded - 0
+club - Atlético (ESP)
+height - 178
+weight - 74
+
+
+--  10
+Milieu
+Cesc Fàbregas
+age - 04/05/1987
+matchs - 110
+goals - 15
+goals conceded - 0
+club - Chelsea (ENG)
+height - 175
+weight - 74
+
+
+--  14
+Milieu
+ Thiago Alcántara
+age - 11/04/1991
+matchs - 12
+goals - 0
+goals conceded - 0
+club - Bayern (GER)
+height - 172
+weight - 71
+
+
+--  19
+Milieu
+ Bruno Soriano
+age - 12/06/1984
+matchs - 10
+goals - 0
+goals conceded - 0
+club - Villarreal (ESP)
+height - 184
+weight - 73
+
+
+--  21
+Milieu
+David Silva
+age - 08/01/1986
+matchs - 103
+goals - 24
+goals conceded - 0
+club - Man. City (ENG)
+height - 173
+weight - 67
+
+
+--  7
+Attaquant
+Álvaro Morata
+age - 23/10/1992
+matchs - 13
+goals - 6
+goals conceded - 0
+club - Juventus (ITA)
+height - 189
+weight - 85
+
+
+--  9
+Attaquant
+ Lucas Vázquez
+age - 01/07/1991
+matchs - 2
+goals - 0
+goals conceded - 0
+club - Real Madrid (ESP)
+height - 173
+weight - 70
+
+
+--  11
+Attaquant
+ Pedro Rodríguez
+age - 28/07/1987
+matchs - 59
+goals - 17
+goals conceded - 0
+club - Chelsea (ENG)
+height - 167
+weight - 62
+
+
+--  20
+Attaquant
+ Aritz Aduriz
+age - 11/02/1981
+matchs - 9
+goals - 1
+goals conceded - 0
+club - Athletic (ESP)
+height - 181
+weight - 75
+
+
+--  22
+Attaquant
+ Nolito
+age - 15/10/1986
+matchs - 13
+goals - 5
+goals conceded - 0
+club - Celta (ESP)
+height - 175
+weight - 65
+
+
+
+################# TEAM France ##############################
+
+
+--  1
+Gardien
+Hugo Lloris
+age - 26/12/1986
+matchs - 79
+goals - 0
+goals conceded - 56
+club - Tottenham (ENG)
+height - 188
+weight - 73
+
+
+--  16
+Gardien
+Steve Mandanda
+age - 28/03/1985
+matchs - 22
+goals - 25
+goals conceded - 0
+club - Marseille (FRA)
+height - 185
+weight - 82
+
+
+--  23
+Gardien
+Benoît Costil
+age - 03/07/1987
+matchs - 0
+goals - 0
+goals conceded - 0
+club - Rennes (FRA)
+height - 188
+weight - 86
+
+
+--  2
+Défenseur
+Christophe Jallet
+age - 31/10/1983
+matchs - 11
+goals - 1
+goals conceded - 0
+club - Lyon (FRA)
+height - 178
+weight - 70
+
+
+--  3
+Défenseur
+Patrice Evra
+age - 15/05/1981
+matchs - 77
+goals - 0
+goals conceded - 0
+club - Juventus (ITA)
+height - 174
+weight - 74
+
+
+--  4
+Défenseur
+Adil Rami
+age - 27/12/1985
+matchs - 32
+goals - 1
+goals conceded - 0
+club - Sevilla (ESP)
+height - 190
+weight - 90
+
+
+--  13
+Défenseur
+Eliaquim Mangala
+age - 13/02/1991
+matchs - 7
+goals - 0
+goals conceded - 0
+club - Man. City (ENG)
+height - 188
+weight - 84
+
+
+--  17
+Défenseur
+Lucas Digne
+age - 20/07/1993
+matchs - 13
+goals - 0
+goals conceded - 0
+club - Roma (ITA)
+height - 178
+weight - 74
+
+
+--  19
+Défenseur
+Bacary Sagna
+age - 14/02/1983
+matchs - 61
+goals - 0
+goals conceded - 0
+club - Man. City (ENG)
+height - 176
+weight - 72
+
+
+--  21
+Défenseur
+Laurent Koscielny
+age - 10/09/1985
+matchs - 33
+goals - 1
+goals conceded - 0
+club - Arsenal (ENG)
+height - 186
+weight - 75
+
+
+--  22
+Défenseur
+Samuel Umtiti
+age - 14/11/1993
+matchs - 0
+goals - 0
+goals conceded - 0
+club - Lyon (FRA)
+height - 180
+weight - 75
+
+
+--  5
+Milieu
+N'Golo Kanté
+age - 29/03/1991
+matchs - 7
+goals - 1
+goals conceded - 0
+club - Leicester (ENG)
+height - 169
+weight - 68
+
+
+--  6
+Milieu
+Yohan Cabaye
+age - 14/01/1986
+matchs - 47
+goals - 4
+goals conceded - 0
+club - Crystal Palace (ENG)
+height - 174
+weight - 71
+
+
+--  8
+Milieu
+Dimitri Payet
+age - 29/03/1987
+matchs - 23
+goals - 5
+goals conceded - 0
+club - West Ham (ENG)
+height - 175
+weight - 77
+
+
+--  12
+Milieu
+Morgan Schneiderlin
+age - 08/11/1989
+matchs - 15
+goals - 0
+goals conceded - 0
+club - Man. United (ENG)
+height - 180
+weight - 75
+
+
+--  14
+Milieu
+Blaise Matuidi
+age - 09/04/1987
+matchs - 48
+goals - 8
+goals conceded - 0
+club - Paris (FRA)
+height - 175
+weight - 70
+
+
+--  15
+Milieu
+Paul Pogba
+age - 15/03/1993
+matchs - 35
+goals - 5
+goals conceded - 0
+club - Juventus (ITA)
+height - 191
+weight - 84
+
+
+--  18
+Milieu
+Moussa Sissoko
+age - 16/08/1989
+matchs - 41
+goals - 1
+goals conceded - 0
+club - Newcastle (ENG)
+height - 187
+weight - 83
+
+
+--  20
+Milieu
+Kingsley Coman
+age - 13/06/1996
+matchs - 9
+goals - 1
+goals conceded - 0
+club - Bayern (GER)
+height - 178
+weight - 71
+
+
+--  7
+Attaquant
+Antoine Griezmann
+age - 21/03/1991
+matchs - 31
+goals - 10
+goals conceded - 0
+club - Atlético (ESP)
+height - 176
+weight - 67
+
+
+--  9
+Attaquant
+Olivier Giroud
+age - 30/09/1986
+matchs - 52
+goals - 18
+goals conceded - 0
+club - Arsenal (ENG)
+height - 192
+weight - 88
+
+
+--  10
+Attaquant
+André-Pierre Gignac
+age - 05/12/1985
+matchs - 30
+goals - 7
+goals conceded - 0
+club - Tigres (MEX)
+height - 187
+weight - 84
+
+
+--  11
+Attaquant
+Anthony Martial
+age - 05/12/1995
+matchs - 11
+goals - 0
+goals conceded - 0
+club - Man. United (ENG)
+height - 181
+weight - 76
+
+
+
+################# TEAM Hongrie ##############################
+
+
+--  1
+Gardien
+Gábor Király
+age - 01/04/1976
+matchs - 106
+goals - 0
+goals conceded - 84
+club - Haladás (HUN)
+height - 190
+weight - 85
+
+
+--  12
+Gardien
+Dénes Dibusz
+age - 16/11/1990
+matchs - 4
+goals - 0
+goals conceded - 3
+club - Ferencváros (HUN)
+height - 188
+weight - 81
+
+
+--  22
+Gardien
+Péter Gulácsi
+age - 06/05/1990
+matchs - 3
+goals - 0
+goals conceded - 4
+club - Leipzig (GER)
+height - 190
+weight - 83
+
+
+--  2
+Défenseur
+Ádám Lang
+age - 17/01/1993
+matchs - 15
+goals - 0
+goals conceded - 0
+club - Videoton (HUN)
+height - 185
+weight - 77
+
+
+--  3
+Défenseur
+Mihály Korhut
+age - 01/12/1988
+matchs - 6
+goals - 0
+goals conceded - 0
+club - Debrecen (HUN)
+height - 181
+weight - 76
+
+
+--  4
+Défenseur
+Tamás Kádár
+age - 14/03/1990
+matchs - 32
+goals - 0
+goals conceded - 0
+club - Lech (POL)
+height - 188
+weight - 79
+
+
+--  5
+Défenseur
+Attila Fiola
+age - 17/02/1990
+matchs - 16
+goals - 0
+goals conceded - 0
+club - Puskás Akadémia (HUN)
+height - 182
+weight - 70
+
+
+--  16
+Défenseur
+Ádám Pintér
+age - 12/06/1988
+matchs - 23
+goals - 0
+goals conceded - 0
+club - Ferencváros (HUN)
+height - 190
+weight - 76
+
+
+--  20
+Défenseur
+Richárd Guzmics
+age - 16/04/1987
+matchs - 18
+goals - 1
+goals conceded - 0
+club - Wisła (POL)
+height - 190
+weight - 80
+
+
+--  21
+Défenseur
+Barnabás Bese
+age - 06/05/1994
+matchs - 2
+goals - 0
+goals conceded - 0
+club - MTK (HUN)
+height - 188
+weight - 84
+
+
+--  23
+Défenseur
+Roland Juhász
+age - 01/07/1983
+matchs - 94
+goals - 6
+goals conceded - 0
+club - Videoton (HUN)
+height - 194
+weight - 96
+
+
+--  6
+Milieu
+Ákos Elek
+age - 21/07/1988
+matchs - 40
+goals - 1
+goals conceded - 0
+club - Diósgyőr (HUN)
+height - 193
+weight - 91
+
+
+--  8
+Milieu
+Ádám Nagy
+age - 17/06/1995
+matchs - 11
+goals - 0
+goals conceded - 0
+club - Ferencváros (HUN)
+height - 178
+weight - 74
+
+
+--  14
+Milieu
+Gergő Lovrencsics
+age - 01/09/1988
+matchs - 14
+goals - 1
+goals conceded - 0
+club - Lech (POL)
+height - 177
+weight - 79
+
+
+--  15
+Milieu
+László Kleinheisler
+age - 08/04/1994
+matchs - 7
+goals - 1
+goals conceded - 0
+club - Bremen (GER)
+height - 173
+weight - 70
+
+
+--  18
+Milieu
+Zoltán Stieber
+age - 16/10/1988
+matchs - 15
+goals - 3
+goals conceded - 0
+club - Nürnberg (GER)
+height - 175
+weight - 67
+
+
+--  7
+Attaquant
+Balázs Dzsudzsák
+age - 23/12/1986
+matchs - 81
+goals - 20
+goals conceded - 0
+club - Bursaspor (TUR)
+height - 179
+weight - 72
+
+
+--  9
+Attaquant
+Ádám Szalai
+age - 09/12/1987
+matchs - 35
+goals - 9
+goals conceded - 0
+club - Hannover (GER)
+height - 193
+weight - 91
+
+
+--  10
+Attaquant
+Zoltán Gera
+age - 22/04/1979
+matchs - 92
+goals - 25
+goals conceded - 0
+club - Ferencváros (HUN)
+height - 183
+weight - 75
+
+
+--  11
+Attaquant
+Krisztián Németh
+age - 05/01/1989
+matchs - 25
+goals - 3
+goals conceded - 0
+club - Al-Gharafa (QAT)
+height - 180
+weight - 74
+
+
+--  13
+Attaquant
+Dániel Böde
+age - 24/10/1986
+matchs - 14
+goals - 4
+goals conceded - 0
+club - Ferencváros (HUN)
+height - 185
+weight - 77
+
+
+--  17
+Attaquant
+Nemanja Nikolić
+age - 31/12/1987
+matchs - 20
+goals - 3
+goals conceded - 0
+club - Legia (POL)
+height - 180
+weight - 80
+
+
+--  19
+Attaquant
+Tamás Priskin
+age - 27/09/1986
+matchs - 57
+goals - 16
+goals conceded - 0
+club - Slovan Bratislava (SVK)
+height - 189
+weight - 90
+
+
+
+################# TEAM Irlande du Nord ##############################
+
+
+--  1
+Gardien
+Michael McGovern
+age - 12/07/1984
+matchs - 15
+goals - 0
+goals conceded - 10
+club - Hamilton (SCO)
+height - 191
+weight - 89
+
+
+--  12
+Gardien
+Roy Carroll
+age - 30/09/1977
+matchs - 44
+goals - 0
+goals conceded - 40
+club - Linfield (NIR)
+height - 188
+weight - 80
+
+
+--  23
+Gardien
+Alan Mannus
+age - 19/05/1982
+matchs - 8
+goals - 0
+goals conceded - 1
+club - St Johnstone (SCO)
+height - 188
+weight - 84
+
+
+--  2
+Défenseur
+Conor McLaughlin
+age - 26/07/1991
+matchs - 19
+goals - 0
+goals conceded - 0
+club - Fleetwood (ENG)
+height - 183
+weight - 71
+
+
+--  4
+Défenseur
+Gareth McAuley
+age - 05/12/1979
+matchs - 65
+goals - 8
+goals conceded - 0
+club - West Brom (ENG)
+height - 195
+weight - 90
+
+
+--  5
+Défenseur
+Jonny Evans
+age - 03/01/1988
+matchs - 53
+goals - 1
+goals conceded - 0
+club - West Brom (ENG)
+height - 188
+weight - 77
+
+
+--  6
+Défenseur
+Chris Baird
+age - 25/02/1982
+matchs - 79
+goals - 0
+goals conceded - 0
+club - Fulham (ENG)
+height - 181
+weight - 74
+
+
+--  15
+Défenseur
+Luke McCullough
+age - 15/02/1994
+matchs - 5
+goals - 0
+goals conceded - 0
+club - Doncaster (ENG)
+height - 185
+weight - 81
+
+
+--  17
+Défenseur
+Paddy McNair
+age - 27/04/1995
+matchs - 11
+goals - 0
+goals conceded - 0
+club - Man. United (ENG)
+height - 183
+weight - 72
+
+
+--  18
+Défenseur
+Aaron Hughes
+age - 08/11/1979
+matchs - 103
+goals - 1
+goals conceded - 0
+club - Melbourne City (AUS)
+height - 183
+weight - 78
+
+
+--  20
+Défenseur
+Craig Cathcart
+age - 06/02/1989
+matchs - 32
+goals - 2
+goals conceded - 0
+club - Watford (ENG)
+height - 188
+weight - 73
+
+
+--  22
+Défenseur
+Lee Hodson
+age - 02/10/1991
+matchs - 16
+goals - 0
+goals conceded - 0
+club - MK Dons (ENG)
+height - 174
+weight - 71
+
+
+--  3
+Milieu
+Shane Ferguson
+age - 12/07/1991
+matchs - 26
+goals - 1
+goals conceded - 0
+club - Millwall (ENG)
+height - 176
+weight - 65
+
+
+--  8
+Milieu
+Steven Davis
+age - 01/01/1985
+matchs - 87
+goals - 8
+goals conceded - 0
+club - Southampton (ENG)
+height - 172
+weight - 72
+
+
+--  13
+Milieu
+Corry Evans
+age - 30/07/1990
+matchs - 37
+goals - 1
+goals conceded - 0
+club - Blackburn (ENG)
+height - 173
+weight - 70
+
+
+--  14
+Milieu
+Stuart Dallas
+age - 19/04/1991
+matchs - 17
+goals - 1
+goals conceded - 0
+club - Leeds (ENG)
+height - 186
+weight - 81
+
+
+--  16
+Milieu
+Oliver Norwood
+age - 12/04/1991
+matchs - 38
+goals - 0
+goals conceded - 0
+club - Reading (ENG)
+height - 180
+weight - 76
+
+
+--  19
+Milieu
+Jamie Ward
+age - 12/05/1986
+matchs - 26
+goals - 2
+goals conceded - 0
+club - Nottm Forest (ENG)
+height - 165
+weight - 68
+
+
+--  21
+Milieu
+Josh Magennis
+age - 15/08/1990
+matchs - 22
+goals - 1
+goals conceded - 0
+club - Kilmarnock (SCO)
+height - 188
+weight - 92
+
+
+--  7
+Attaquant
+Niall McGinn
+age - 20/07/1987
+matchs - 45
+goals - 3
+goals conceded - 0
+club - Aberdeen (SCO)
+height - 183
+weight - 70
+
+
+--  9
+Attaquant
+Will Grigg
+age - 03/07/1991
+matchs - 8
+goals - 1
+goals conceded - 0
+club - Wigan (ENG)
+height - 180
+weight - 70
+
+
+--  10
+Attaquant
+Kyle Lafferty
+age - 16/09/1987
+matchs - 54
+goals - 17
+goals conceded - 0
+club - Birmingham (ENG)
+height - 193
+weight - 88
+
+
+--  11
+Attaquant
+Conor Washington
+age - 18/05/1992
+matchs - 8
+goals - 2
+goals conceded - 0
+club - QPR (ENG)
+height - 178
+weight - 74
+
+
+
+################# TEAM Islande ##############################
+
+
+--  1
+Gardien
+Hannes Halldórsson
+age - 27/04/1984
+matchs - 37
+goals - 0
+goals conceded - 40
+club - Bodø/Glimt (NOR)
+height - 193
+weight - 87
+
+
+--  12
+Gardien
+Ögmundur Kristinsson
+age - 19/06/1989
+matchs - 11
+goals - 0
+goals conceded - 20
+club - Hammarby (SWE)
+height - 192
+weight - 89
+
+
+--  13
+Gardien
+Ingvar Jónsson
+age - 18/10/1989
+matchs - 5
+goals - 0
+goals conceded - 6
+club - Sandefjord (NOR)
+height - 188
+weight - 82
+
+
+--  2
+Défenseur
+Birkir Sævarsson
+age - 11/11/1984
+matchs - 61
+goals - 1
+goals conceded - 0
+club - Hammarby (SWE)
+height - 187
+weight - 81
+
+
+--  3
+Défenseur
+Haukur Heidar Hauksson
+age - 01/09/1991
+matchs - 7
+goals - 0
+goals conceded - 0
+club - AIK (SWE)
+height - 187
+weight - 79
+
+
+--  4
+Défenseur
+Hjörtur Hermannsson
+age - 08/02/1995
+matchs - 3
+goals - 0
+goals conceded - 0
+club - Göteborg (SWE)
+height - 189
+weight - 81
+
+
+--  5
+Défenseur
+Sverrir Ingason
+age - 05/08/1993
+matchs - 7
+goals - 2
+goals conceded - 0
+club - Lokeren (BEL)
+height - 188
+weight - 83
+
+
+--  6
+Défenseur
+Ragnar Sigurdsson
+age - 19/06/1986
+matchs - 60
+goals - 2
+goals conceded - 0
+club - Krasnodar (RUS)
+height - 187
+weight - 77
+
+
+--  18
+Défenseur
+Elmar Bjarnason
+age - 04/03/1987
+matchs - 30
+goals - 0
+goals conceded - 0
+club - AGF (DEN)
+height - 183
+weight - 78
+
+
+--  19
+Défenseur
+Hordur Magnússon
+age - 11/02/1993
+matchs - 5
+goals - 0
+goals conceded - 0
+club - Cesena (ITA)
+height - 190
+weight - 81
+
+
+--  21
+Défenseur
+Arnor Ingvi Traustason
+age - 30/04/1993
+matchs - 9
+goals - 4
+goals conceded - 0
+club - Norrköping (SWE)
+height - 183
+weight - 74
+
+
+--  23
+Défenseur
+Ari Skúlason
+age - 14/05/1987
+matchs - 42
+goals - 0
+goals conceded - 0
+club - OB (DEN)
+height - 170
+weight - 65
+
+
+--  8
+Milieu
+Birkir Bjarnason
+age - 27/05/1988
+matchs - 51
+goals - 7
+goals conceded - 0
+club - Basel (SUI)
+height - 182
+weight - 75
+
+
+--  10
+Milieu
+Gylfi Sigurdsson
+age - 08/09/1989
+matchs - 43
+goals - 14
+goals conceded - 0
+club - Swansea (ENG)
+height - 186
+weight - 77
+
+
+--  14
+Milieu
+Kári Árnason
+age - 13/10/1982
+matchs - 51
+goals - 2
+goals conceded - 0
+club - Malmö (SWE)
+height - 190
+weight - 79
+
+
+--  16
+Milieu
+Rúnar Már Sigurjónsson
+age - 18/06/1990
+matchs - 11
+goals - 1
+goals conceded - 0
+club - Sundsvall (SWE)
+height - 178
+weight - 78
+
+
+--  17
+Milieu
+Aron Gunnarsson
+age - 22/04/1989
+matchs - 63
+goals - 2
+goals conceded - 0
+club - Cardiff (WAL)
+height - 178
+weight - 70
+
+
+--  20
+Milieu
+Emil Hallfredsson
+age - 29/06/1984
+matchs - 55
+goals - 1
+goals conceded - 0
+club - Udinese (ITA)
+height - 185
+weight - 83
+
+
+--  7
+Attaquant
+Johann Gudmundsson
+age - 27/10/1990
+matchs - 51
+goals - 4
+goals conceded - 0
+club - Charlton (ENG)
+height - 178
+weight - 72
+
+
+--  9
+Attaquant
+Kolbeinn Sigthórsson
+age - 14/03/1990
+matchs - 43
+goals - 21
+goals conceded - 0
+club - Nantes (FRA)
+height - 185
+weight - 70
+
+
+--  11
+Attaquant
+Alfred Finnbogason
+age - 01/02/1989
+matchs - 36
+goals - 8
+goals conceded - 0
+club - Augsburg (GER)
+height - 184
+weight - 78
+
+
+--  15
+Attaquant
+Jón Dadi Bödvarsson
+age - 25/05/1992
+matchs - 25
+goals - 2
+goals conceded - 0
+club - Kaiserslautern (GER)
+height - 190
+weight - 85
+
+
+--  22
+Attaquant
+Eidur Gudjohnsen
+age - 15/09/1978
+matchs - 87
+goals - 26
+goals conceded - 0
+club - Molde (NOR)
+height - 185
+weight - 82
+
+
+
+################# TEAM Italie ##############################
+
+
+--  1
+Gardien
+Gianluigi Buffon
+age - 28/01/1978
+matchs - 159
+goals - 0
+goals conceded - 103
+club - Juventus (ITA)
+height - 192
+weight - 91
+
+
+--  12
+Gardien
+Salvatore Sirigu
+age - 12/01/1987
+matchs - 17
+goals - 0
+goals conceded - 13
+club - Paris (FRA)
+height - 192
+weight - 80
+
+
+--  13
+Gardien
+Federico Marchetti
+age - 07/02/1983
+matchs - 11
+goals - 0
+goals conceded - 11
+club - Lazio (ITA)
+height - 188
+weight - 73
+
+
+--  2
+Défenseur
+Mattia De Sciglio
+age - 20/10/1992
+matchs - 25
+goals - 0
+goals conceded - 0
+club - Milan (ITA)
+height - 183
+weight - 74
+
+
+--  3
+Défenseur
+Giorgio Chiellini
+age - 14/08/1984
+matchs - 87
+goals - 7
+goals conceded - 0
+club - Juventus (ITA)
+height - 187
+weight - 86
+
+
+--  4
+Défenseur
+Matteo Darmian
+age - 02/12/1989
+matchs - 25
+goals - 1
+goals conceded - 0
+club - Man. United (ENG)
+height - 182
+weight - 70
+
+
+--  5
+Défenseur
+Angelo Ogbonna
+age - 23/05/1988
+matchs - 12
+goals - 0
+goals conceded - 0
+club - West Ham (ENG)
+height - 191
+weight - 86
+
+
+--  15
+Défenseur
+Andrea Barzagli
+age - 08/05/1981
+matchs - 60
+goals - 0
+goals conceded - 0
+club - Juventus (ITA)
+height - 187
+weight - 87
+
+
+--  19
+Défenseur
+Leonardo Bonucci
+age - 01/05/1987
+matchs - 61
+goals - 3
+goals conceded - 0
+club - Juventus (ITA)
+height - 190
+weight - 86
+
+
+--  6
+Milieu
+Antonio Candreva
+age - 28/02/1987
+matchs - 40
+goals - 4
+goals conceded - 0
+club - Lazio (ITA)
+height - 180
+weight - 70
+
+
+--  8
+Milieu
+Alessandro Florenzi
+age - 11/03/1991
+matchs - 20
+goals - 2
+goals conceded - 0
+club - Roma (ITA)
+height - 173
+weight - 67
+
+
+--  10
+Milieu
+Thiago Motta
+age - 28/08/1982
+matchs - 30
+goals - 1
+goals conceded - 0
+club - Paris (FRA)
+height - 183
+weight - 82
+
+
+--  14
+Milieu
+Stefano Sturaro
+age - 09/03/1993
+matchs - 3
+goals - 0
+goals conceded - 0
+club - Juventus (ITA)
+height - 178
+weight - 78
+
+
+--  16
+Milieu
+Daniele De Rossi
+age - 24/07/1983
+matchs - 106
+goals - 18
+goals conceded - 0
+club - Roma (ITA)
+height - 184
+weight - 83
+
+
+--  18
+Milieu
+Marco Parolo
+age - 25/01/1985
+matchs - 23
+goals - 0
+goals conceded - 0
+club - Lazio (ITA)
+height - 184
+weight - 75
+
+
+--  21
+Milieu
+Federico Bernardeschi
+age - 16/02/1994
+matchs - 5
+goals - 0
+goals conceded - 0
+club - Fiorentina (ITA)
+height - 183
+weight - 75
+
+
+--  23
+Milieu
+Emanuele Giaccherini
+age - 05/05/1985
+matchs - 28
+goals - 4
+goals conceded - 0
+club - Bologna (ITA)
+height - 167
+weight - 60
+
+
+--  7
+Attaquant
+Simone Zaza
+age - 25/06/1991
+matchs - 13
+goals - 1
+goals conceded - 0
+club - Juventus (ITA)
+height - 186
+weight - 83
+
+
+--  9
+Attaquant
+Graziano Pellè
+age - 15/07/1985
+matchs - 16
+goals - 7
+goals conceded - 0
+club - Southampton (ENG)
+height - 194
+weight - 84
+
+
+--  11
+Attaquant
+Ciro Immobile
+age - 20/02/1990
+matchs - 15
+goals - 1
+goals conceded - 0
+club - Torino (ITA)
+height - 185
+weight - 78
+
+
+--  17
+Attaquant
+ Éder
+age - 15/11/1986
+matchs - 13
+goals - 3
+goals conceded - 0
+club - Internazionale (ITA)
+height - 179
+weight - 72
+
+
+--  20
+Attaquant
+Lorenzo Insigne
+age - 04/06/1991
+matchs - 11
+goals - 2
+goals conceded - 0
+club - Napoli (ITA)
+height - 163
+weight - 59
+
+
+--  22
+Attaquant
+Stephan El Shaarawy
+age - 27/10/1992
+matchs - 20
+goals - 3
+goals conceded - 0
+club - Roma (ITA)
+height - 178
+weight - 72
+
+
+
+################# TEAM Pays de Galles ##############################
+
+
+--  1
+Gardien
+Wayne Hennessey
+age - 24/01/1987
+matchs - 60
+goals - 0
+goals conceded - 49
+club - Crystal Palace (ENG)
+height - 198
+weight - 90
+
+
+--  12
+Gardien
+Owain Fôn Williams
+age - 17/03/1987
+matchs - 1
+goals - 0
+goals conceded - 0
+club - Inverness (SCO)
+height - 193
+weight - 77
+
+
+--  21
+Gardien
+Danny Ward
+age - 22/06/1993
+matchs - 3
+goals - 0
+goals conceded - 4
+club - Liverpool (ENG)
+height - 191
+weight - 88
+
+
+--  2
+Défenseur
+Chris Gunter
+age - 21/07/1989
+matchs - 71
+goals - 0
+goals conceded - 0
+club - Reading (ENG)
+height - 180
+weight - 71
+
+
+--  3
+Défenseur
+Neil Taylor
+age - 07/02/1989
+matchs - 32
+goals - 1
+goals conceded - 0
+club - Swansea (ENG)
+height - 175
+weight - 64
+
+
+--  4
+Défenseur
+Ben Davies
+age - 24/04/1993
+matchs - 24
+goals - 0
+goals conceded - 0
+club - Tottenham (ENG)
+height - 181
+weight - 76
+
+
+--  5
+Défenseur
+James Chester
+age - 23/01/1989
+matchs - 15
+goals - 0
+goals conceded - 0
+club - West Brom (ENG)
+height - 177
+weight - 75
+
+
+--  6
+Défenseur
+Ashley Williams
+age - 23/08/1984
+matchs - 63
+goals - 1
+goals conceded - 0
+club - Swansea (ENG)
+height - 183
+weight - 71
+
+
+--  15
+Défenseur
+Jazz Richards
+age - 12/04/1991
+matchs - 10
+goals - 0
+goals conceded - 0
+club - Fulham (ENG)
+height - 185
+weight - 78
+
+
+--  19
+Défenseur
+James Collins
+age - 23/08/1983
+matchs - 47
+goals - 3
+goals conceded - 0
+club - West Ham (ENG)
+height - 188
+weight - 83
+
+
+--  7
+Milieu
+Joe Allen
+age - 14/03/1990
+matchs - 29
+goals - 0
+goals conceded - 0
+club - Liverpool (ENG)
+height - 168
+weight - 62
+
+
+--  8
+Milieu
+Andy King
+age - 29/10/1988
+matchs - 34
+goals - 2
+goals conceded - 0
+club - Leicester (ENG)
+height - 183
+weight - 74
+
+
+--  10
+Milieu
+Aaron Ramsey
+age - 26/12/1990
+matchs - 43
+goals - 11
+goals conceded - 0
+club - Arsenal (ENG)
+height - 178
+weight - 76
+
+
+--  14
+Milieu
+David Edwards
+age - 03/02/1986
+matchs - 35
+goals - 3
+goals conceded - 0
+club - Wolves (ENG)
+height - 183
+weight - 78
+
+
+--  16
+Milieu
+Joe Ledley
+age - 23/01/1987
+matchs - 65
+goals - 4
+goals conceded - 0
+club - Crystal Palace (ENG)
+height - 183
+weight - 73
+
+
+--  20
+Milieu
+Jonathan Williams
+age - 09/10/1993
+matchs - 15
+goals - 0
+goals conceded - 0
+club - Crystal Palace (ENG)
+height - 168
+weight - 60
+
+
+--  22
+Milieu
+David Vaughan
+age - 18/02/1983
+matchs - 42
+goals - 1
+goals conceded - 0
+club - Nottm Forest (ENG)
+height - 171
+weight - 70
+
+
+--  9
+Attaquant
+Hal Robson-Kanu
+age - 21/05/1989
+matchs - 33
+goals - 3
+goals conceded - 0
+club - Reading (ENG)
+height - 183
+weight - 83
+
+
+--  11
+Attaquant
+Gareth Bale
+age - 16/07/1989
+matchs - 59
+goals - 22
+goals conceded - 0
+club - Real Madrid (ESP)
+height - 183
+weight - 74
+
+
+--  13
+Attaquant
+George Williams
+age - 07/09/1995
+matchs - 7
+goals - 0
+goals conceded - 0
+club - Fulham (ENG)
+height - 172
+weight - 73
+
+
+--  17
+Attaquant
+David Cotterill
+age - 04/12/1987
+matchs - 23
+goals - 2
+goals conceded - 0
+club - Birmingham (ENG)
+height - 175
+weight - 71
+
+
+--  18
+Attaquant
+Sam Vokes
+age - 21/10/1989
+matchs - 42
+goals - 6
+goals conceded - 0
+club - Burnley (ENG)
+height - 186
+weight - 90
+
+
+--  23
+Attaquant
+Simon Church
+age - 10/12/1988
+matchs - 37
+goals - 3
+goals conceded - 0
+club - MK Dons (ENG)
+height - 183
+weight - 84
+
+
+
+################# TEAM Pologne ##############################
+
+
+--  1
+Gardien
+Wojciech Szczęsny
+age - 18/04/1990
+matchs - 27
+goals - 0
+goals conceded - 19
+club - Roma (ITA)
+height - 196
+weight - 84
+
+
+--  12
+Gardien
+Artur Boruc
+age - 20/02/1980
+matchs - 63
+goals - 0
+goals conceded - 57
+club - Bournemouth (ENG)
+height - 193
+weight - 88
+
+
+--  22
+Gardien
+Łukasz Fabiański
+age - 18/04/1985
+matchs - 33
+goals - 0
+goals conceded - 22
+club - Swansea (ENG)
+height - 190
+weight - 83
+
+
+--  2
+Défenseur
+Michał Pazdan
+age - 21/09/1987
+matchs - 19
+goals - 0
+goals conceded - 0
+club - Legia (POL)
+height - 181
+weight - 78
+
+
+--  3
+Défenseur
+Artur Jędrzejczyk
+age - 04/11/1987
+matchs - 22
+goals - 3
+goals conceded - 0
+club - Legia (POL)
+height - 189
+weight - 78
+
+
+--  4
+Défenseur
+Thiago Cionek
+age - 21/04/1986
+matchs - 7
+goals - 0
+goals conceded - 0
+club - Palermo (ITA)
+height - 184
+weight - 80
+
+
+--  4
+Défenseur
+Thiago Cionek
+age - 07/07/1983
+matchs - 46
+goals - 1
+goals conceded - 0
+club - Lechia (POL)
+height - 188
+weight - 85
+
+
+--  14
+Défenseur
+Jakub Wawrzyniak
+age - 03/02/1988
+matchs - 45
+goals - 3
+goals conceded - 0
+club - Torino (ITA)
+height - 190
+weight - 80
+
+
+--  15
+Défenseur
+Kamil Glik
+age - 01/05/1991
+matchs - 8
+goals - 0
+goals conceded - 0
+club - Cagliari (ITA)
+height - 196
+weight - 89
+
+
+--  18
+Défenseur
+Bartosz Salamon
+age - 03/06/1985
+matchs - 49
+goals - 2
+goals conceded - 0
+club - Dortmund (GER)
+height - 184
+weight - 79
+
+
+--  20
+Défenseur
+Łukasz Piszczek
+age - 23/05/1987
+matchs - 19
+goals - 1
+goals conceded - 0
+club - Wisła (POL)
+height - 175
+weight - 66
+
+
+--  5
+Milieu
+Krzysztof Mączyński
+age - 08/09/1985
+matchs - 47
+goals - 1
+goals conceded - 0
+club - Legia (POL)
+height - 189
+weight - 91
+
+
+--  6
+Milieu
+Tomasz Jodłowiec
+age - 02/02/1995
+matchs - 10
+goals - 1
+goals conceded - 0
+club - Lech (POL)
+height - 176
+weight - 74
+
+
+--  8
+Milieu
+Karol Linetty
+age - 29/01/1990
+matchs - 38
+goals - 2
+goals conceded - 0
+club - Sevilla (ESP)
+height - 186
+weight - 83
+
+
+--  10
+Milieu
+Grzegorz Krychowiak
+age - 08/06/1988
+matchs - 42
+goals - 8
+goals conceded - 0
+club - Rennes (FRA)
+height - 180
+weight - 78
+
+
+--  11
+Milieu
+Kamil Grosicki
+age - 14/12/1985
+matchs - 83
+goals - 18
+goals conceded - 0
+club - Fiorentina (ITA)
+height - 176
+weight - 77
+
+
+--  16
+Milieu
+Jakub Błaszczykowski
+age - 19/02/1985
+matchs - 40
+goals - 2
+goals conceded - 0
+club - Lechia (POL)
+height - 173
+weight - 70
+
+
+--  17
+Milieu
+Sławomir Peszko
+age - 20/05/1994
+matchs - 16
+goals - 3
+goals conceded - 0
+club - Empoli (ITA)
+height - 177
+weight - 64
+
+
+--  19
+Milieu
+Piotr Zieliński
+age - 23/12/1996
+matchs - 10
+goals - 2
+goals conceded - 0
+club - Cracovia (POL)
+height - 179
+weight - 60
+
+
+--  21
+Milieu
+Bartosz Kapustka
+age - 27/05/1991
+matchs - 4
+goals - 1
+goals conceded - 0
+club - Zagłębie (POL)
+height - 184
+weight - 72
+
+
+--  23
+Milieu
+Filip Starzyński
+age - 28/02/1994
+matchs - 30
+goals - 11
+goals conceded - 0
+club - Ajax (NED)
+height - 186
+weight - 78
+
+
+--  7
+Attaquant
+Arkadiusz Milik
+age - 21/08/1988
+matchs - 80
+goals - 34
+goals conceded - 0
+club - Bayern (GER)
+height - 184
+weight - 78
+
+
+--  9
+Attaquant
+Robert Lewandowski
+age - 12/05/1995
+matchs - 2
+goals - 0
+goals conceded - 0
+club - Ruch (POL)
+height - 183
+weight - 73
+
+
+
+################# TEAM Portugal ##############################
+
+
+--  1
+Gardien
+ Rui Patrício
+age - 15/02/1988
+matchs - 49
+goals - 0
+goals conceded - 47
+club - Sporting CP (POR)
+height - 190
+weight - 84
+
+
+--  12
+Gardien
+Anthony Lopes
+age - 01/10/1990
+matchs - 4
+goals - 0
+goals conceded - 3
+club - Lyon (FRA)
+height - 184
+weight - 81
+
+
+--  22
+Gardien
+ Eduardo
+age - 19/09/1982
+matchs - 35
+goals - 14
+goals conceded - 0
+club - Dinamo Zagreb (CRO)
+height - 188
+weight - 89
+
+
+--  2
+Défenseur
+ Bruno Alves
+age - 27/11/1981
+matchs - 85
+goals - 10
+goals conceded - 0
+club - Fenerbahçe (TUR)
+height - 189
+weight - 83
+
+
+--  3
+Défenseur
+ Pepe
+age - 26/02/1983
+matchs - 75
+goals - 3
+goals conceded - 0
+club - Real Madrid (ESP)
+height - 188
+weight - 81
+
+
+--  4
+Défenseur
+José Fonte
+age - 22/12/1983
+matchs - 13
+goals - 0
+goals conceded - 0
+club - Southampton (ENG)
+height - 187
+weight - 81
+
+
+--  5
+Défenseur
+ Raphael Guerreiro
+age - 22/12/1993
+matchs - 10
+goals - 2
+goals conceded - 0
+club - Lorient (FRA)
+height - 170
+weight - 67
+
+
+--  6
+Défenseur
+ Ricardo Carvalho
+age - 18/05/1978
+matchs - 89
+goals - 6
+goals conceded - 0
+club - Monaco (FRA)
+height - 183
+weight - 78
+
+
+--  19
+Défenseur
+ Eliseu
+age - 01/10/1983
+matchs - 17
+goals - 1
+goals conceded - 0
+club - Benfica (POR)
+height - 180
+weight - 75
+
+
+--  21
+Défenseur
+ Cédric
+age - 31/08/1991
+matchs - 12
+goals - 0
+goals conceded - 0
+club - Southampton (ENG)
+height - 172
+weight - 67
+
+
+--  8
+Milieu
+ João Moutinho
+age - 08/09/1986
+matchs - 87
+goals - 4
+goals conceded - 0
+club - Monaco (FRA)
+height - 171
+weight - 61
+
+
+--  10
+Milieu
+ João Mário
+age - 19/01/1993
+matchs - 15
+goals - 0
+goals conceded - 0
+club - Sporting CP (POR)
+height - 179
+weight - 73
+
+
+--  11
+Milieu
+ Vieirinha
+age - 24/01/1986
+matchs - 25
+goals - 1
+goals conceded - 0
+club - Wolfsburg (GER)
+height - 172
+weight - 73
+
+
+--  13
+Milieu
+ Danilo
+age - 09/09/1991
+matchs - 15
+goals - 1
+goals conceded - 0
+club - Porto (POR)
+height - 188
+weight - 83
+
+
+--  14
+Milieu
+ William Carvalho
+age - 07/04/1992
+matchs - 23
+goals - 0
+goals conceded - 0
+club - Sporting CP (POR)
+height - 187
+weight - 83
+
+
+--  15
+Milieu
+ André Gomes
+age - 30/07/1993
+matchs - 12
+goals - 0
+goals conceded - 0
+club - Valencia (ESP)
+height - 188
+weight - 84
+
+
+--  16
+Milieu
+ Renato Sanches
+age - 18/08/1997
+matchs - 8
+goals - 0
+goals conceded - 0
+club - Benfica (POR)
+height - 176
+weight - 70
+
+
+--  18
+Milieu
+ Rafa Silva
+age - 17/05/1993
+matchs - 9
+goals - 0
+goals conceded - 0
+club - Braga (POR)
+height - 170
+weight - 63
+
+
+--  23
+Milieu
+ Adrien Silva
+age - 15/03/1989
+matchs - 10
+goals - 0
+goals conceded - 0
+club - Sporting CP (POR)
+height - 175
+weight - 69
+
+
+--  7
+Attaquant
+Cristiano Ronaldo
+age - 05/02/1985
+matchs - 130
+goals - 60
+goals conceded - 0
+club - Real Madrid (ESP)
+height - 185
+weight - 80
+
+
+--  9
+Attaquant
+ Éder
+age - 22/12/1987
+matchs - 28
+goals - 3
+goals conceded - 0
+club - LOSC (FRA)
+height - 188
+weight - 81
+
+
+--  17
+Attaquant
+ Nani
+age - 17/11/1986
+matchs - 100
+goals - 19
+goals conceded - 0
+club - Fenerbahçe (TUR)
+height - 175
+weight - 66
+
+
+--  20
+Attaquant
+Ricardo Quaresma
+age - 26/09/1983
+matchs - 54
+goals - 8
+goals conceded - 0
+club - Beşiktaş (TUR)
+height - 175
+weight - 67
+
+
+
+################# TEAM République d'Irlande ##############################
+
+
+--  1
+Gardien
+Keiren Westwood
+age - 23/10/1984
+matchs - 17
+goals - 0
+goals conceded - 11
+club - Sheff. Wednesday (ENG)
+height - 187
+weight - 92
+
+
+--  16
+Gardien
+Shay Given
+age - 20/04/1976
+matchs - 133
+goals - 0
+goals conceded - 82
+club - Stoke (ENG)
+height - 185
+weight - 84
+
+
+--  23
+Gardien
+Darren Randolph
+age - 12/05/1987
+matchs - 13
+goals - 0
+goals conceded - 13
+club - West Ham (ENG)
+height - 188
+weight - 98
+
+
+--  2
+Défenseur
+Seamus Coleman
+age - 11/10/1988
+matchs - 38
+goals - 0
+goals conceded - 0
+club - Everton (ENG)
+height - 177
+weight - 67
+
+
+--  3
+Défenseur
+Ciaran Clark
+age - 26/09/1989
+matchs - 19
+goals - 2
+goals conceded - 0
+club - Aston Villa (ENG)
+height - 188
+weight - 76
+
+
+--  4
+Défenseur
+John O'Shea
+age - 30/04/1981
+matchs - 113
+goals - 3
+goals conceded - 0
+club - Sunderland (ENG)
+height - 191
+weight - 75
+
+
+--  5
+Défenseur
+Richard Keogh
+age - 11/08/1986
+matchs - 14
+goals - 1
+goals conceded - 0
+club - Derby (ENG)
+height - 188
+weight - 87
+
+
+--  12
+Défenseur
+Shane Duffy
+age - 01/01/1992
+matchs - 5
+goals - 0
+goals conceded - 0
+club - Blackburn (ENG)
+height - 193
+weight - 76
+
+
+--  15
+Défenseur
+Cyrus Christie
+age - 30/09/1992
+matchs - 5
+goals - 1
+goals conceded - 0
+club - Derby (ENG)
+height - 188
+weight - 78
+
+
+--  17
+Défenseur
+Stephen Ward
+age - 20/08/1985
+matchs - 35
+goals - 3
+goals conceded - 0
+club - Burnley (ENG)
+height - 184
+weight - 72
+
+
+--  6
+Milieu
+Glenn Whelan
+age - 13/01/1984
+matchs - 72
+goals - 2
+goals conceded - 0
+club - Stoke (ENG)
+height - 180
+weight - 79
+
+
+--  7
+Milieu
+Aiden McGeady
+age - 04/04/1986
+matchs - 84
+goals - 5
+goals conceded - 0
+club - Sheff. Wednesday (ENG)
+height - 177
+weight - 71
+
+
+--  8
+Milieu
+James McCarthy
+age - 12/11/1990
+matchs - 39
+goals - 0
+goals conceded - 0
+club - Everton (ENG)
+height - 180
+weight - 72
+
+
+--  11
+Milieu
+James McClean
+age - 22/04/1989
+matchs - 42
+goals - 5
+goals conceded - 0
+club - West Brom (ENG)
+height - 180
+weight - 70
+
+
+--  13
+Milieu
+Jeff Hendrick
+age - 31/01/1992
+matchs - 25
+goals - 0
+goals conceded - 0
+club - Derby (ENG)
+height - 185
+weight - 79
+
+
+--  18
+Milieu
+David Meyler
+age - 29/05/1989
+matchs - 16
+goals - 0
+goals conceded - 0
+club - Hull (ENG)
+height - 189
+weight - 91
+
+
+--  19
+Milieu
+Robbie Brady
+age - 14/01/1992
+matchs - 27
+goals - 6
+goals conceded - 0
+club - Norwich (ENG)
+height - 175
+weight - 69
+
+
+--  20
+Milieu
+Wes Hoolahan
+age - 20/05/1982
+matchs - 34
+goals - 3
+goals conceded - 0
+club - Norwich (ENG)
+height - 168
+weight - 71
+
+
+--  22
+Milieu
+Stephen Quinn
+age - 01/04/1986
+matchs - 16
+goals - 0
+goals conceded - 0
+club - Reading (ENG)
+height - 168
+weight - 60
+
+
+--  9
+Attaquant
+Shane Long
+age - 22/01/1987
+matchs - 67
+goals - 16
+goals conceded - 0
+club - Southampton (ENG)
+height - 180
+weight - 81
+
+
+--  10
+Attaquant
+Robbie Keane
+age - 08/07/1980
+matchs - 144
+goals - 67
+goals conceded - 0
+club - LA Galaxy (USA)
+height - 175
+weight - 72
+
+
+--  14
+Attaquant
+Jon Walters
+age - 20/09/1983
+matchs - 40
+goals - 10
+goals conceded - 0
+club - Stoke (ENG)
+height - 183
+weight - 79
+
+
+--  21
+Attaquant
+Daryl Murphy
+age - 15/03/1983
+matchs - 22
+goals - 0
+goals conceded - 0
+club - Ipswich (ENG)
+height - 191
+weight - 88
+
+
+
+################# TEAM Rép. tchèque ##############################
+
+
+--  1
+Gardien
+Petr Čech
+age - 20/05/1982
+matchs - 124
+goals - 0
+goals conceded - 103
+club - Arsenal (ENG)
+height - 196
+weight - 90
+
+
+--  16
+Gardien
+Tomáš Vaclík
+age - 29/03/1989
+matchs - 6
+goals - 0
+goals conceded - 6
+club - Basel (SUI)
+height - 188
+weight - 85
+
+
+--  23
+Gardien
+Tomáš Koubek
+age - 26/08/1992
+matchs - 2
+goals - 0
+goals conceded - 1
+club - Liberec (CZE)
+height - 198
+weight - 95
+
+
+--  2
+Défenseur
+Pavel Kadeřábek
+age - 25/04/1992
+matchs - 21
+goals - 2
+goals conceded - 0
+club - Hoffenheim (GER)
+height - 182
+weight - 81
+
+
+--  3
+Défenseur
+Michal Kadlec
+age - 13/12/1984
+matchs - 65
+goals - 8
+goals conceded - 0
+club - Fenerbahçe (TUR)
+height - 185
+weight - 76
+
+
+--  4
+Défenseur
+Theodor Gebre Selassie
+age - 24/12/1986
+matchs - 37
+goals - 1
+goals conceded - 0
+club - Bremen (GER)
+height - 181
+weight - 71
+
+
+--  5
+Défenseur
+Roman Hubník
+age - 06/06/1984
+matchs - 29
+goals - 3
+goals conceded - 0
+club - Plzeň (CZE)
+height - 191
+weight - 86
+
+
+--  6
+Défenseur
+Tomáš Sivok
+age - 15/09/1983
+matchs - 58
+goals - 5
+goals conceded - 0
+club - Bursaspor (TUR)
+height - 185
+weight - 77
+
+
+--  8
+Défenseur
+David Limberský
+age - 06/10/1983
+matchs - 40
+goals - 1
+goals conceded - 0
+club - Plzeň (CZE)
+height - 179
+weight - 79
+
+
+--  17
+Défenseur
+Marek Suchý
+age - 29/03/1988
+matchs - 27
+goals - 1
+goals conceded - 0
+club - Basel (SUI)
+height - 184
+weight - 84
+
+
+--  9
+Milieu
+Bořek Dočkal
+age - 30/09/1988
+matchs - 25
+goals - 6
+goals conceded - 0
+club - Sparta Praha (CZE)
+height - 182
+weight - 72
+
+
+--  10
+Milieu
+Tomáš Rosický
+age - 04/10/1980
+matchs - 105
+goals - 23
+goals conceded - 0
+club - Arsenal (ENG)
+height - 178
+weight - 65
+
+
+--  11
+Milieu
+Daniel Pudil
+age - 27/09/1985
+matchs - 33
+goals - 2
+goals conceded - 0
+club - Sheff. Wednesday (ENG)
+height - 185
+weight - 81
+
+
+--  13
+Milieu
+Jaroslav Plašil
+age - 05/01/1982
+matchs - 103
+goals - 7
+goals conceded - 0
+club - Bordeaux (FRA)
+height - 182
+weight - 72
+
+
+--  14
+Milieu
+Daniel Kolář
+age - 27/10/1985
+matchs - 29
+goals - 2
+goals conceded - 0
+club - Plzeň (CZE)
+height - 180
+weight - 77
+
+
+--  15
+Milieu
+David Pavelka
+age - 18/05/1991
+matchs - 10
+goals - 0
+goals conceded - 0
+club - Kasımpaşa (TUR)
+height - 185
+weight - 74
+
+
+--  18
+Milieu
+Josef Šural
+age - 30/05/1990
+matchs - 14
+goals - 1
+goals conceded - 0
+club - Sparta Praha (CZE)
+height - 184
+weight - 81
+
+
+--  19
+Milieu
+Ladislav Krejčí
+age - 05/07/1992
+matchs - 26
+goals - 4
+goals conceded - 0
+club - Sparta Praha (CZE)
+height - 180
+weight - 67
+
+
+--  20
+Milieu
+Jiří Skalák
+age - 12/03/1992
+matchs - 11
+goals - 0
+goals conceded - 0
+club - Brighton (ENG)
+height - 177
+weight - 76
+
+
+--  22
+Milieu
+Vladimír Darida
+age - 08/08/1990
+matchs - 39
+goals - 1
+goals conceded - 0
+club - Hertha (GER)
+height - 171
+weight - 74
+
+
+--  7
+Attaquant
+Tomáš Necid
+age - 13/08/1989
+matchs - 42
+goals - 12
+goals conceded - 0
+club - Bursaspor (TUR)
+height - 190
+weight - 81
+
+
+--  12
+Attaquant
+Milan Škoda
+age - 16/01/1986
+matchs - 11
+goals - 4
+goals conceded - 0
+club - Slavia Praha (CZE)
+height - 190
+weight - 86
+
+
+--  21
+Attaquant
+David Lafata
+age - 18/09/1981
+matchs - 41
+goals - 9
+goals conceded - 0
+club - Sparta Praha (CZE)
+height - 180
+weight - 72
+
+
+
+################# TEAM Roumanie ##############################
+
+
+--  1
+Gardien
+Costel Pantilimon
+age - 01/02/1987
+matchs - 21
+goals - 0
+goals conceded - 18
+club - Watford (ENG)
+height - 203
+weight - 96
+
+
+--  12
+Gardien
+Ciprian Tătăruşanu
+age - 09/02/1986
+matchs - 40
+goals - 0
+goals conceded - 27
+club - Fiorentina (ITA)
+height - 195
+weight - 88
+
+
+--  23
+Gardien
+Silviu Lung
+age - 04/06/1989
+matchs - 3
+goals - 0
+goals conceded - 2
+club - Astra (ROU)
+height - 189
+weight - 78
+
+
+--  2
+Défenseur
+Alexandru Măţel
+age - 17/10/1989
+matchs - 17
+goals - 0
+goals conceded - 0
+club - Dinamo Zagreb (CRO)
+height - 177
+weight - 72
+
+
+--  3
+Défenseur
+Răzvan Raţ
+age - 26/05/1981
+matchs - 113
+goals - 2
+goals conceded - 0
+club - Rayo Vallecano (ESP)
+height - 178
+weight - 72
+
+
+--  4
+Défenseur
+Cosmin Moţi
+age - 03/12/1984
+matchs - 8
+goals - 0
+goals conceded - 0
+club - Ludogorets (BUL)
+height - 183
+weight - 74
+
+
+--  6
+Défenseur
+Vlad Chiricheş
+age - 14/11/1989
+matchs - 44
+goals - 0
+goals conceded - 0
+club - Napoli (ITA)
+height - 184
+weight - 75
+
+
+--  15
+Défenseur
+Valerică Găman
+age - 25/02/1989
+matchs - 14
+goals - 1
+goals conceded - 0
+club - Astra (ROU)
+height - 188
+weight - 72
+
+
+--  16
+Défenseur
+Steliano Filip
+age - 15/05/1994
+matchs - 5
+goals - 0
+goals conceded - 0
+club - Dinamo Bucureşti (ROU)
+height - 177
+weight - 73
+
+
+--  21
+Défenseur
+Dragoş Grigore
+age - 07/09/1986
+matchs - 23
+goals - 0
+goals conceded - 0
+club - Al-Sailiya (QAT)
+height - 185
+weight - 76
+
+
+--  22
+Défenseur
+Cristian Săpunaru
+age - 05/04/1984
+matchs - 16
+goals - 0
+goals conceded - 0
+club - Pandurii (ROU)
+height - 187
+weight - 81
+
+
+--  5
+Milieu
+Ovidiu Hoban
+age - 27/12/1982
+matchs - 23
+goals - 1
+goals conceded - 0
+club - H. Beer-Sheva (ISR)
+height - 182
+weight - 80
+
+
+--  7
+Milieu
+Alexandru Chipciu
+age - 18/05/1989
+matchs - 24
+goals - 3
+goals conceded - 0
+club - Steaua (ROU)
+height - 177
+weight - 74
+
+
+--  8
+Milieu
+Mihai Pintilii
+age - 09/11/1984
+matchs - 34
+goals - 1
+goals conceded - 0
+club - Steaua (ROU)
+height - 180
+weight - 78
+
+
+--  10
+Milieu
+Nicolae Stanciu
+age - 07/05/1993
+matchs - 7
+goals - 4
+goals conceded - 0
+club - Steaua (ROU)
+height - 170
+weight - 69
+
+
+--  11
+Milieu
+Gabriel Torje
+age - 22/11/1989
+matchs - 54
+goals - 12
+goals conceded - 0
+club - Osmanlıspor (TUR)
+height - 168
+weight - 71
+
+
+--  17
+Milieu
+Lucian Sânmărtean
+age - 13/03/1980
+matchs - 21
+goals - 0
+goals conceded - 0
+club - Al-Ittihad (KSA)
+height - 175
+weight - 70
+
+
+--  18
+Milieu
+Andrei Prepeliţă
+age - 08/12/1985
+matchs - 12
+goals - 0
+goals conceded - 0
+club - Ludogorets (BUL)
+height - 178
+weight - 79
+
+
+--  20
+Milieu
+Adrian Popa
+age - 24/07/1988
+matchs - 16
+goals - 1
+goals conceded - 0
+club - Steaua (ROU)
+height - 169
+weight - 71
+
+
+--  9
+Attaquant
+Denis Alibec
+age - 05/01/1991
+matchs - 6
+goals - 1
+goals conceded - 0
+club - Astra (ROU)
+height - 187
+weight - 77
+
+
+--  13
+Attaquant
+Claudiu Keșerü
+age - 02/12/1986
+matchs - 14
+goals - 5
+goals conceded - 0
+club - Ludogorets (BUL)
+height - 178
+weight - 71
+
+
+--  14
+Attaquant
+Florin Andone
+age - 11/04/1993
+matchs - 9
+goals - 1
+goals conceded - 0
+club - Córdoba (ESP)
+height - 182
+weight - 78
+
+
+--  19
+Attaquant
+Bogdan Stancu
+age - 28/06/1987
+matchs - 44
+goals - 11
+goals conceded - 0
+club - Gençlerbirliği (TUR)
+height - 183
+weight - 75
+
+
+
+################# TEAM Russie ##############################
+
+
+--  1
+Gardien
+Igor Akinfeev
+age - 08/04/1986
+matchs - 89
+goals - 0
+goals conceded - 67
+club - CSKA Moskva (RUS)
+height - 186
+weight - 82
+
+
+--  12
+Gardien
+Yuri Lodygin
+age - 26/05/1990
+matchs - 11
+goals - 0
+goals conceded - 3
+club - Zenit (RUS)
+height - 187
+weight - 82
+
+
+--  16
+Gardien
+ Guilherme
+age - 12/12/1985
+matchs - 2
+goals - 0
+goals conceded - 2
+club - Lokomotiv Moskva (RUS)
+height - 197
+weight - 78
+
+
+--  2
+Défenseur
+Roman Shishkin
+age - 27/01/1987
+matchs - 11
+goals - 0
+goals conceded - 0
+club - Lokomotiv Moskva (RUS)
+height - 176
+weight - 73
+
+
+--  3
+Défenseur
+Igor Smolnikov
+age - 08/08/1988
+matchs - 17
+goals - 0
+goals conceded - 0
+club - Zenit (RUS)
+height - 178
+weight - 70
+
+
+--  4
+Défenseur
+Sergei Ignashevich
+age - 14/07/1979
+matchs - 119
+goals - 8
+goals conceded - 0
+club - CSKA Moskva (RUS)
+height - 187
+weight - 84
+
+
+--  5
+Défenseur
+Roman Neustädter
+age - 18/02/1988
+matchs - 5
+goals - 0
+goals conceded - 0
+club - Schalke (GER)
+height - 190
+weight - 83
+
+
+--  6
+Défenseur
+Aleksei Berezutski
+age - 20/06/1982
+matchs - 56
+goals - 0
+goals conceded - 0
+club - CSKA Moskva (RUS)
+height - 190
+weight - 87
+
+
+--  14
+Défenseur
+Vasili Berezutski
+age - 20/06/1982
+matchs - 98
+goals - 5
+goals conceded - 0
+club - CSKA Moskva (RUS)
+height - 189
+weight - 87
+
+
+--  21
+Défenseur
+Georgi Schennikov
+age - 27/04/1991
+matchs - 10
+goals - 0
+goals conceded - 0
+club - CSKA Moskva (RUS)
+height - 180
+weight - 75
+
+
+--  23
+Défenseur
+Dmitri Kombarov
+age - 22/01/1987
+matchs - 39
+goals - 2
+goals conceded - 0
+club - Spartak Moskva (RUS)
+height - 181
+weight - 72
+
+
+--  7
+Milieu
+Artur Yusupov
+age - 01/09/1989
+matchs - 2
+goals - 0
+goals conceded - 0
+club - Zenit (RUS)
+height - 180
+weight - 73
+
+
+--  8
+Milieu
+Denis Glushakov
+age - 27/01/1987
+matchs - 46
+goals - 5
+goals conceded - 0
+club - Spartak Moskva (RUS)
+height - 182
+weight - 80
+
+
+--  11
+Milieu
+Pavel Mamaev
+age - 17/09/1988
+matchs - 15
+goals - 0
+goals conceded - 0
+club - Krasnodar (RUS)
+height - 178
+weight - 70
+
+
+--  13
+Milieu
+Aleksandr Golovin
+age - 30/05/1996
+matchs - 8
+goals - 2
+goals conceded - 0
+club - CSKA Moskva (RUS)
+height - 180
+weight - 69
+
+
+--  15
+Milieu
+Roman Shirokov
+age - 06/07/1981
+matchs - 56
+goals - 13
+goals conceded - 0
+club - CSKA Moskva (RUS)
+height - 183
+weight - 80
+
+
+--  17
+Milieu
+Oleg Shatov
+age - 29/07/1990
+matchs - 25
+goals - 2
+goals conceded - 0
+club - Zenit (RUS)
+height - 173
+weight - 73
+
+
+--  18
+Milieu
+Oleg Ivanov
+age - 04/08/1986
+matchs - 5
+goals - 0
+goals conceded - 0
+club - Terek (RUS)
+height - 192
+weight - 87
+
+
+--  19
+Milieu
+Aleksandr Samedov
+age - 19/07/1984
+matchs - 30
+goals - 3
+goals conceded - 0
+club - Lokomotiv Moskva (RUS)
+height - 177
+weight - 75
+
+
+--  20
+Milieu
+Dmitri Torbinski
+age - 28/04/1984
+matchs - 30
+goals - 2
+goals conceded - 0
+club - Krasnodar (RUS)
+height - 172
+weight - 60
+
+
+--  9
+Attaquant
+Aleksandr Kokorin
+age - 19/03/1991
+matchs - 41
+goals - 12
+goals conceded - 0
+club - Zenit (RUS)
+height - 181
+weight - 74
+
+
+--  10
+Attaquant
+Fedor Smolov
+age - 09/02/1990
+matchs - 17
+goals - 5
+goals conceded - 0
+club - Krasnodar (RUS)
+height - 187
+weight - 80
+
+
+--  22
+Attaquant
+Artem Dzyuba
+age - 22/08/1988
+matchs - 21
+goals - 9
+goals conceded - 0
+club - Zenit (RUS)
+height - 196
+weight - 91
+
+
+
+################# TEAM Slovaquie ##############################
+
+
+--  1
+Gardien
+Ján Mucha
+age - 05/12/1982
+matchs - 46
+goals - 0
+goals conceded - 45
+club - Slovan Bratislava (SVK)
+height - 189
+weight - 90
+
+
+--  12
+Gardien
+Ján Novota
+age - 29/11/1983
+matchs - 3
+goals - 0
+goals conceded - 1
+club - Rapid Wien (AUT)
+height - 197
+weight - 90
+
+
+--  23
+Gardien
+Matúš Kozáčik
+age - 27/12/1983
+matchs - 21
+goals - 0
+goals conceded - 19
+club - Plzeň (CZE)
+height - 193
+weight - 88
+
+
+--  2
+Défenseur
+Peter Pekarík
+age - 30/10/1986
+matchs - 71
+goals - 2
+goals conceded - 0
+club - Hertha (GER)
+height - 176
+weight - 70
+
+
+--  3
+Défenseur
+Martin Škrtel
+age - 15/12/1984
+matchs - 85
+goals - 5
+goals conceded - 0
+club - Liverpool (ENG)
+height - 193
+weight - 81
+
+
+--  4
+Défenseur
+Ján Ďurica
+age - 10/12/1981
+matchs - 84
+goals - 4
+goals conceded - 0
+club - Lokomotiv Moskva (RUS)
+height - 188
+weight - 86
+
+
+--  5
+Défenseur
+Norbert Gyömber
+age - 03/07/1992
+matchs - 15
+goals - 0
+goals conceded - 0
+club - Roma (ITA)
+height - 189
+weight - 74
+
+
+--  14
+Défenseur
+Milan Škriniar
+age - 11/02/1995
+matchs - 4
+goals - 0
+goals conceded - 0
+club - Sampdoria (ITA)
+height - 187
+weight - 80
+
+
+--  15
+Défenseur
+Tomáš Hubočan
+age - 17/09/1985
+matchs - 46
+goals - 0
+goals conceded - 0
+club - Dinamo Moskva (RUS)
+height - 184
+weight - 70
+
+
+--  16
+Défenseur
+Kornel Saláta
+age - 24/01/1985
+matchs - 38
+goals - 2
+goals conceded - 0
+club - Slovan Bratislava (SVK)
+height - 191
+weight - 89
+
+
+--  18
+Défenseur
+Dušan Švento
+age - 01/08/1985
+matchs - 42
+goals - 1
+goals conceded - 0
+club - Köln (GER)
+height - 178
+weight - 70
+
+
+--  6
+Milieu
+Ján Greguš
+age - 29/01/1991
+matchs - 8
+goals - 0
+goals conceded - 0
+club - Jablonec (CZE)
+height - 189
+weight - 70
+
+
+--  7
+Milieu
+Vladimír Weiss
+age - 30/11/1989
+matchs - 56
+goals - 5
+goals conceded - 0
+club - Al-Gharafa (QAT)
+height - 173
+weight - 71
+
+
+--  8
+Milieu
+Ondrej Duda
+age - 05/12/1994
+matchs - 14
+goals - 2
+goals conceded - 0
+club - Legia (POL)
+height - 181
+weight - 74
+
+
+--  10
+Milieu
+Miroslav Stoch
+age - 19/10/1989
+matchs - 55
+goals - 6
+goals conceded - 0
+club - Bursaspor (TUR)
+height - 169
+weight - 66
+
+
+--  13
+Milieu
+Patrik Hrošovský
+age - 22/04/1992
+matchs - 14
+goals - 0
+goals conceded - 0
+club - Plzeň (CZE)
+height - 172
+weight - 68
+
+
+--  17
+Milieu
+Marek Hamšík
+age - 27/07/1987
+matchs - 91
+goals - 19
+goals conceded - 0
+club - Napoli (ITA)
+height - 183
+weight - 79
+
+
+--  19
+Milieu
+Juraj Kucka
+age - 26/02/1987
+matchs - 51
+goals - 5
+goals conceded - 0
+club - Milan (ITA)
+height - 186
+weight - 86
+
+
+--  20
+Milieu
+Róbert Mak
+age - 08/03/1991
+matchs - 30
+goals - 7
+goals conceded - 0
+club - PAOK (GRE)
+height - 179
+weight - 78
+
+
+--  22
+Milieu
+Viktor Pečovský
+age - 24/05/1983
+matchs - 34
+goals - 1
+goals conceded - 0
+club - Žilina (SVK)
+height - 171
+weight - 74
+
+
+--  9
+Attaquant
+Stanislav Šesták
+age - 16/12/1982
+matchs - 66
+goals - 13
+goals conceded - 0
+club - Ferencváros (HUN)
+height - 180
+weight - 74
+
+
+--  11
+Attaquant
+Adam Nemec
+age - 02/09/1985
+matchs - 24
+goals - 6
+goals conceded - 0
+club - Willem II (NED)
+height - 190
+weight - 84
+
+
+--  21
+Attaquant
+Michal Ďuriš
+age - 01/06/1988
+matchs - 29
+goals - 4
+goals conceded - 0
+club - Plzeň (CZE)
+height - 183
+weight - 75
+
+
+
+################# TEAM Suède ##############################
+
+
+--  1
+Gardien
+Andreas Isaksson
+age - 03/10/1981
+matchs - 133
+goals - 0
+goals conceded - 128
+club - Kasımpaşa (TUR)
+height - 200
+weight - 86
+
+
+--  12
+Gardien
+Robin Olsen
+age - 08/01/1990
+matchs - 4
+goals - 0
+goals conceded - 3
+club - København (DEN)
+height - 198
+weight - 89
+
+
+--  23
+Gardien
+Patrik Carlgren
+age - 08/01/1992
+matchs - 0
+goals - 0
+goals conceded - 0
+club - AIK (SWE)
+height - 188
+weight - 84
+
+
+--  2
+Défenseur
+Mikael Lustig
+age - 13/12/1986
+matchs - 53
+goals - 3
+goals conceded - 0
+club - Celtic (SCO)
+height - 189
+weight - 78
+
+
+--  3
+Défenseur
+Erik Johansson
+age - 30/12/1988
+matchs - 11
+goals - 0
+goals conceded - 0
+club - København (DEN)
+height - 191
+weight - 84
+
+
+--  4
+Défenseur
+Andreas Granqvist
+age - 16/04/1985
+matchs - 55
+goals - 3
+goals conceded - 0
+club - Krasnodar (RUS)
+height - 192
+weight - 84
+
+
+--  5
+Défenseur
+Martin Olsson
+age - 17/05/1988
+matchs - 37
+goals - 5
+goals conceded - 0
+club - Norwich (ENG)
+height - 170
+weight - 81
+
+
+--  13
+Défenseur
+Pontus Jansson
+age - 13/02/1991
+matchs - 6
+goals - 0
+goals conceded - 0
+club - Torino (ITA)
+height - 194
+weight - 89
+
+
+--  14
+Défenseur
+Victor Lindelöf
+age - 17/07/1994
+matchs - 6
+goals - 0
+goals conceded - 0
+club - Benfica (POR)
+height - 187
+weight - 80
+
+
+--  17
+Défenseur
+Ludwig Augustinsson
+age - 21/04/1994
+matchs - 3
+goals - 0
+goals conceded - 0
+club - København (DEN)
+height - 181
+weight - 74
+
+
+--  6
+Milieu
+Emil Forsberg
+age - 23/10/1991
+matchs - 20
+goals - 2
+goals conceded - 0
+club - Leipzig (GER)
+height - 179
+weight - 78
+
+
+--  7
+Milieu
+Sebastian Larsson
+age - 06/06/1985
+matchs - 87
+goals - 6
+goals conceded - 0
+club - Sunderland (ENG)
+height - 178
+weight - 70
+
+
+--  8
+Milieu
+Albin Ekdal
+age - 28/07/1989
+matchs - 25
+goals - 0
+goals conceded - 0
+club - Hamburg (GER)
+height - 186
+weight - 75
+
+
+--  9
+Milieu
+Kim Källström
+age - 24/08/1982
+matchs - 131
+goals - 16
+goals conceded - 0
+club - Grasshoppers (SUI)
+height - 185
+weight - 87
+
+
+--  15
+Milieu
+Oscar Hiljemark
+age - 28/06/1992
+matchs - 9
+goals - 1
+goals conceded - 0
+club - Palermo (ITA)
+height - 184
+weight - 75
+
+
+--  16
+Milieu
+Pontus Wernbloom
+age - 25/06/1986
+matchs - 50
+goals - 2
+goals conceded - 0
+club - CSKA Moskva (RUS)
+height - 187
+weight - 85
+
+
+--  18
+Milieu
+Oscar Lewicki
+age - 14/07/1992
+matchs - 11
+goals - 0
+goals conceded - 0
+club - Malmö (SWE)
+height - 171
+weight - 68
+
+
+--  21
+Milieu
+Jimmy Durmaz
+age - 22/03/1989
+matchs - 32
+goals - 1
+goals conceded - 0
+club - Olympiacos (GRE)
+height - 180
+weight - 69
+
+
+--  22
+Milieu
+ Erkan Zengin
+age - 05/08/1985
+matchs - 21
+goals - 3
+goals conceded - 0
+club - Trabzonspor (TUR)
+height - 180
+weight - 72
+
+
+--  10
+Attaquant
+Zlatan Ibrahimović
+age - 03/10/1981
+matchs - 116
+goals - 62
+goals conceded - 0
+club - Paris (FRA)
+height - 195
+weight - 95
+
+
+--  11
+Attaquant
+Marcus Berg
+age - 17/08/1986
+matchs - 40
+goals - 9
+goals conceded - 0
+club - Panathinaikos (GRE)
+height - 184
+weight - 75
+
+
+--  19
+Attaquant
+Emir Kujovic
+age - 22/06/1988
+matchs - 2
+goals - 0
+goals conceded - 0
+club - Norrköping (SWE)
+height - 194
+weight - 87
+
+
+--  20
+Attaquant
+John Guidetti
+age - 15/04/1992
+matchs - 12
+goals - 1
+goals conceded - 0
+club - Celta (ESP)
+height - 185
+weight - 79
+
+
+
+################# TEAM Suisse ##############################
+
+
+--  1
+Gardien
+Yann Sommer
+age - 17/12/1988
+matchs - 22
+goals - 0
+goals conceded - 18
+club - Mönchengladbach (GER)
+height - 183
+weight - 79
+
+
+--  12
+Gardien
+Marwin Hitz
+age - 18/09/1987
+matchs - 2
+goals - 0
+goals conceded - 0
+club - Augsburg (GER)
+height - 193
+weight - 86
+
+
+--  21
+Gardien
+Roman Bürki
+age - 14/11/1990
+matchs - 5
+goals - 0
+goals conceded - 4
+club - Dortmund (GER)
+height - 187
+weight - 85
+
+
+--  2
+Défenseur
+Stephan Lichtsteiner
+age - 16/01/1984
+matchs - 85
+goals - 5
+goals conceded - 0
+club - Juventus (ITA)
+height - 182
+weight - 75
+
+
+--  3
+Défenseur
+François Moubandje
+age - 21/06/1990
+matchs - 11
+goals - 0
+goals conceded - 0
+club - Toulouse (FRA)
+height - 180
+weight - 74
+
+
+--  4
+Défenseur
+Nico Elvedi
+age - 30/09/1996
+matchs - 1
+goals - 0
+goals conceded - 0
+club - Mönchengladbach (GER)
+height - 188
+weight - 83
+
+
+--  5
+Défenseur
+Steve von Bergen
+age - 10/06/1983
+matchs - 50
+goals - 0
+goals conceded - 0
+club - Young Boys (SUI)
+height - 182
+weight - 79
+
+
+--  6
+Défenseur
+Michael Lang
+age - 08/02/1991
+matchs - 19
+goals - 2
+goals conceded - 0
+club - Basel (SUI)
+height - 185
+weight - 79
+
+
+--  13
+Défenseur
+Ricardo Rodríguez
+age - 25/08/1992
+matchs - 41
+goals - 0
+goals conceded - 0
+club - Wolfsburg (GER)
+height - 181
+weight - 77
+
+
+--  20
+Défenseur
+Johan Djourou
+age - 18/01/1987
+matchs - 64
+goals - 2
+goals conceded - 0
+club - Hamburg (GER)
+height - 191
+weight - 87
+
+
+--  22
+Défenseur
+Fabian Schär
+age - 20/12/1991
+matchs - 24
+goals - 6
+goals conceded - 0
+club - Hoffenheim (GER)
+height - 186
+weight - 84
+
+
+--  8
+Milieu
+Fabian Frei
+age - 08/01/1989
+matchs - 9
+goals - 1
+goals conceded - 0
+club - Mainz (GER)
+height - 182
+weight - 77
+
+
+--  10
+Milieu
+Granit Xhaka
+age - 27/09/1992
+matchs - 47
+goals - 6
+goals conceded - 0
+club - Mönchengladbach (GER)
+height - 185
+weight - 82
+
+
+--  11
+Milieu
+Valon Behrami
+age - 19/04/1985
+matchs - 70
+goals - 2
+goals conceded - 0
+club - Watford (ENG)
+height - 185
+weight - 78
+
+
+--  14
+Milieu
+Denis Zakaria
+age - 20/11/1996
+matchs - 2
+goals - 0
+goals conceded - 0
+club - Young Boys (SUI)
+height - 191
+weight - 76
+
+
+--  15
+Milieu
+Blerim Džemaili
+age - 12/04/1986
+matchs - 52
+goals - 6
+goals conceded - 0
+club - Genoa (ITA)
+height - 179
+weight - 73
+
+
+--  16
+Milieu
+Gelson Fernandes
+age - 02/09/1986
+matchs - 59
+goals - 2
+goals conceded - 0
+club - Rennes (FRA)
+height - 179
+weight - 70
+
+
+--  23
+Milieu
+Xherdan Shaqiri
+age - 10/10/1991
+matchs - 57
+goals - 18
+goals conceded - 0
+club - Stoke (ENG)
+height - 169
+weight - 72
+
+
+--  7
+Attaquant
+Breel Embolo
+age - 14/02/1997
+matchs - 14
+goals - 1
+goals conceded - 0
+club - Basel (SUI)
+height - 185
+weight - 84
+
+
+--  9
+Attaquant
+Haris Seferović
+age - 22/02/1992
+matchs - 34
+goals - 7
+goals conceded - 0
+club - Frankfurt (GER)
+height - 185
+weight - 85
+
+
+--  17
+Attaquant
+Shani Tarashaj
+age - 07/02/1995
+matchs - 5
+goals - 0
+goals conceded - 0
+club - Grasshoppers (SUI)
+height - 176
+weight - 77
+
+
+--  18
+Attaquant
+Admir Mehmedi
+age - 16/03/1991
+matchs - 46
+goals - 5
+goals conceded - 0
+club - Leverkusen (GER)
+height - 183
+weight - 81
+
+
+--  19
+Attaquant
+Eren Derdiyok
+age - 12/06/1988
+matchs - 53
+goals - 10
+goals conceded - 0
+club - Kasımpaşa (TUR)
+height - 191
+weight - 90
+
+
+
+################# TEAM Turquie ##############################
+
+
+--  1
+Gardien
+ Volkan Babacan
+age - 11/08/1988
+matchs - 20
+goals - 0
+goals conceded - 13
+club - İstanbul Başakşehir (TUR)
+height - 192
+weight - 86
+
+
+--  12
+Gardien
+ Onur Kıvrak
+age - 01/01/1988
+matchs - 12
+goals - 0
+goals conceded - 14
+club - Trabzonspor (TUR)
+height - 187
+weight - 74
+
+
+--  23
+Gardien
+ Harun Tekin
+age - 17/06/1989
+matchs - 0
+goals - 0
+goals conceded - 0
+club - Bursaspor (TUR)
+height - 187
+weight - 78
+
+
+--  2
+Défenseur
+ Semih Kaya
+age - 24/02/1991
+matchs - 23
+goals - 0
+goals conceded - 0
+club - Galatasaray (TUR)
+height - 183
+weight - 66
+
+
+--  3
+Défenseur
+ Hakan Balta
+age - 23/03/1983
+matchs - 49
+goals - 2
+goals conceded - 0
+club - Galatasaray (TUR)
+height - 184
+weight - 80
+
+
+--  4
+Défenseur
+ Ahmet Çalık
+age - 26/02/1994
+matchs - 4
+goals - 0
+goals conceded - 0
+club - Gençlerbirliği (TUR)
+height - 184
+weight - 77
+
+
+--  7
+Défenseur
+ Gökhan Gönül
+age - 04/01/1985
+matchs - 60
+goals - 1
+goals conceded - 0
+club - Fenerbahçe (TUR)
+height - 174
+weight - 73
+
+
+--  13
+Défenseur
+ İsmail Köybaşı
+age - 10/07/1989
+matchs - 20
+goals - 0
+goals conceded - 0
+club - Beşiktaş (TUR)
+height - 177
+weight - 75
+
+
+--  18
+Défenseur
+ Caner Erkin
+age - 04/10/1988
+matchs - 49
+goals - 2
+goals conceded - 0
+club - Fenerbahçe (TUR)
+height - 181
+weight - 76
+
+
+--  22
+Défenseur
+ Şener Özbayraklı
+age - 23/01/1990
+matchs - 8
+goals - 0
+goals conceded - 0
+club - Fenerbahçe (TUR)
+height - 171
+weight - 71
+
+
+--  5
+Milieu
+ Nuri Şahin
+age - 05/09/1988
+matchs - 50
+goals - 2
+goals conceded - 0
+club - Dortmund (GER)
+height - 179
+weight - 65
+
+
+--  6
+Milieu
+ Hakan Çalhanoğlu
+age - 08/02/1994
+matchs - 21
+goals - 6
+goals conceded - 0
+club - Leverkusen (GER)
+height - 176
+weight - 76
+
+
+--  8
+Milieu
+ Selçuk İnan
+age - 10/02/1985
+matchs - 55
+goals - 8
+goals conceded - 0
+club - Galatasaray (TUR)
+height - 182
+weight - 74
+
+
+--  10
+Milieu
+ Arda Turan
+age - 30/01/1987
+matchs - 94
+goals - 17
+goals conceded - 0
+club - Barcelona (ESP)
+height - 178
+weight - 76
+
+
+--  11
+Milieu
+ Olcay Şahan
+age - 26/05/1987
+matchs - 26
+goals - 2
+goals conceded - 0
+club - Beşiktaş (TUR)
+height - 179
+weight - 71
+
+
+--  14
+Milieu
+ Oğuzhan Özyakup
+age - 23/09/1992
+matchs - 23
+goals - 1
+goals conceded - 0
+club - Beşiktaş (TUR)
+height - 180
+weight - 75
+
+
+--  15
+Milieu
+ Mehmet Topal
+age - 03/03/1986
+matchs - 62
+goals - 1
+goals conceded - 0
+club - Fenerbahçe (TUR)
+height - 187
+weight - 82
+
+
+--  16
+Milieu
+ Ozan Tufan
+age - 23/03/1995
+matchs - 27
+goals - 2
+goals conceded - 0
+club - Fenerbahçe (TUR)
+height - 179
+weight - 70
+
+
+--  19
+Milieu
+ Yunus Mallı
+age - 24/02/1992
+matchs - 7
+goals - 0
+goals conceded - 0
+club - Mainz (GER)
+height - 179
+weight - 70
+
+
+--  20
+Milieu
+ Volkan Şen
+age - 07/07/1987
+matchs - 19
+goals - 0
+goals conceded - 0
+club - Fenerbahçe (TUR)
+height - 175
+weight - 68
+
+
+--  9
+Attaquant
+ Cenk Tosun
+age - 07/06/1991
+matchs - 11
+goals - 3
+goals conceded - 0
+club - Beşiktaş (TUR)
+height - 183
+weight - 78
+
+
+--  17
+Attaquant
+ Burak Yılmaz
+age - 15/07/1985
+matchs - 47
+goals - 21
+goals conceded - 0
+club - Beijing Guoan (CHN)
+height - 188
+weight - 77
+
+
+--  21
+Attaquant
+ Emre Mor
+age - 24/07/1997
+matchs - 4
+goals - 0
+goals conceded - 0
+club - Nordsjælland (DEN)
+height - 168
+weight - 63
+
+
+
+################# TEAM Ukraine ##############################
+
+
+--  1
+Gardien
+Denys Boyko
+age - 29/01/1988
+matchs - 4
+goals - 0
+goals conceded - 2
+club - Beşiktaş (TUR)
+height - 194
+weight - 82
+
+
+--  12
+Gardien
+Andriy Pyatov
+age - 28/06/1984
+matchs - 67
+goals - 0
+goals conceded - 45
+club - Shakhtar Donetsk (UKR)
+height - 190
+weight - 84
+
+
+--  23
+Gardien
+Mykyta Shevchenko
+age - 26/01/1993
+matchs - 0
+goals - 0
+goals conceded - 0
+club - Zorya (UKR)
+height - 187
+weight - 80
+
+
+--  2
+Défenseur
+Bohdan Butko
+age - 13/01/1991
+matchs - 18
+goals - 0
+goals conceded - 0
+club - Amkar (RUS)
+height - 180
+weight - 68
+
+
+--  3
+Défenseur
+Yevhen Khacheridi
+age - 28/07/1987
+matchs - 45
+goals - 3
+goals conceded - 0
+club - Dynamo Kyiv (UKR)
+height - 198
+weight - 85
+
+
+--  5
+Défenseur
+Olexandr Kucher
+age - 22/10/1982
+matchs - 51
+goals - 2
+goals conceded - 0
+club - Shakhtar Donetsk (UKR)
+height - 184
+weight - 77
+
+
+--  13
+Défenseur
+Vyacheslav Shevchuk
+age - 13/05/1979
+matchs - 55
+goals - 0
+goals conceded - 0
+club - Shakhtar Donetsk (UKR)
+height - 184
+weight - 78
+
+
+--  17
+Défenseur
+Artem Fedetskiy
+age - 26/04/1985
+matchs - 52
+goals - 2
+goals conceded - 0
+club - Dnipro (UKR)
+height - 183
+weight - 76
+
+
+--  20
+Défenseur
+Yaroslav Rakitskiy
+age - 03/08/1989
+matchs - 42
+goals - 4
+goals conceded - 0
+club - Shakhtar Donetsk (UKR)
+height - 180
+weight - 70
+
+
+--  4
+Milieu
+Anatoliy Tymoshchuk
+age - 30/03/1979
+matchs - 144
+goals - 4
+goals conceded - 0
+club - Kairat (KAZ)
+height - 181
+weight - 70
+
+
+--  6
+Milieu
+Taras Stepanenko
+age - 08/08/1989
+matchs - 32
+goals - 3
+goals conceded - 0
+club - Shakhtar Donetsk (UKR)
+height - 181
+weight - 75
+
+
+--  7
+Milieu
+Andriy Yarmolenko
+age - 23/10/1989
+matchs - 62
+goals - 25
+goals conceded - 0
+club - Dynamo Kyiv (UKR)
+height - 189
+weight - 81
+
+
+--  9
+Milieu
+Viktor Kovalenko
+age - 14/02/1996
+matchs - 6
+goals - 0
+goals conceded - 0
+club - Shakhtar Donetsk (UKR)
+height - 182
+weight - 75
+
+
+--  10
+Milieu
+Yevhen Konoplyanka
+age - 29/09/1989
+matchs - 56
+goals - 13
+goals conceded - 0
+club - Sevilla (ESP)
+height - 176
+weight - 69
+
+
+--  14
+Milieu
+Ruslan Rotan
+age - 29/10/1981
+matchs - 89
+goals - 7
+goals conceded - 0
+club - Dnipro (UKR)
+height - 174
+weight - 67
+
+
+--  16
+Milieu
+Serhiy Sydorchuk
+age - 02/05/1991
+matchs - 14
+goals - 2
+goals conceded - 0
+club - Dynamo Kyiv (UKR)
+height - 189
+weight - 90
+
+
+--  18
+Milieu
+Serhiy Rybalka
+age - 01/04/1990
+matchs - 9
+goals - 0
+goals conceded - 0
+club - Dynamo Kyiv (UKR)
+height - 176
+weight - 70
+
+
+--  19
+Milieu
+Denys Garmash
+age - 19/04/1990
+matchs - 28
+goals - 2
+goals conceded - 0
+club - Dynamo Kyiv (UKR)
+height - 186
+weight - 72
+
+
+--  21
+Milieu
+Olexandr Zinchenko
+age - 15/12/1996
+matchs - 6
+goals - 1
+goals conceded - 0
+club - Ufa (RUS)
+height - 175
+weight - 61
+
+
+--  22
+Milieu
+Olexandr Karavaev
+age - 02/06/1992
+matchs - 3
+goals - 0
+goals conceded - 0
+club - Zorya (UKR)
+height - 173
+weight - 65
+
+
+--  8
+Attaquant
+Roman Zozulya
+age - 17/11/1989
+matchs - 29
+goals - 4
+goals conceded - 0
+club - Dnipro (UKR)
+height - 176
+weight - 72
+
+
+--  11
+Attaquant
+Yevhen Seleznyov
+age - 20/07/1985
+matchs - 52
+goals - 11
+goals conceded - 0
+club - Shakhtar Donetsk (UKR)
+height - 188
+weight - 85
+
+
+--  15
+Attaquant
+Pylyp Budkivskiy
+age - 10/03/1992
+matchs - 6
+goals - 0
+goals conceded - 0
+club - Zorya (UKR)
+height - 196
+weight - 81
