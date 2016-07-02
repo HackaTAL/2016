@@ -68,14 +68,13 @@ class Event(object):
                  and self.date == other.date
                  and self.type == other.type)             
       
-      if(Event.strictness == 2):
-         isEqual = isEqual and abs((self.time - other.time).total_seconds()) <= timedelta(minutes=2).total_seconds()
+      if(Event.strictness > 0):
          isEqual = (isEqual and
                     ((self.annotations is None and other.annotations is None)
                      or ((self.annotations is not None and other.annotations is not None) and
                          (set(self.annotations) == set(other.annotations)))))
-      if(Event.strictness == 1):
-         pass
+      if(Event.strictness > 1):
+         isEqual = isEqual and abs((self.time - other.time).total_seconds()) <= timedelta(minutes=2).total_seconds()
       
       return isEqual
 
