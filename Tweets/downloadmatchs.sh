@@ -29,11 +29,9 @@ mkdir -p Medias
 rm -rf Medias/all.json
 for media in lequipe beinsports_FR Le_Figaro lemondefr le_Parisien 20minutesSport; do
 	echo "- $media"
-	rm -rf Medias/$media.json.tmp
+	rm -rf Medias/$media.json
 	for json in $(find Matchs/ -name *fr.json); do
-		jq -r ". | select(.user.screen_name==\"$media\")" $json >> Medias/$media.json.tmp
+		jq -r ". | select(.user.screen_name==\"$media\")" $json >> Medias/$media.json
 	done
-	cat Medias/$media.json.tmp | sort -u > Medias/$media.json
-	rm Medias/$media.json.tmp
 	cat Medias/$media.json >> Medias/all.json
 done
