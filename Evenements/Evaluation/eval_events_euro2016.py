@@ -106,9 +106,9 @@ def evaluate(gold, pred, strict):
 def print_scores(header, scores):
    print header
    print '-' * len(header)
-   print 'Precision = {0} %'.format(scores[0]*100)
-   print 'Recall = {0} %'.format(scores[1]*100)
-   print 'F1-measure = {0} %'.format(scores[2]*100)
+   print 'Precision = {0:.2f} %'.format(scores[0]*100)
+   print 'Recall = {0:.2f} %'.format(scores[1]*100)
+   print 'F1-measure = {0:.2f} %'.format(scores[2]*100)
    print '-' * len(header)
 
 
