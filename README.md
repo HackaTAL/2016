@@ -71,7 +71,7 @@ Développer un assistant dialogique répondant à des requêtes en langue nature
 ### Téléchargement des logiciels et données
 
 ```
-git clone https://github.com/HackaTAL/2016.git  HackaTAL2016
+git clone --recursive https://github.com/HackaTAL/2016.git  HackaTAL2016
 cd HackaTAL2016/Tweets
 bash downloadmatchs.sh
 ```

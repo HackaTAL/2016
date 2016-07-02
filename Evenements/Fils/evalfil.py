@@ -13,8 +13,16 @@ euromodel = gensim.models.Doc2Vec.load(args.gensimfile)
 
 # Represent media sentences in the corresponding model
 mediadocs = {}
+jsontmp = ''
+mediajsons = []
 for line in open(args.mediasfile):
-	tweet = json.loads(line)
+	jsontmp += line
+	if line.startswith('}'):
+		mediajsons.append(jsontmp)
+		jsontmp = ''
+mediajsons = '['+','.join(mediajsons)+']'
+tweets = json.loads(mediajsons)
+for tweet in tweets:
 	#print tweet['user']
 	screenname = tweet['user']['screen_name']
 	if not screenname in mediadocs:
