@@ -10,7 +10,6 @@ from datetime import datetime, timedelta
 import re
 from optparse import OptionParser
 from tabulate import tabulate
-
       
 
 class Event(object):
@@ -30,7 +29,7 @@ class Event(object):
       team1 team2 date hh:mm FPR : fin de prolongation
    '''
    
-   strictness = 0
+   strictness = 2
    
    def __init__(self, text):
       try:
@@ -39,16 +38,10 @@ class Event(object):
          self.date = datetime.strptime(fields[2], "%Y-%m-%d")
          self.time = datetime.strptime(fields[3], "%H:%M:%S")
          self.type = fields[4]
-         self.annotations = set(re.split('\s*;\s*', fields[5])) if len(fields) > 5 else set() 
+         self.annotations = tuple(re.split('\s*;\s*', fields[5])) if len(fields) > 5 else () 
       except:
          raise
-   
-   def __get_match__(self):
-      return '{0}\t{1}\t{2}'.format(
-                        "\t".join(self.teams),
-                        self.date.strftime("%Y-%m-%d"),
-                        self.type)
-      
+         
    def __repr__(self):
       return '{0}\t{1}\t{2}\t{3}\t{4}'.format(
                         "\t".join(self.teams),
@@ -58,36 +51,42 @@ class Event(object):
                         ';'.join(self.annotations))
 
    def __hash__(self):
-      return hash(self.__get_match__())
+      return hash(self.__repr__())
    
-   def __eq__(self, other):
+   def is_equal(self, other, strict):
       '''
       Test if the current event is equal to another event
       3 levels of strictness are implemented: 2=strict, 1=intermediate, 0=loose
       '''
-      isEqual = (self.teams == other.teams
+      isEqual = (set(self.teams) == set(other.teams)
                  and self.date == other.date
                  and self.type == other.type)             
       
-      if(Event.strictness > 0):
+      if(strict > 0):
          isEqual = (isEqual and
                     ((self.annotations is None and other.annotations is None)
                      or ((self.annotations is not None and other.annotations is not None) and
                          (set(self.annotations) == set(other.annotations)))))
-      if(Event.strictness > 1):
+         
+      if(strict > 1):
          isEqual = isEqual and abs((self.time - other.time).total_seconds()) <= timedelta(minutes=2).total_seconds()
-      
-      return isEqual
 
+      return isEqual
+   
+   def __eq__(self, other):
+      return self.is_equal(other, Event.strictness)
+
+   def __ne__(self, other):
+      return not self.__eq__(other)
 
 
 def parse_event_file(file_str):
    if os.path.isfile(file_str):
-      events = set()
+      events = []
       for line_str in open(file_str, 'r'):
          try:
             event = Event(line_str)
-            events.add(event)
+            events.append(event)
          except:
             sys.stderr.write('Ill-formated event (will be discarded): {0}'.format(line_str))
       return events
@@ -98,9 +97,18 @@ def parse_event_file(file_str):
 
 def evaluate(gold, pred, strict):
    Event.strictness = strict
-   correct = gold.intersection(pred)
-   precision = len(correct) / len(pred)
-   recall = len(correct) / len(gold)
+   correct = 0
+   cpgold = list(gold)
+   for e in pred:
+      try:
+         i = cpgold.index(e)
+         correct = correct + 1
+         del cpgold[i]
+      except:
+         pass
+   
+   precision = correct / len(pred)
+   recall = correct / len(gold)
    f1 = 2*precision*recall / (precision+recall) if precision+recall>0 else 0
    return (precision, recall, f1)
 

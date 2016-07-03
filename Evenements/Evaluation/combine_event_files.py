@@ -32,8 +32,8 @@ Each filename should respect the following pattern: <Team1>_<Team2>_<yyyy>-<mm>-
       " doesn't respect the following pattern: <Team1>_<Team2>_<yyyy>-<mm>-<dd>_<*>.tsv and it will be ignored\n")
          continue
       iterlines = iter(open(os.path.realpath(arg), 'r'))
-      next(iterlines)
       for line in iterlines:
          if line.strip():
-            sys.stdout.write("{0}\t{1}".format(match_info, line))
+            if(not re.match("TEMPS", line)):
+               sys.stdout.write("{0}\t{1}".format(match_info, line))
       
