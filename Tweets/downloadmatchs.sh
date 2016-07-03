@@ -4,6 +4,8 @@ echo "Téléchargement des matchs"
 mkdir -p Matchs
 wget -c -N -P Matchs http://helium.lab.parisdescartes.fr:2232/tweets/train_euro2016.tgz
 tar -xvzf Matchs/train_euro2016.tgz -C Matchs
+wget -c -N -P Matchs http://helium.lab.parisdescartes.fr:2232/tweets/eval_euro2016.tgz
+tar -xvzf Matchs/eval_euro2016.tgz -C Matchs
 
 echo "Récupération des résumés"
 cp $(find Matchs -name *.tsv) ../Evenements/Resumes/

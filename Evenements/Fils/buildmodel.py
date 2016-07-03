@@ -14,5 +14,5 @@ for line in open(args.txtfile):
 	line = line.strip()
 	documents.append(gensim.models.doc2vec.LabeledSentence(words=line.split(' '), tags=[u'SENT']))
 
-euromodel = gensim.models.Doc2Vec(documents, size=100, window=8, min_count=5, workers=4)
+euromodel = gensim.models.Doc2Vec(documents, size=300, window=10, min_count=3, workers=4)
 euromodel.save(args.gensimfile)

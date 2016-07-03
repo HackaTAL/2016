@@ -27,23 +27,28 @@ for tweet in tweets:
 	screenname = tweet['user']['screen_name']
 	if not screenname in mediadocs:
 		mediadocs[screenname] = []
-	mediadocs[screenname].append(euromodel.infer_vector(tweet['text']))
+	gensimtext = gensim.models.doc2vec.LabeledSentence(words=tweet['text'].split(' '), tags=[u'SENT'])
+	mediadocs[screenname].append(euromodel.infer_vector(gensimtext.words))
 
 # Internal similarity
-for media1, media2 in itertools.combinations(mediadocs.keys(), 2):
-	mediavecs = mediadocs[media1]
-	sims = numpy.array([-1.0]*len(mediavecs))
-	for i in range(len(mediavecs)):
-		for uservec in mediadocs[media2]:
-			sim = 1 - scipy.spatial.distance.cosine(mediavecs[i], uservec)
-			if sim > sims[i]:
-				sims[i] = sim
-	print 'Comparing media', media1, 'with media', media2, ':', sims.mean()
+for media1 in mediadocs:
+	for media2 in mediadocs:
+		mediavecs = mediadocs[media1]
+		sims = numpy.array([-1.0]*len(mediavecs))
+		for i in range(len(mediavecs)):
+			for uservec in mediadocs[media2]:
+				sim = 1 - scipy.spatial.distance.cosine(mediavecs[i], uservec)
+				if sim > sims[i]:
+					sims[i] = sim
+		print 'Comparing media', media1, 'with media', media2, ':', sims.mean()
 
 # Compare user file with medias
 uservecs = []
 for line in codecs.open(args.userfile, encoding='utf8'):
-	uservecs.append(euromodel.infer_vector(line[:140])) # Should be UTF8 size...
+	line = line.strip()
+	if len(line):
+		gensimtext = gensim.models.doc2vec.LabeledSentence(words=line, tags=[u'SENT'])
+		uservecs.append(euromodel.infer_vector(gensimtext.words)) # Should be UTF8 size...
 mediasims = []
 for media in mediadocs:
 	mediavecs = mediadocs[media]
