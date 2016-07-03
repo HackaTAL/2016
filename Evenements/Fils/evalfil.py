@@ -47,7 +47,7 @@ uservecs = []
 for line in codecs.open(args.userfile, encoding='utf8'):
 	line = line.strip()
 	if len(line):
-		gensimtext = gensim.models.doc2vec.LabeledSentence(words=line, tags=[u'SENT'])
+		gensimtext = gensim.models.doc2vec.LabeledSentence(words=line.split(' '), tags=[u'SENT'])
 		uservecs.append(euromodel.infer_vector(gensimtext.words)) # Should be UTF8 size...
 mediasims = []
 for media in mediadocs:

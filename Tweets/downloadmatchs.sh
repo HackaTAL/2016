@@ -26,6 +26,10 @@ echo "Récupération des textes bruts"
 wget -c -N -P Matchs http://helium.lab.parisdescartes.fr:2232/tweets/train_euro2016.txt.tgz
 tar -xvzf Matchs/train_euro2016.txt.tgz -C Matchs
 
+echo "Téléchargement des fichiers gensim"
+wget -c -N -P Evenements/Fils http://helium.lab.parisdescartes.fr:2232/tweets/gensim-models/train_euro2016.gensim.tgz
+tar -xvzf Matchs/eval_euro2016.tgz -C Evenements/Fils
+
 echo "Extraction des médias"
 mkdir -p Medias
 rm -rf Medias/all.json

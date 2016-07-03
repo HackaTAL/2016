@@ -5,6 +5,12 @@
 
 Il s'agit de générer un fil (texte ligne par ligne), qui corresponde le plus à un ensemble de fils récupérés sur des médias. L'évaluation se fait par similarité sur un modèle gensim calculé sur l'ensemble des tweets (train ou eval).
 
+
+## Récupération du modèle
+
+Sur http://helium.lab.parisdescartes.fr:2232/tweets/gensim-models/train_euro2016.gensim.tgz
+Les extraires dans Evenements/Fils
+
 ## Évaluation du fil par rapport aux médias
 
 La métrique est une combinaison de
@@ -22,4 +28,9 @@ Quelques exemples de scores obtenus :
 - baseline mot #Euro2016 : 0.0525807619907
 - baseline quarante mots les plus fréquents : 0.228415901191
 
+Calculer une similarité :
 
+```
+gensimtext = gensim.models.doc2vec.LabeledSentence(text.split(' '), tags=[u'SENT'])
+vectors = euromodel.infer_vector(gensimtext.words)
+````
