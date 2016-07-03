@@ -28,9 +28,12 @@ Quelques exemples de scores obtenus :
 - baseline mot #Euro2016 : 0.0525807619907
 - baseline quarante mots les plus fréquents : 0.228415901191
 
-Calculer une similarité :
+Calculer une similarité entre deux tweets `text1` et `text2` :
 
 ```
-gensimtext = gensim.models.doc2vec.LabeledSentence(text.split(' '), tags=[u'SENT'])
-vectors = euromodel.infer_vector(gensimtext.words)
+gensimtext1 = gensim.models.doc2vec.LabeledSentence(text1.split(' '), tags=[u'SENT'])
+vecs1 = euromodel.infer_vector(gensimtext.words)
+gensimtext2 = gensim.models.doc2vec.LabeledSentence(text2.split(' '), tags=[u'SENT'])
+vecs2 = euromodel.infer_vector(gensimtext.words)
+sim = 1 - scipy.spatial.distance.cosine(mediavecs[i], uservec)
 ````
