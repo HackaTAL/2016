@@ -63,7 +63,7 @@ class Event(object):
    def __eq__(self, other):
       '''
       Test if the current event is equal to another event
-      2 levels of strictness are implemented: 0=strict, 1=loose
+      3 levels of strictness are implemented: 2=strict, 1=intermediate, 0=loose
       '''
       isEqual = (self.teams == other.teams
                  and self.date == other.date
@@ -118,19 +118,20 @@ def main(opts, args):
    gold_events = parse_event_file(args[0])
    pred_events = parse_event_file(args[1])
    
-   return (('', 'Strict',) + evaluate(gold_events, pred_events, 2),
-          (opts.system_name, 'Intermediate',) + evaluate(gold_events, pred_events, 1),
-          ('', 'Loose',) + evaluate(gold_events, pred_events, 0))
+   return (('', '', 'strict',) + evaluate(gold_events, pred_events, 2),
+          (opts.team_name, opts.system_name, 'intermediate',) + evaluate(gold_events, pred_events, 1),
+          ('', '', 'loose',) + evaluate(gold_events, pred_events, 0))
    
 
 if __name__ == "__main__":
    parser = OptionParser('''%prog gold prediction''')
    parser.add_option('-s', '--system', dest='system_name', default='Default')
+   parser.add_option('-t', '--team', dest='team_name', default='Default')
    opts, args = parser.parse_args()
    if len(args) < 2:
       parser.print_usage()
       sys.exit(1)
    
    scores = main(opts, args)
-   print tabulate(scores, ('System', 'Evaluation', 'Precision', 'Recall', 'F1-measure'))
+   print tabulate(scores, ('Team', 'System', 'Evaluation', 'Precision', 'Recall', 'F1-measure'))
    
