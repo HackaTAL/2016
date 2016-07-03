@@ -1,5 +1,5 @@
 # Évaluation des fils de tweets
-------------------------------------------
+-------------------------------
 
 ## Génération d'un fil
 
@@ -24,9 +24,10 @@ python evalfil.py -g train_euro2016.gensim -m ../../Tweets/Medias/all.json -u te
 
 Quelques exemples de scores obtenus :
 
-- baseline mot football : 0.0525807619907
-- baseline mot #Euro2016 : 0.0525807619907
-- baseline quarante mots les plus fréquents : 0.228415901191
+- baseline mot `football` : 0.0126079393588
+- baseline mot `#Euro2016` : 0.0475917355543
+- baseline mot `but de Grizmann` : 0.0529436404094
+- baseline quarante mots les plus fréquents : 0.30226652015
 
 Calculer une similarité entre deux tweets `text1` et `text2` :
 
