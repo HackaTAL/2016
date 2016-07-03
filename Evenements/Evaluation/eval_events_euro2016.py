@@ -33,7 +33,7 @@ class Event(object):
    
    def __init__(self, text):
       try:
-         fields = re.split('\t+', text.rstrip())
+         fields = re.split('\t+', text.strip())
          self.teams = set([fields[0], fields[1]])
          self.date = datetime.strptime(fields[2], "%Y-%m-%d")
          self.time = datetime.strptime(fields[3], "%H:%M:%S")
