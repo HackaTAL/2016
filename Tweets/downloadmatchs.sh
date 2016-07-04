@@ -10,21 +10,24 @@ tar -xvzf Matchs/eval_euro2016.tgz -C Matchs
 echo "Récupération des résumés"
 cp $(find Matchs -name *.tsv) ../Evenements/Resumes/
 
-echo "Extract tweets IDs and text"
+echo "Extract des tweets à partir des IDs"
+for ids in $(find Matchs -name *.json); do
+	idsbn=$(basename $ids .ids)
+	idsdn=$(dirname $ids)
+	echo "Extract tweet $ids"
+	# ...
+done
+
+echo "Extract tweets text"
 for json in $(find Matchs -name *.json); do
 	jsonbn=$(basename $json .json)
 	jsondn=$(dirname $json)
-	echo "Extract ids and text from $jsonbn"
-	jq -r '.id_str' $json > $jsondn/$jsonbn.ids
+	echo "Extract text from $jsonbn"
 	jq -r '.text' $json > $jsondn/$jsonbn.txt
 done
 
 echo "Fichier contenant tous les textes des tweets"
 cat $(find Matchs -name *.txt) > Matchs/all.txt
-
-echo "Récupération des textes bruts"
-wget -c -N -P Matchs http://helium.lab.parisdescartes.fr:2232/tweets/train_euro2016.txt.tgz
-tar -xvzf Matchs/train_euro2016.txt.tgz -C Matchs
 
 echo "Téléchargement des fichiers gensim"
 wget -c -N -P ../Evenements/Fils http://helium.lab.parisdescartes.fr:2232/tweets/gensim-models/train_euro2016.gensim.tgz
