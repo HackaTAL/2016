@@ -1,32 +1,31 @@
 #!/bin/bash
 
-echo "Téléchargement des matchs"
+echo "Téléchargement des ids de tweets pour les matchs"
 mkdir -p Matchs
-wget -c -N -P Matchs http://helium.lab.parisdescartes.fr:2232/tweets/train_euro2016.tgz
+wget -c -N -P Matchs http://helium.lab.parisdescartes.fr:2232/tweets/train_euro2016.ids.tgz
 tar -xvzf Matchs/train_euro2016.tgz -C Matchs
-wget -c -N -P Matchs http://helium.lab.parisdescartes.fr:2232/tweets/eval_euro2016.tgz
-tar -xvzf Matchs/eval_euro2016.tgz -C Matchs
+wget -c -N -P Matchs http://helium.lab.parisdescartes.fr:2232/tweets/eval_euro2016.ids.tgz
+tar -xvzf Matchs/eval_euro2016.ids.tgz -C Matchs
 
 echo "Récupération des résumés"
 cp $(find Matchs -name *.tsv) ../Evenements/Resumes/
 
-echo "Extract des tweets à partir des IDs"
-for ids in $(find Matchs -name *.json); do
-	idsbn=$(basename $ids .ids)
-	idsdn=$(dirname $ids)
-	echo "Extract tweet $ids"
-	# ...
+echo "Récupération des tweets à partir des IDs (ceci peut-être très long)"
+for f in $(find Matchs/*/* -name *.ids); do
+	fn=$(echo $f | sed 's/.ids$/.json/')
+	echo "- $fn"
+	python Retriever/retrieveids.py -i $f -o $fn > /dev/null
 done
 
-echo "Extract tweets text"
+echo "Extraction des textes depuis le json"
 for json in $(find Matchs -name *.json); do
 	jsonbn=$(basename $json .json)
 	jsondn=$(dirname $json)
-	echo "Extract text from $jsonbn"
+	echo "- $jsonbn"
 	jq -r '.text' $json > $jsondn/$jsonbn.txt
 done
 
-echo "Fichier contenant tous les textes des tweets"
+echo "Création d'un fichier contenant tous les textes"
 cat $(find Matchs -name *.txt) > Matchs/all.txt
 
 echo "Téléchargement des fichiers gensim"
