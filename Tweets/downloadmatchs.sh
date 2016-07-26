@@ -3,7 +3,7 @@
 echo "Téléchargement des ids de tweets pour les matchs"
 mkdir -p Matchs
 wget -c -N -P Matchs http://helium.lab.parisdescartes.fr:2232/tweets/train_euro2016.ids.tgz
-tar -xvzf Matchs/train_euro2016.tgz -C Matchs
+tar -xvzf Matchs/train_euro2016.ids.tgz -C Matchs
 wget -c -N -P Matchs http://helium.lab.parisdescartes.fr:2232/tweets/eval_euro2016.ids.tgz
 tar -xvzf Matchs/eval_euro2016.ids.tgz -C Matchs
 

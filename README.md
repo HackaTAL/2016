@@ -68,7 +68,7 @@ Développer un assistant dialogique répondant à des requêtes en langue nature
 - [Architecture de base pour faire un bot Slack avec Ruby](https://github.com/HackaTAL/2016/tree/master/ChatBots/rubot-slack)
 - [Interface web simple en JS (chat et chargeur d'images/video)](https://github.com/HackaTAL/bot-web-chat/tree/6be6d51cc301059613fe934a6748c2564d11520d)
 
-### Téléchargement des logiciels et données
+### Logiciels et données
 
 ```
 git clone --recursive https://github.com/HackaTAL/2016.git  HackaTAL2016
