@@ -14,7 +14,7 @@ echo "Récupération des tweets à partir des IDs (ceci peut-être très long)"
 for f in $(find Matchs/*/* -name *.ids); do
 	fn=$(echo $f | sed 's/.ids$/.json/')
 	echo "- $fn"
-	python Retriever/retrieveids.py -i $f -o $fn > /dev/null
+	python Retriever/retrieveids.py -i $f -o $fn
 done
 
 echo "Extraction des textes depuis le json"
