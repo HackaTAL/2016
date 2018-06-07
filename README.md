@@ -21,7 +21,8 @@ Site web : http://hackatal.github.io/2016
 Dates : 2-3-4 juillet 2016  
 Lieu : [Google Paris, 8 rue de Londres, Paris 9ème](https://goo.gl/maps/yPgc5XcT5B92)  
 Les inscriptions sont terminées...  
-Repas (samedi soir, dimanche midi) et boissons (bières, pauses cafés, jus, etc) fournis
+Repas (samedi soir, dimanche midi) et boissons (bières, pauses cafés, jus, etc) fournis  
+Fil twitter : https://twitter.com/hashtag/hackatal2016
 
 ### Description
 
